@@ -1,0 +1,2160 @@
+INFO	[2015-09-04 04:58:45:213] <3283> START INIPHP chkfake (V5036-141209)(OS:Linux3.14.44-32.39.amzn1.x86_64,PHP:5.3.29)
+DEBUG	[2015-09-04 04:58:45:213] <3283> inipayhome:/var/www/html/nsale/shop/inicis
+DEBUG	[2015-09-04 04:58:45:213] <3283> debug:false
+DEBUG	[2015-09-04 04:58:45:213] <3283> type:chkfake
+DEBUG	[2015-09-04 04:58:45:213] <3283> enctype:asym
+DEBUG	[2015-09-04 04:58:45:213] <3283> admin:1111
+DEBUG	[2015-09-04 04:58:45:213] <3283> checkopt:false
+DEBUG	[2015-09-04 04:58:45:213] <3283> mid:nsalecokr0
+DEBUG	[2015-09-04 04:58:45:213] <3283> price:19800
+DEBUG	[2015-09-04 04:58:45:213] <3283> nointerest:no
+DEBUG	[2015-09-04 04:58:45:213] <3283> quotabase:선택:일시불:2개월:3개월:4개월:5개월:6개월:7개월:8개월:9개월:10개월:11개월:12개월
+INFO	[2015-09-04 04:58:45:213] <3283> Check Field OK
+INFO	[2015-09-04 04:58:45:213] <3283> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-09-04 04:58:45:213] <3283> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-09-04 04:58:45:214] <3283> CHKFAKE KEY MAKE OK:MjAxNTA5MDQwNDU4NDUyMTM2ODg1NA==
+
+INFO	[2015-09-04 04:58:45:214] <3283> END chkfake  Laptime:[0.001sec]
+INFO	[2015-09-04 04:58:45:214] <3283> ===============================================================
+INFO	[2015-09-04 04:58:45:412] <3281> START INIPHP securepay (V5036-141209)(OS:Linux3.14.44-32.39.amzn1.x86_64,PHP:5.3.29)
+DEBUG	[2015-09-04 04:58:45:412] <3281> inipayhome:/var/www/html/nsale/shop/inicis
+DEBUG	[2015-09-04 04:58:45:412] <3281> debug:false
+DEBUG	[2015-09-04 04:58:45:412] <3281> type:securepay
+DEBUG	[2015-09-04 04:58:45:412] <3281> pgid:INIphp
+DEBUG	[2015-09-04 04:58:45:412] <3281> subpgip:203.238.3.10
+DEBUG	[2015-09-04 04:58:45:412] <3281> admin:1111
+DEBUG	[2015-09-04 04:58:45:412] <3281> uid:
+DEBUG	[2015-09-04 04:58:45:412] <3281> goodname:야무진 고무장갑 8종세트
+DEBUG	[2015-09-04 04:58:45:412] <3281> currency:WON
+DEBUG	[2015-09-04 04:58:45:412] <3281> mid:nsalecokr0
+DEBUG	[2015-09-04 04:58:45:412] <3281> rn:MjAxNTA5MDQwNDU4NDUyMTM2ODg1NA==
+
+DEBUG	[2015-09-04 04:58:45:412] <3281> price:19800
+DEBUG	[2015-09-04 04:58:45:412] <3281> enctype:
+DEBUG	[2015-09-04 04:58:45:412] <3281> buyername:최고관리자
+DEBUG	[2015-09-04 04:58:45:412] <3281> buyertel:01099406467
+DEBUG	[2015-09-04 04:58:45:412] <3281> buyeremail:ilse090@nate.com
+DEBUG	[2015-09-04 04:58:45:412] <3281> paymethod:
+DEBUG	[2015-09-04 04:58:45:412] <3281> encrypted:
+DEBUG	[2015-09-04 04:58:45:412] <3281> sessionkey:
+DEBUG	[2015-09-04 04:58:45:412] <3281> url:http://52.68.39.67
+DEBUG	[2015-09-04 04:58:45:412] <3281> cardcode:
+DEBUG	[2015-09-04 04:58:45:412] <3281> parentemail:
+DEBUG	[2015-09-04 04:58:45:412] <3281> recvname:최고관리자
+DEBUG	[2015-09-04 04:58:45:412] <3281> recvtel:01099406467
+DEBUG	[2015-09-04 04:58:45:412] <3281> recvaddr:서울 강동구 둔촌동 218 
+DEBUG	[2015-09-04 04:58:45:412] <3281> recvpostnum:134823
+DEBUG	[2015-09-04 04:58:45:412] <3281> recvmsg:
+DEBUG	[2015-09-04 04:58:45:412] <3281> joincard:
+DEBUG	[2015-09-04 04:58:45:412] <3281> joinexpire:
+DEBUG	[2015-09-04 04:58:45:412] <3281> id_customer:
+ERROR	[2015-09-04 04:58:45:562] <3281> 필수항목(paymethod)이 누락되었습니다.
+INFO	[2015-09-04 04:58:45:562] <3281> END securepay [TX9225|필수항목(paymethod)이 누락되었습니다.] Laptime:[0.15sec]
+INFO	[2015-09-04 04:58:45:562] <3281> ===============================================================
+INFO	[2015-09-04 04:59:13:23] <3277> START INIPHP chkfake (V5036-141209)(OS:Linux3.14.44-32.39.amzn1.x86_64,PHP:5.3.29)
+DEBUG	[2015-09-04 04:59:13:24] <3277> inipayhome:/var/www/html/nsale/shop/inicis
+DEBUG	[2015-09-04 04:59:13:24] <3277> debug:false
+DEBUG	[2015-09-04 04:59:13:24] <3277> type:chkfake
+DEBUG	[2015-09-04 04:59:13:24] <3277> enctype:asym
+DEBUG	[2015-09-04 04:59:13:24] <3277> admin:1111
+DEBUG	[2015-09-04 04:59:13:24] <3277> checkopt:false
+DEBUG	[2015-09-04 04:59:13:24] <3277> mid:nsalecokr0
+DEBUG	[2015-09-04 04:59:13:24] <3277> price:19800
+DEBUG	[2015-09-04 04:59:13:24] <3277> nointerest:no
+DEBUG	[2015-09-04 04:59:13:24] <3277> quotabase:선택:일시불:2개월:3개월:4개월:5개월:6개월:7개월:8개월:9개월:10개월:11개월:12개월
+INFO	[2015-09-04 04:59:13:24] <3277> Check Field OK
+INFO	[2015-09-04 04:59:13:24] <3277> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-09-04 04:59:13:24] <3277> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-09-04 04:59:13:25] <3277> CHKFAKE KEY MAKE OK:MjAxNTA5MDQwNDU5MTMwMjQzMjc1Mg==
+
+INFO	[2015-09-04 04:59:13:25] <3277> END chkfake  Laptime:[0.001sec]
+INFO	[2015-09-04 04:59:13:25] <3277> ===============================================================
+INFO	[2015-09-04 05:00:24:761] <3277> START INIPHP securepay (V5036-141209)(OS:Linux3.14.44-32.39.amzn1.x86_64,PHP:5.3.29)
+DEBUG	[2015-09-04 05:00:24:761] <3277> inipayhome:/var/www/html/nsale/shop/inicis
+DEBUG	[2015-09-04 05:00:24:761] <3277> debug:false
+DEBUG	[2015-09-04 05:00:24:761] <3277> type:securepay
+DEBUG	[2015-09-04 05:00:24:761] <3277> pgid:INIphpISP_
+DEBUG	[2015-09-04 05:00:24:761] <3277> subpgip:203.238.3.10
+DEBUG	[2015-09-04 05:00:24:761] <3277> admin:1111
+DEBUG	[2015-09-04 05:00:24:761] <3277> uid:
+DEBUG	[2015-09-04 05:00:24:761] <3277> goodname:야무진 고무장갑 8종세트
+DEBUG	[2015-09-04 05:00:24:761] <3277> currency:WON
+DEBUG	[2015-09-04 05:00:24:761] <3277> mid:nsalecokr0
+DEBUG	[2015-09-04 05:00:24:761] <3277> rn:MjAxNTA5MDQwNDU5MTMwMjQzMjc1Mg==
+
+DEBUG	[2015-09-04 05:00:24:761] <3277> price:19800
+DEBUG	[2015-09-04 05:00:24:761] <3277> enctype:
+DEBUG	[2015-09-04 05:00:24:761] <3277> buyername:최고관리자
+DEBUG	[2015-09-04 05:00:24:761] <3277> buyertel:01099406467
+DEBUG	[2015-09-04 05:00:24:761] <3277> buyeremail:ilse090@nate.com
+DEBUG	[2015-09-04 05:00:24:761] <3277> paymethod:VCard
+DEBUG	[2015-09-04 05:00:24:761] <3277> encrypted:Version=4.1&PayMethod=VCard&RsaKeyNum=1&EncryptionAlgorithm=NONE&SignAlgorithm=SHA1WithRSAEncryption&CertVer=39&moid=2015090404585475&ver_trace=main(6097,6059)vcard(6092)card(6140,6123)n(6009)Cs(6025)Dt(6002)Pa(6002)Cf(6024)Fv(0000)La(6155)Re(6105)Vr(6007)P(6034)en(6053)&pg1=211.219.96.180&pg2=203.238.37.3&pg1ip=211.219.96.180&pg2ip=203.238.37.3&agreeflag=1111&rn=3/jEtW4vAEtd+gyP2+MLQpG7tq1zsgaU62QAMbakizo=
+&VCode=050204040016646&VQuota=00&VNoint=0&ip=192.168.0.44&mac=D050991DD609&cardpoint=9&custemail=ilse090@nate.com&price=4uDsrkVGcEcojm3e9sgrB7OBpLxSv2re
+&below1000=0&encisp=0&pgnoint=0&VKBPoint=&VSessionKey=D9ilI8XIXIw03fP4vaBi5Ce8F7cpxIaTZJlmHK0fo8I%2f4Xf8XCz0YYEJ8UE0u0uWBdzcu5anJ7XimabhCzo4RmkzZnCSoXna5TLbom07rUcrxixMI2GHzdWjpvyOjMk9e6FTTBT0%2bgO3riQeol73qpCrWN3kCEFaUqRsu%2blt36U%3d&Data=cdata%3dHGhIaA4uw13luScMdSC%2bZ1AbnPLcb0ZjNaOkDkUCGaGvgBhaw15xk6F%2bqxYNjRWxb3uWP7dTN%2bOCgUR%2bSXtWRDV4gI44lGZFp29Exwa1BDNe1AB05rvUcvEs1IPNcByp88IkJidGMIPmSTr4JQr3gVvr%2byWR41p5pyaMsxjlXkGXwvl%2bX3DHbXM59enKOug60zDRR2TE5Ml7Zx2EVCird9WeYUg8NB5ipptx5pD5eyt5Ggs3K4NXiHL6cdpSQM%2bqsT0wbff3Uz69BQmaPeIBbaX%2bwmu8YMKj2%2fLj5eXV92E1GKerdturCA2WJyGZ2u4Y4NgUwjVlqYNw46NQMr0p43AmIubn6DHmHEL0QYu2TcWT%2fCG7Tb0e5i8HMDSBtS2sqUDhQJqPv9qv6jDzYQlEWpNNFMmP1eeTuUmMF%2brhtMSntUVhzDErI9FOEv0KBT1NfNH9DfHYbQt4Gr73J%2fVuHsP6KzLBoSO%2b24AhLOKfNvHDS6xut7XeNDbhv1IO0SKf&ts=15090405002782pjfywVsQMSGU9vtNXyaQ009527&src_flg=0&OSv=chrome_Win7 6.01.7601 SP1 Professional_64B (CDN) (notray:J) [nsalecokr0] (61_secuni_npapi)&ip2=221.143.1.90
+DEBUG	[2015-09-04 05:00:24:761] <3277> sessionkey:VCard
+DEBUG	[2015-09-04 05:00:24:761] <3277> url:http://52.68.39.67
+DEBUG	[2015-09-04 05:00:24:761] <3277> cardcode:06
+DEBUG	[2015-09-04 05:00:24:761] <3277> parentemail:
+DEBUG	[2015-09-04 05:00:24:761] <3277> recvname:최고관리자
+DEBUG	[2015-09-04 05:00:24:761] <3277> recvtel:01099406467
+DEBUG	[2015-09-04 05:00:24:761] <3277> recvaddr:서울 강동구 둔촌동 218 
+DEBUG	[2015-09-04 05:00:24:761] <3277> recvpostnum:134823
+DEBUG	[2015-09-04 05:00:24:761] <3277> recvmsg:
+DEBUG	[2015-09-04 05:00:24:761] <3277> joincard:
+DEBUG	[2015-09-04 05:00:24:761] <3277> joinexpire:
+DEBUG	[2015-09-04 05:00:24:761] <3277> id_customer:
+INFO	[2015-09-04 05:00:24:761] <3277> Check Field OK
+INFO	[2015-09-04 05:00:24:761] <3277> Make TID OK INIphpISP_nsalecokr020150904050024614089
+INFO	[2015-09-04 05:00:24:762] <3277> PI PUB KEY LOAD OK [39]
+INFO	[2015-09-04 05:00:24:762] <3277> PG PUB KEY LOAD OK [30]
+INFO	[2015-09-04 05:00:24:762] <3277> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-09-04 05:00:24:762] <3277> MERCHANT PUB KEY LOAD OK [0]
+INFO	[2015-09-04 05:00:24:763] <3277> MAKE BODY OK
+INFO	[2015-09-04 05:00:24:764] <3277> SIGN OK
+INFO	[2015-09-04 05:00:24:764] <3277> MAKE HEAD OK
+INFO	[2015-09-04 05:00:24:764] <3277> MSG_TO_PG:[0329100175R SHA1                   0                  39                  300200nsalecokr0               19800INIphpISP_nsalecokr020150904050024614089<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+	  <GoodsInfo>
+	    <GoodsCnt>1</GoodsCnt>
+	    <MOID/>
+	    <Currency>WON</Currency>
+	    <Tax/>
+	    <TaxFree/>
+	    <Goods>
+	      <SMID>nsalecokr0</SMID>
+	      <GoodsName urlencode="1">%BE%DF%B9%AB%C1%F8+%B0%ED%B9%AB%C0%E5%B0%A9+8%C1%BE%BC%BC%C6%AE</GoodsName>
+	      <GoodsPrice>19800</GoodsPrice></Goods></GoodsInfo>
+	  <BuyerInfo>
+	    <BuyerName urlencode="1">%C3%D6%B0%ED%B0%FC%B8%AE%C0%DA</BuyerName>
+	    <BuyerTel>01099406467</BuyerTel>
+	    <BuyerEmail urlencode="1">ilse090%40nate.com</BuyerEmail>
+	    <ParentEmail/>
+	    <RecvName urlencode="1">%C3%D6%B0%ED%B0%FC%B8%AE%C0%DA</RecvName>
+	    <RecvTel urlencode="1">01099406467</RecvTel>
+	    <RecvMsg/>
+	    <RecvAddr urlencode="1">%BC%AD%BF%EF+%B0%AD%B5%BF%B1%B8+%B5%D0%C3%CC%B5%BF+218+</RecvAddr>
+	    <RecvPostNum urlencode="1">134823</RecvPostNum></BuyerInfo>
+	  <PaymentInfo>
+	    <Payment>
+	      <PayMethod>VCard</PayMethod>
+	      <JoinCard/>
+	      <JoinExpire/>
+	      <MailOrder/>
+	      <SessionKey>VCard</SessionKey>
+	      <Encrypted urlencode="1">Version%3D4.1%26PayMethod%3DVCard%26RsaKeyNum%3D1%26EncryptionAlgorithm%3DNONE%26SignAlgorithm%3DSHA1WithRSAEncryption%26CertVer%3D39%26moid%3D2015090404585475%26ver_trace%3Dmain%286097%2C6059%29vcard%286092%29card%286140%2C6123%29n%286009%29Cs%286025%29Dt%286002%29Pa%286002%29Cf%286024%29Fv%280000%29La%286155%29Re%286105%29Vr%286007%29P%286034%29en%286053%29%26pg1%3D211.219.96.180%26pg2%3D203.238.37.3%26pg1ip%3D211.219.96.180%26pg2ip%3D203.238.37.3%26agreeflag%3D1111%26rn%3D3%2FjEtW4vAEtd%2BgyP2%2BMLQpG7tq1zsgaU62QAMbakizo%3D%0D%0A%26VCode%3D050204040016646%26VQuota%3D00%26VNoint%3D0%26ip%3D192.168.0.44%26mac%3DD050991DD609%26cardpoint%3D9%26custemail%3Dilse090%40nate.com%26price%3D4uDsrkVGcEcojm3e9sgrB7OBpLxSv2re%0D%0A%26below1000%3D0%26encisp%3D0%26pgnoint%3D0%26VKBPoint%3D%26VSessionKey%3DD9ilI8XIXIw03fP4vaBi5Ce8F7cpxIaTZJlmHK0fo8I%252f4Xf8XCz0YYEJ8UE0u0uWBdzcu5anJ7XimabhCzo4RmkzZnCSoXna5TLbom07rUcrxixMI2GHzdWjpvyOjMk9e6FTTBT0%252bgO3riQeol73qpCrWN3kCEFaUqRsu%252blt36U%253d%26Data%3Dcdata%253dHGhIaA4uw13luScMdSC%252bZ1AbnPLcb0ZjNaOkDkUCGaGvgBhaw15xk6F%252bqxYNjRWxb3uWP7dTN%252bOCgUR%252bSXtWRDV4gI44lGZFp29Exwa1BDNe1AB05rvUcvEs1IPNcByp88IkJidGMIPmSTr4JQr3gVvr%252byWR41p5pyaMsxjlXkGXwvl%252bX3DHbXM59enKOug60zDRR2TE5Ml7Zx2EVCird9WeYUg8NB5ipptx5pD5eyt5Ggs3K4NXiHL6cdpSQM%252bqsT0wbff3Uz69BQmaPeIBbaX%252bwmu8YMKj2%252fLj5eXV92E1GKerdturCA2WJyGZ2u4Y4NgUwjVlqYNw46NQMr0p43AmIubn6DHmHEL0QYu2TcWT%252fCG7Tb0e5i8HMDSBtS2sqUDhQJqPv9qv6jDzYQlEWpNNFMmP1eeTuUmMF%252brhtMSntUVhzDErI9FOEv0KBT1NfNH9DfHYbQt4Gr73J%252fVuHsP6KzLBoSO%252b24AhLOKfNvHDS6xut7XeNDbhv1IO0SKf%26ts%3D15090405002782pjfywVsQMSGU9vtNXyaQ009527%26src_flg%3D0%26OSv%3Dchrome_Win7+6.01.7601+SP1+Professional_64B+%28CDN%29+%28notray%3AJ%29+%5Bnsalecokr0%5D+%2861_secuni_npapi%29%26ip2%3D221.143.1.90</Encrypted></Payment></PaymentInfo>
+	  <ReservedInfo>
+	    <MReserved1/>
+	    <MReserved2/>
+	    <MReserved3/></ReservedInfo>
+	  <ManageInfo>
+	    <Language/>
+	    <URL urlencode="1">http%3A%2F%2F52.68.39.67</URL>
+	    <TXVersion>5036B141209securLinux     PHPchkfake   3.14.44-32.39.amzn1.x86_64PHP:</TXVersion>
+	    <TXUserID/>
+	    <TXRegNum/>
+	    <Ack>1</Ack>
+	    <TXRN>MjAxNTA5MDQwNDU5MTMwMjQzMjc1Mg==
+</TXRN></ManageInfo></INIpay>ARWqqhpULwDiGtmrxUSyBJSwu46DbuxhmRIUDSHsvYqd9SAwHm9HMsmt5zJZ70ar
+QZaXd0Jg3Q5sSBAfyUHgbx8dYsQnGaLTDCPjmokGe9nJuU9LeB+uGp9DxnTRFDj2
+l3dxy/X5qqvfVYEc+BzsjRvXsiMLkP2CyJpsJNAPIxIf
+]
+INFO	[2015-09-04 05:00:24:764] <3277> DNS LOOKUP OK(211.219.96.180:211.219.96.180:34049) laptime:0
+INFO	[2015-09-04 05:00:24:799] <3277> SOCKET CONNECT OK
+INFO	[2015-09-04 05:00:24:799] <3277> SEND OK
+INFO	[2015-09-04 05:00:26:128] <3277> RECV OK
+INFO	[2015-09-04 05:00:26:128] <3277> MSG_FROM_PG:[0282300175D SHA1                   0                  39                  300210nsalecokr0               19800INIphpISP_nsalecokr020150904050024614089<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+  <GoodsInfo>
+    <GoodsCnt>1</GoodsCnt>
+    <MOID urlencode="1">2015090404585475</MOID>
+    <Currency>WON</Currency>
+    <Goods no="1">
+      <SMID>nsalecokr0</SMID>
+      <GoodsName urlencode="1">%BE%DF%B9%AB%C1%F8+%B0%ED%B9%AB%C0%E5%B0%A9+8%C1%BE%BC%BC%C6%AE</GoodsName>
+      <GoodsCntS>1</GoodsCntS>
+      <GoodsPrice>19800</GoodsPrice>
+    </Goods>
+  </GoodsInfo>
+  <PaymentInfo>
+    <Payment>
+      <SessionKey>AGrhbPfYrlZsbQIAu5JMYHoGoMf2Xu7XRJDMUvN62krYFMF9br8DU2R1BwhEY97v
+8VMyGfU57jgh27yVGevBer5iLpDE2FJV7Cp/FlkTpzvy/f2CUF9GC+ziKHtnpKHH
+P7j1fZY4xT451v5BLR0fxwdyckUUcjH+233aPVMkmqiP8YYe+A0XJes=
+</SessionKey>
+      <Encrypted>mmMQWOFJDbHFVZs6D76Jccq2LJ1TeyKOXm0FRANitpOqoqSqJybKk2cbp7UXPVHG
+H197UI+jskYpkDOhgnl+O7TAEcKPe6e4ZtZzN1fBvh9Dt+WZEByDdnn5Hfwta40v
+ALiOuFNJrWo/Dx+EbbuwH93wk4RwY3lwuHEwntMLQVMSr1V3Z3TsA1RoV0QVXPXx
+dY6Y/xZqmzKUNhtORtmk0wUhzDCMkWufTXShJUmCpVuwSHM7cqLYgoZiNqU5lrwQ
+IZbcSn6X2g/mKhHaEhh3Gh4m5EV/6oayoePxhNMxeBwaB7aBLyoHqSpTUTK2KFmb
+UDSnY4WaYnK1Wf6mktJVuQeuUVfcWQ0ehr6dl73F11hkEnQCHsv5iZAgOVaxfi96
+ljJ9qrgZIiUPQoSSiq9ZlVljF0sLKtDFQx2gyP9RvTa4Xotm6B2rAkvbKCSHGYvT
+FrgHdpKTrySFwhQSX3C1zNRLLnPcAbWD1iIhDM3uG+pqv32y6lxqC/G7PTNgncXI
+AwsOuDow8/Py1leJXsTIqY4giNcnqFdotbq+7St9aM1GjoFfjUDmgtOCQtbPBHXC
+dPoFE4SnRHHNICpGCZHY2GSj6tYMqXLCFpuITraefmA1J+1tYtL1oW2WPe677AhZ
+AMsqVgCmorG68fuM7PPZiDd21RT/LF7aMTKSBhvsFl3NTahM4OS98mLb/gyJVu6N
+DXTTjcZpkzsBFReHNTEjWn0XhBbFOTsVV1rcpDHlad7pqzJ8k5pRsoyhVTD8BUNY
+OjN7bmKQBN1uwIQnAKfFkAUX42+ZxzZJS6BEpLQRs37/qGpLX+Gf/38stsMLhvfp
+Z11lFyPoP+nv3W04zskKIfhojUpPIxHlFzlmCZd909I5mDsOKmDhP9rFTvJltocl
+8ukXdtIQs7meTn8o2Sd0tk9etmkNEjCP/kJoxwSrdZyeXWdaK/nWLsNLy2C3b7PT
+5wCehfNkSc3yqbKvpxIPeEDQCtnWlTVbHqk6P2GsOecsSpn6ROVlGxZ4f+XVFBhW
++XKOgDgIrKlIl9F2kwxbgmejTNOuA1mudfpCfr0QLAYuH90dJ6mSpoOedpy7LOse
+j3/Tw6NoF3FeUwMOLSMIYopXD534983n1IdLbGCAS9hRfdAHNnaIgGcAs6ifRU4b
+aXsxh8T5PjRy+H0DYU7oss9jATWJfppwsKJolbBY69a6XZ1uPNTVF5UMU4y3iudQ
+xDqv2Mz3r/YNDmoLpmcd76OmksKBda97SVCAx2VxncnFsp+ppnqDDTrlO2ohIjFi
+eDz11A8p2RWEA+6IsfkTbizOKyLKuosK6RYBy1X0977VOjHs2hsvJSFyRWyayllZ
+Nrv5B4APDwq47bNc2CsLPjszde7yqmsvZmD4ao2kBKy08L8cl2WlOZ72YuDu8sbK
+mHQ/WI8GQidRtNsDGhigevoBtgLVtwNT9DA74QeeQqKEKsipRSznhA==
+</Encrypted>
+      <PayMethod>VCard</PayMethod>
+      <ResultCode>170000</ResultCode>
+      <ResultMsg urlencode="1">%C1%A4%BB%F3%BF%CF%B7%E1</ResultMsg>
+    </Payment>
+  </PaymentInfo>
+  <ManageInfo>
+    <EventCode></EventCode>
+    <OrgCurrency></OrgCurrency>
+    <ExchangeRate></ExchangeRate>
+    <OrgPrice></OrgPrice>
+  </ManageInfo>
+  <ReservedInfo>
+    <MReserved1 urlencode="1"></MReserved1>
+    <MReserved2 urlencode="1"></MReserved2>
+    <MReserved3 urlencode="1"></MReserved3>
+    <PGReserved1 urlencode="1"></PGReserved1>
+    <PGReserved2 urlencode="1"></PGReserved2>
+    <PGReserved3 urlencode="1"></PGReserved3>
+  </ReservedInfo>
+</INIpay>
+SDQNU95M21HxUW8YuQzyWaeLG5swfMPyXYMS4lOsjTeUsdmM9jZfF8UjJ9VWhDY0
+G6BrKXq1rFoRmeH4blJdghXGD1+CNsYCFsFjr4epspv5fjvdEaMK+M63Owo7GWxZ
+EXoma3mxeeeW9UTIFQ4SPMpyJQZNDwgoK/18gQAZHT4=
+]
+INFO	[2015-09-04 05:00:26:128] <3277> VERIFY OK
+INFO	[2015-09-04 05:00:26:128] <3277> PARSE HEAD OK
+INFO	[2015-09-04 05:00:26:129] <3277> PARSE BODY OK
+INFO	[2015-09-04 05:00:26:130] <3277> DECRYPT OK
+DEBUG	[2015-09-04 05:00:26:130] <3277> DECRYPT MSG:[<?xml version="1.0" encoding="UTF-8"?>
+<PaymentInfo>
+  <Payment>
+    <EASYPAY/>
+    <VCard>
+      <ISP_ApplPrice>19800</ISP_ApplPrice>
+      <ISP_BankCode>04</ISP_BankCode>
+      <ISP_Quota>00</ISP_Quota>
+      <ISP_Interest>0</ISP_Interest>
+      <ISP_CardCode>06</ISP_CardCode>
+      <ISP_CardNum>50212310****</ISP_CardNum>
+      <ISP_Point></ISP_Point>
+      <ISP_ApplDate>20150904</ISP_ApplDate>
+      <ISP_ApplTime>050024</ISP_ApplTime>
+      <ISP_ApplNum>30020416</ISP_ApplNum>
+      <ISP_TerminalNum>0198732000</ISP_TerminalNum>
+      <ISP_MemberNum></ISP_MemberNum>
+      <ISP_PurchaseCode></ISP_PurchaseCode>
+      <ISP_ResultCode>170000</ISP_ResultCode>
+      <ISP_ResultMsg urlencode="1">%C1%A4%BB%F3%BF%CF%B7%E1</ISP_ResultMsg>
+      <ISP_PrtcCode>1</ISP_PrtcCode>
+      <ISP_Quota_Point>00</ISP_Quota_Point>
+      <ISP_CheckFlag>1</ISP_CheckFlag>
+      <ISP_PurchaseName urlencode="1"></ISP_PurchaseName>
+      <ISP_IssuerName urlencode="1"></ISP_IssuerName>
+      <ISP_UsePoint></ISP_UsePoint>
+      <ISP_CouponOnlyMer></ISP_CouponOnlyMer>
+    </VCard>
+  </Payment>
+</PaymentInfo>]
+INFO	[2015-09-04 05:00:26:131] <3277> DECRYPT PARSE OK
+INFO	[2015-09-04 05:00:26:131] <3277> WAIT ACK INVOKING
+DEBUG	[2015-09-04 05:00:26:131] <3277> MAKE HEAD OK
+INFO	[2015-09-04 05:00:26:167] <3277> SUCCESS ACK INVOKING
+INFO	[2015-09-04 05:00:26:167] <3277> END securepay 정상완료 Laptime:[1.406sec]
+INFO	[2015-09-04 05:00:26:167] <3277> ===============================================================
+INFO	[2015-09-04 05:46:04:643] <3283> START INIPHP chkfake (V5036-141209)(OS:Linux3.14.44-32.39.amzn1.x86_64,PHP:5.3.29)
+DEBUG	[2015-09-04 05:46:04:643] <3283> inipayhome:/var/www/html/nsale/shop/inicis
+DEBUG	[2015-09-04 05:46:04:643] <3283> debug:false
+DEBUG	[2015-09-04 05:46:04:643] <3283> type:chkfake
+DEBUG	[2015-09-04 05:46:04:643] <3283> enctype:asym
+DEBUG	[2015-09-04 05:46:04:643] <3283> admin:1111
+DEBUG	[2015-09-04 05:46:04:643] <3283> checkopt:false
+DEBUG	[2015-09-04 05:46:04:643] <3283> mid:nsalecokr0
+DEBUG	[2015-09-04 05:46:04:643] <3283> price:2000
+DEBUG	[2015-09-04 05:46:04:643] <3283> nointerest:no
+DEBUG	[2015-09-04 05:46:04:643] <3283> quotabase:선택:일시불:2개월:3개월:4개월:5개월:6개월:7개월:8개월:9개월:10개월:11개월:12개월
+INFO	[2015-09-04 05:46:04:643] <3283> Check Field OK
+INFO	[2015-09-04 05:46:04:643] <3283> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-09-04 05:46:04:643] <3283> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-09-04 05:46:04:644] <3283> CHKFAKE KEY MAKE OK:MjAxNTA5MDQwNTQ2MDQ2NDM1OTM0MA==
+
+INFO	[2015-09-04 05:46:04:644] <3283> END chkfake  Laptime:[0.001sec]
+INFO	[2015-09-04 05:46:04:644] <3283> ===============================================================
+INFO	[2015-09-04 05:46:20:543] <3277> START INIPHP chkfake (V5036-141209)(OS:Linux3.14.44-32.39.amzn1.x86_64,PHP:5.3.29)
+DEBUG	[2015-09-04 05:46:20:543] <3277> inipayhome:/var/www/html/nsale/shop/inicis
+DEBUG	[2015-09-04 05:46:20:543] <3277> debug:false
+DEBUG	[2015-09-04 05:46:20:543] <3277> type:chkfake
+DEBUG	[2015-09-04 05:46:20:543] <3277> enctype:asym
+DEBUG	[2015-09-04 05:46:20:543] <3277> admin:1111
+DEBUG	[2015-09-04 05:46:20:543] <3277> checkopt:false
+DEBUG	[2015-09-04 05:46:20:543] <3277> mid:nsalecokr0
+DEBUG	[2015-09-04 05:46:20:543] <3277> price:2000
+DEBUG	[2015-09-04 05:46:20:543] <3277> nointerest:no
+DEBUG	[2015-09-04 05:46:20:543] <3277> quotabase:선택:일시불:2개월:3개월:4개월:5개월:6개월:7개월:8개월:9개월:10개월:11개월:12개월
+INFO	[2015-09-04 05:46:20:543] <3277> Check Field OK
+INFO	[2015-09-04 05:46:20:543] <3277> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-09-04 05:46:20:543] <3277> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-09-04 05:46:20:544] <3277> CHKFAKE KEY MAKE OK:MjAxNTA5MDQwNTQ2MjA1NDM4NTc1Ng==
+
+INFO	[2015-09-04 05:46:20:544] <3277> END chkfake  Laptime:[0.001sec]
+INFO	[2015-09-04 05:46:20:544] <3277> ===============================================================
+INFO	[2015-09-04 05:47:13:367] <3548> START INIPHP securepay (V5036-141209)(OS:Linux3.14.44-32.39.amzn1.x86_64,PHP:5.3.29)
+DEBUG	[2015-09-04 05:47:13:367] <3548> inipayhome:/var/www/html/nsale/shop/inicis
+DEBUG	[2015-09-04 05:47:13:367] <3548> debug:false
+DEBUG	[2015-09-04 05:47:13:367] <3548> type:securepay
+DEBUG	[2015-09-04 05:47:13:367] <3548> pgid:INIphpISP_
+DEBUG	[2015-09-04 05:47:13:367] <3548> subpgip:203.238.3.10
+DEBUG	[2015-09-04 05:47:13:367] <3548> admin:1111
+DEBUG	[2015-09-04 05:47:13:367] <3548> uid:
+DEBUG	[2015-09-04 05:47:13:367] <3548> goodname:테스트입니다
+DEBUG	[2015-09-04 05:47:13:367] <3548> currency:WON
+DEBUG	[2015-09-04 05:47:13:367] <3548> mid:nsalecokr0
+DEBUG	[2015-09-04 05:47:13:367] <3548> rn:MjAxNTA5MDQwNTQ2MjA1NDM4NTc1Ng==
+
+DEBUG	[2015-09-04 05:47:13:367] <3548> price:2000
+DEBUG	[2015-09-04 05:47:13:367] <3548> enctype:
+DEBUG	[2015-09-04 05:47:13:367] <3548> buyername:최고관리자
+DEBUG	[2015-09-04 05:47:13:367] <3548> buyertel:01099406467
+DEBUG	[2015-09-04 05:47:13:367] <3548> buyeremail:ilse090@nate.com
+DEBUG	[2015-09-04 05:47:13:367] <3548> paymethod:VCard
+DEBUG	[2015-09-04 05:47:13:367] <3548> encrypted:Version=4.1&PayMethod=VCard&RsaKeyNum=1&EncryptionAlgorithm=NONE&SignAlgorithm=SHA1WithRSAEncryption&CertVer=39&moid=2015090405454865&ver_trace=main(6097,6059)vcard(6092)card(6140,6123)n(6009)Cs(6025)Dt(6002)Pa(6002)Cf(6024)Fv(0000)La(6155)Re(6105)Vr(6007)P(6034)en(6053)&pg1=203.238.37.3&pg2=211.219.96.180&pg1ip=203.238.37.3&pg2ip=211.219.96.180&agreeflag=1111&rn=3/jEtW4vAEtd+gyP2/MPRZGFuutwnBra6FoAMbWkizo=
+&VCode=050204040016646&VQuota=00&VNoint=0&ip=192.168.0.44&mac=D050991DD609&cardpoint=9&custemail=ilse090@nate.com&price=4uDsrkVGc04gjnub+tIuGLKwnbZZ5Wc=
+&below1000=0&encisp=0&pgnoint=0&VKBPoint=&VSessionKey=Cyb5anI%2ffBU8iVfcGZYKrAFECpEngZl9KyeilBpc3gH5dawqJb8Fp5FKzA7E39NGJI0UoP8Xt6fxMRajNRfgIceCmb5OumUV8lHTYhPAs47fGwD6MxSn%2bmO85Hw7hFR8UQdRJwfeY1xmU8pm34MyiCyRwAw5Duhkzxi420xWBnU%3d&Data=cdata%3dYNGDXNwCNbkExqd%2bfHOXqPjl0F%2bTVtny9gUzOtc6XX3ffa1NiCU5mF3nFCRwnYvMzJpBQ5B9RuUO1WPZH7GG9I8xsgXTmh%2bb8bIXiba7KXXSmtz2TVcm1y%2bouhehsbJyDa5pTH5XE9SlEwxH3YfIRBa7qBS13hY8Pami76nX0vLd5qyd2Q4HRh0T0BJYnadWVCN73OiFRKF%2fprOOv8K16r68vecJRlc2cmHcEmDowNdNlLI9SGgV3ckujUpDFbjJsfwF%2fm6hy%2br%2bbA%2beeGQKan5Vmmi9Z2lxyRq55V3tQC49v8jVcAKVQvnFwUD9HGsJwCiThlgQ%2fGIQkXw55Z5D2Ed8v6pXIiSFlAeJZ6r6Wm3gumnWXtQ1afMf49kCuOMbhdPfFMVnKvrsUwRxItstBOlVQ8ARH7Rl4jBuwiYLKtu9s5E%2bdgWh%2bpra7sSh0lbflM8Tm%2fU9kBAP6vZckfuYKwzRWT6dM5LFQLuQTBHZvss%3d&ts=150904054716PG5fo3vjfjfPJNtSSUvbzg009777&src_flg=0&OSv=chrome_Win7 6.01.7601 SP1 Professional_64B (PL1) (notray:J) [nsalecokr0] (61_secuni_npapi)&ip2=221.143.1.90
+DEBUG	[2015-09-04 05:47:13:367] <3548> sessionkey:VCard
+DEBUG	[2015-09-04 05:47:13:367] <3548> url:http://52.68.39.67
+DEBUG	[2015-09-04 05:47:13:367] <3548> cardcode:06
+DEBUG	[2015-09-04 05:47:13:367] <3548> parentemail:
+DEBUG	[2015-09-04 05:47:13:367] <3548> recvname:최고관리자
+DEBUG	[2015-09-04 05:47:13:367] <3548> recvtel:01099406467
+DEBUG	[2015-09-04 05:47:13:367] <3548> recvaddr:서울 강동구 둔촌동 218 
+DEBUG	[2015-09-04 05:47:13:367] <3548> recvpostnum:134823
+DEBUG	[2015-09-04 05:47:13:367] <3548> recvmsg:
+DEBUG	[2015-09-04 05:47:13:367] <3548> joincard:
+DEBUG	[2015-09-04 05:47:13:367] <3548> joinexpire:
+DEBUG	[2015-09-04 05:47:13:367] <3548> id_customer:
+INFO	[2015-09-04 05:47:13:367] <3548> Check Field OK
+INFO	[2015-09-04 05:47:13:367] <3548> Make TID OK INIphpISP_nsalecokr020150904054713677614
+INFO	[2015-09-04 05:47:13:367] <3548> PI PUB KEY LOAD OK [39]
+INFO	[2015-09-04 05:47:13:368] <3548> PG PUB KEY LOAD OK [30]
+INFO	[2015-09-04 05:47:13:368] <3548> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-09-04 05:47:13:368] <3548> MERCHANT PUB KEY LOAD OK [0]
+INFO	[2015-09-04 05:47:13:369] <3548> MAKE BODY OK
+INFO	[2015-09-04 05:47:13:370] <3548> SIGN OK
+INFO	[2015-09-04 05:47:13:370] <3548> MAKE HEAD OK
+INFO	[2015-09-04 05:47:13:370] <3548> MSG_TO_PG:[0324700175R SHA1                   0                  39                  300200nsalecokr0                2000INIphpISP_nsalecokr020150904054713677614<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+	  <GoodsInfo>
+	    <GoodsCnt>1</GoodsCnt>
+	    <MOID/>
+	    <Currency>WON</Currency>
+	    <Tax/>
+	    <TaxFree/>
+	    <Goods>
+	      <SMID>nsalecokr0</SMID>
+	      <GoodsName urlencode="1">%C5%D7%BD%BA%C6%AE%C0%D4%B4%CF%B4%D9</GoodsName>
+	      <GoodsPrice>2000</GoodsPrice></Goods></GoodsInfo>
+	  <BuyerInfo>
+	    <BuyerName urlencode="1">%C3%D6%B0%ED%B0%FC%B8%AE%C0%DA</BuyerName>
+	    <BuyerTel>01099406467</BuyerTel>
+	    <BuyerEmail urlencode="1">ilse090%40nate.com</BuyerEmail>
+	    <ParentEmail/>
+	    <RecvName urlencode="1">%C3%D6%B0%ED%B0%FC%B8%AE%C0%DA</RecvName>
+	    <RecvTel urlencode="1">01099406467</RecvTel>
+	    <RecvMsg/>
+	    <RecvAddr urlencode="1">%BC%AD%BF%EF+%B0%AD%B5%BF%B1%B8+%B5%D0%C3%CC%B5%BF+218+</RecvAddr>
+	    <RecvPostNum urlencode="1">134823</RecvPostNum></BuyerInfo>
+	  <PaymentInfo>
+	    <Payment>
+	      <PayMethod>VCard</PayMethod>
+	      <JoinCard/>
+	      <JoinExpire/>
+	      <MailOrder/>
+	      <SessionKey>VCard</SessionKey>
+	      <Encrypted urlencode="1">Version%3D4.1%26PayMethod%3DVCard%26RsaKeyNum%3D1%26EncryptionAlgorithm%3DNONE%26SignAlgorithm%3DSHA1WithRSAEncryption%26CertVer%3D39%26moid%3D2015090405454865%26ver_trace%3Dmain%286097%2C6059%29vcard%286092%29card%286140%2C6123%29n%286009%29Cs%286025%29Dt%286002%29Pa%286002%29Cf%286024%29Fv%280000%29La%286155%29Re%286105%29Vr%286007%29P%286034%29en%286053%29%26pg1%3D203.238.37.3%26pg2%3D211.219.96.180%26pg1ip%3D203.238.37.3%26pg2ip%3D211.219.96.180%26agreeflag%3D1111%26rn%3D3%2FjEtW4vAEtd%2BgyP2%2FMPRZGFuutwnBra6FoAMbWkizo%3D%0D%0A%26VCode%3D050204040016646%26VQuota%3D00%26VNoint%3D0%26ip%3D192.168.0.44%26mac%3DD050991DD609%26cardpoint%3D9%26custemail%3Dilse090%40nate.com%26price%3D4uDsrkVGc04gjnub%2BtIuGLKwnbZZ5Wc%3D%0D%0A%26below1000%3D0%26encisp%3D0%26pgnoint%3D0%26VKBPoint%3D%26VSessionKey%3DCyb5anI%252ffBU8iVfcGZYKrAFECpEngZl9KyeilBpc3gH5dawqJb8Fp5FKzA7E39NGJI0UoP8Xt6fxMRajNRfgIceCmb5OumUV8lHTYhPAs47fGwD6MxSn%252bmO85Hw7hFR8UQdRJwfeY1xmU8pm34MyiCyRwAw5Duhkzxi420xWBnU%253d%26Data%3Dcdata%253dYNGDXNwCNbkExqd%252bfHOXqPjl0F%252bTVtny9gUzOtc6XX3ffa1NiCU5mF3nFCRwnYvMzJpBQ5B9RuUO1WPZH7GG9I8xsgXTmh%252bb8bIXiba7KXXSmtz2TVcm1y%252bouhehsbJyDa5pTH5XE9SlEwxH3YfIRBa7qBS13hY8Pami76nX0vLd5qyd2Q4HRh0T0BJYnadWVCN73OiFRKF%252fprOOv8K16r68vecJRlc2cmHcEmDowNdNlLI9SGgV3ckujUpDFbjJsfwF%252fm6hy%252br%252bbA%252beeGQKan5Vmmi9Z2lxyRq55V3tQC49v8jVcAKVQvnFwUD9HGsJwCiThlgQ%252fGIQkXw55Z5D2Ed8v6pXIiSFlAeJZ6r6Wm3gumnWXtQ1afMf49kCuOMbhdPfFMVnKvrsUwRxItstBOlVQ8ARH7Rl4jBuwiYLKtu9s5E%252bdgWh%252bpra7sSh0lbflM8Tm%252fU9kBAP6vZckfuYKwzRWT6dM5LFQLuQTBHZvss%253d%26ts%3D150904054716PG5fo3vjfjfPJNtSSUvbzg009777%26src_flg%3D0%26OSv%3Dchrome_Win7+6.01.7601+SP1+Professional_64B+%28PL1%29+%28notray%3AJ%29+%5Bnsalecokr0%5D+%2861_secuni_npapi%29%26ip2%3D221.143.1.90</Encrypted></Payment></PaymentInfo>
+	  <ReservedInfo>
+	    <MReserved1/>
+	    <MReserved2/>
+	    <MReserved3/></ReservedInfo>
+	  <ManageInfo>
+	    <Language/>
+	    <URL urlencode="1">http%3A%2F%2F52.68.39.67</URL>
+	    <TXVersion>5036B141209securLinux     PHPchkfake   3.14.44-32.39.amzn1.x86_64PHP:</TXVersion>
+	    <TXUserID/>
+	    <TXRegNum/>
+	    <Ack>1</Ack>
+	    <TXRN>MjAxNTA5MDQwNTQ2MjA1NDM4NTc1Ng==
+</TXRN></ManageInfo></INIpay>AKw6zBApAiz9yr7Tv9Nrz53CUuOCyBvoQQilEeK5g5LIdEP35BxrtfMMQGbO+3ua
+PkxSNuUpWeFFlt1ES3JHs6fOfA1bqYUoN07jOz53fAU7NaptN3DRKxynGHn2FjGn
+Qh11VZWq3LSyUxIe9gApts8+XoocFcsaVKBsdMDSTXCb
+]
+INFO	[2015-09-04 05:47:13:370] <3548> DNS LOOKUP OK(203.238.37.3:203.238.37.3:34049) laptime:0
+INFO	[2015-09-04 05:47:13:477] <3548> SOCKET CONNECT OK
+INFO	[2015-09-04 05:47:13:477] <3548> SEND OK
+INFO	[2015-09-04 05:47:14:390] <3548> RECV OK
+INFO	[2015-09-04 05:47:14:390] <3548> MSG_FROM_PG:[0279500175D SHA1                   0                  39                  300210nsalecokr0                2000INIphpISP_nsalecokr020150904054713677614<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+  <GoodsInfo>
+    <GoodsCnt>1</GoodsCnt>
+    <MOID urlencode="1">2015090405454865</MOID>
+    <Currency>WON</Currency>
+    <Goods no="1">
+      <SMID>nsalecokr0</SMID>
+      <GoodsName urlencode="1">%C5%D7%BD%BA%C6%AE%C0%D4%B4%CF%B4%D9</GoodsName>
+      <GoodsCntS>1</GoodsCntS>
+      <GoodsPrice>2000</GoodsPrice>
+    </Goods>
+  </GoodsInfo>
+  <PaymentInfo>
+    <Payment>
+      <SessionKey>APrEV7zIxR9D2w9i9zzRtaYLhZVZ54jf59bbRWpUSFKjOb0S5pc30XmYTLwBCGPz
+i3YZsEpp0/cWJrYQfvHzbsVavORrxgOJ/7cZ3NbeVjRF6iI/dz/kbAkNteWfv0ZO
+j+fk92nFKY2PGdqdIQv/rKhtUPxt2WCqX91GpOPjpqSQ28F5628kIc0=
+</SessionKey>
+      <Encrypted>ic8alYc7u4zNH6zX6vrjp/bnZtRPWx2Nfb7AoWi46wntkSVwoC6M4hELLNlpIT8Y
+iwT4kgmYNIHNkjYGogH9uzaNaqyYuLdRLKYnx/6wVHKxOT+HbUZw6M/cleh3AAIN
+a8eKhJjZE7YsUvTPFGjowPNyiVHB3CZo0iXoYBHv9EG6H1onqnwldNjIv1sDBOhu
+RcUK+GmXsauWldnvSMHq3IiVU4LzhUXqUNUkJbBGOVF1JwcgYDUbJBDpVbQJeNTj
+dV9zQjQQ7fItU/iMLbQ+q5NtGy3QvMuEy7MIiFkyE8L3HSNpvvnWbNWkp4nwcYfK
+ZnQE2+m4KY/GHR/fxXaiZfnCc8G4ckf8eTQOVT1pj/35ru34MP8m9rM8OA26MhPY
+mlJf7/convRpU1+WoMek7uJ83c5EBjhR4WXZZmcNqvkBKJcUE4+0Igu8DNY6wfdo
+f3xvr+Slw6zgvnLY3tMfsRmz1wPeDo5VhyHJCr3Y4vgRFCtK4Ns51EcQk5M+SxgW
+N1m2EhdMIB4n1lDd+KvDmYKlvaVPcN8e7PosZ2mPoPttE0x5vTStUZeCeIpJ2w5J
+vhI+T7+sHcf8uhd9ngoQvW0rA7J+eaGwE73rqE+9FG6ToE03bwRC1bfguGn/qVjV
+1z66MsiaqduVSkOrbBYXN6iMv3U+JiWTb9Nwp25MnImEueeqZM+f+Sz3XkNcbfgj
+wHKme96f8ltm08mCv3YfiaGFSCNthL+DOSHETDVNeRknZijNxrymQJEH0ru1yIHX
++lFyMEI9QURPUpESMluChHE79XmggV00iJMQl/0xMcA2IWfa1Ghd89oHbFITgsw/
+opM3n9j6XcQJV6meyxPkQh7QXNbP3cM7O9ZfKlaltBXMOp7E2TlvWMuhxZOuOSvm
+BbScnte3sAa2sbcUwQ3JlsuwmpkmYcdUIGOphErtGjvuyFMjQF85EJs0ZfgijCtI
+YmY+gGZZ1f0x6/6sBTisgc6ywtJYEqAxPGr1qjPjju4QkQF+o8SeD/qhtcq/tC1P
+32k5gaLf5StOe8TannQWWYSGjlV7ahFypHpSX0XyhPOmeNVu+1WvRB+bxRXZ8epx
+HhARluReeMMXX4VFFrEpZ7wX4jkqc7Sb90kpHH7u2XZ8OnNo5HMpwFKf5b2z3zhW
+LlLH+ky+aB1Qatpjij96r9aN6SyFGiuSlxRWOFX92RNrm/7zK3RS6lDybENQnZaB
+0YNVrEgd0VJywtYImlnSf9dY59TIfYYOiNOLiTd8+pFjWkjonzQy3cun+x5mX4g5
+e83JgHVzV8E1BWk+wfyJyOYq+CDdGBP+f/aBBloRigouq+XuTttIz3EHE5ILVCf3
+FP+R0DpKnYffLS7/jdYHPvl3NEvnzgt0hpzoDdAJEAVtxApgWxFoP1Aetzrc0USi
+A9PnySJdlL9VNNBYrOgz4DzuoZMY6WsZFSaKiBAEoBD04ulg1QJ5kA==
+</Encrypted>
+      <PayMethod>VCard</PayMethod>
+      <ResultCode>170000</ResultCode>
+      <ResultMsg urlencode="1">%C1%A4%BB%F3%BF%CF%B7%E1</ResultMsg>
+    </Payment>
+  </PaymentInfo>
+  <ManageInfo>
+    <EventCode></EventCode>
+    <OrgCurrency></OrgCurrency>
+    <ExchangeRate></ExchangeRate>
+    <OrgPrice></OrgPrice>
+  </ManageInfo>
+  <ReservedInfo>
+    <MReserved1 urlencode="1"></MReserved1>
+    <MReserved2 urlencode="1"></MReserved2>
+    <MReserved3 urlencode="1"></MReserved3>
+    <PGReserved1 urlencode="1"></PGReserved1>
+    <PGReserved2 urlencode="1"></PGReserved2>
+    <PGReserved3 urlencode="1"></PGReserved3>
+  </ReservedInfo>
+</INIpay>
+RKRsGm3LFIDeucmTU/VHjBfThYCnvQoWDPAuBAC8ScibODVpNHfL8Ax/ELlzdMOM
+FJdbMHsWG0G5HKqUzGdwWq+LmNs9cgD2uhoU5KeJIQOQj15iT2r3AtsM04A2GX7/
+vCGAagU+HMyrzVkdn90nw0EGxjGE60hAb+6ttXg+LV0=
+]
+INFO	[2015-09-04 05:47:14:390] <3548> VERIFY OK
+INFO	[2015-09-04 05:47:14:390] <3548> PARSE HEAD OK
+INFO	[2015-09-04 05:47:14:391] <3548> PARSE BODY OK
+INFO	[2015-09-04 05:47:14:392] <3548> DECRYPT OK
+DEBUG	[2015-09-04 05:47:14:392] <3548> DECRYPT MSG:[<?xml version="1.0" encoding="UTF-8"?>
+<PaymentInfo>
+  <Payment>
+    <EASYPAY/>
+    <VCard>
+      <ISP_ApplPrice>2000</ISP_ApplPrice>
+      <ISP_BankCode>04</ISP_BankCode>
+      <ISP_Quota>00</ISP_Quota>
+      <ISP_Interest>0</ISP_Interest>
+      <ISP_CardCode>06</ISP_CardCode>
+      <ISP_CardNum>50212310****</ISP_CardNum>
+      <ISP_Point></ISP_Point>
+      <ISP_ApplDate>20150904</ISP_ApplDate>
+      <ISP_ApplTime>054713</ISP_ApplTime>
+      <ISP_ApplNum>30020427</ISP_ApplNum>
+      <ISP_TerminalNum>0198732000</ISP_TerminalNum>
+      <ISP_MemberNum></ISP_MemberNum>
+      <ISP_PurchaseCode></ISP_PurchaseCode>
+      <ISP_ResultCode>170000</ISP_ResultCode>
+      <ISP_ResultMsg urlencode="1">%C1%A4%BB%F3%BF%CF%B7%E1</ISP_ResultMsg>
+      <ISP_PrtcCode>1</ISP_PrtcCode>
+      <ISP_Quota_Point>00</ISP_Quota_Point>
+      <ISP_CheckFlag>1</ISP_CheckFlag>
+      <ISP_PurchaseName urlencode="1"></ISP_PurchaseName>
+      <ISP_IssuerName urlencode="1"></ISP_IssuerName>
+      <ISP_UsePoint></ISP_UsePoint>
+      <ISP_CouponOnlyMer></ISP_CouponOnlyMer>
+    </VCard>
+  </Payment>
+</PaymentInfo>]
+INFO	[2015-09-04 05:47:14:393] <3548> DECRYPT PARSE OK
+INFO	[2015-09-04 05:47:14:393] <3548> WAIT ACK INVOKING
+DEBUG	[2015-09-04 05:47:14:393] <3548> MAKE HEAD OK
+INFO	[2015-09-04 05:47:14:500] <3548> SUCCESS ACK INVOKING
+INFO	[2015-09-04 05:47:14:500] <3548> END securepay 정상완료 Laptime:[1.133sec]
+INFO	[2015-09-04 05:47:14:500] <3548> ===============================================================
+INFO	[2015-09-04 07:14:49:373] <2950> START INIPHP chkfake (V5036-141209)(OS:Linux3.14.44-32.39.amzn1.x86_64,PHP:5.3.29)
+DEBUG	[2015-09-04 07:14:49:374] <2950> inipayhome:/var/www/html/nsale/shop/inicis
+DEBUG	[2015-09-04 07:14:49:374] <2950> debug:false
+DEBUG	[2015-09-04 07:14:49:374] <2950> type:chkfake
+DEBUG	[2015-09-04 07:14:49:374] <2950> enctype:asym
+DEBUG	[2015-09-04 07:14:49:374] <2950> admin:1111
+DEBUG	[2015-09-04 07:14:49:374] <2950> checkopt:false
+DEBUG	[2015-09-04 07:14:49:374] <2950> mid:nsalecokr0
+DEBUG	[2015-09-04 07:14:49:374] <2950> price:18800
+DEBUG	[2015-09-04 07:14:49:374] <2950> nointerest:no
+DEBUG	[2015-09-04 07:14:49:374] <2950> quotabase:선택:일시불:2개월:3개월:4개월:5개월:6개월:7개월:8개월:9개월:10개월:11개월:12개월
+INFO	[2015-09-04 07:14:49:374] <2950> Check Field OK
+INFO	[2015-09-04 07:14:49:374] <2950> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-09-04 07:14:49:374] <2950> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-09-04 07:14:49:375] <2950> CHKFAKE KEY MAKE OK:MjAxNTA5MDQwNzE0NDkzNzQxNzc3MA==
+
+INFO	[2015-09-04 07:14:49:375] <2950> END chkfake  Laptime:[0.002sec]
+INFO	[2015-09-04 07:14:49:375] <2950> ===============================================================
+INFO	[2015-09-04 07:15:14:957] <2927> START INIPHP securepay (V5036-141209)(OS:Linux3.14.44-32.39.amzn1.x86_64,PHP:5.3.29)
+DEBUG	[2015-09-04 07:15:14:957] <2927> inipayhome:/var/www/html/nsale/shop/inicis
+DEBUG	[2015-09-04 07:15:14:957] <2927> debug:false
+DEBUG	[2015-09-04 07:15:14:957] <2927> type:securepay
+DEBUG	[2015-09-04 07:15:14:957] <2927> pgid:INIphpVBNK
+DEBUG	[2015-09-04 07:15:14:957] <2927> subpgip:203.238.3.10
+DEBUG	[2015-09-04 07:15:14:957] <2927> admin:1111
+DEBUG	[2015-09-04 07:15:14:957] <2927> uid:
+DEBUG	[2015-09-04 07:15:14:957] <2927> goodname:더블유랩 블랙킬팩: 넓은모공/블랙헤드/과잉피지
+DEBUG	[2015-09-04 07:15:14:957] <2927> currency:WON
+DEBUG	[2015-09-04 07:15:14:957] <2927> mid:nsalecokr0
+DEBUG	[2015-09-04 07:15:14:957] <2927> rn:MjAxNTA5MDQwNzE0NDkzNzQxNzc3MA==
+
+DEBUG	[2015-09-04 07:15:14:957] <2927> price:18800
+DEBUG	[2015-09-04 07:15:14:957] <2927> enctype:
+DEBUG	[2015-09-04 07:15:14:957] <2927> buyername:황소연
+DEBUG	[2015-09-04 07:15:14:957] <2927> buyertel:01099406467
+DEBUG	[2015-09-04 07:15:14:957] <2927> buyeremail:entlamae@gmail.com
+DEBUG	[2015-09-04 07:15:14:957] <2927> paymethod:VBank
+DEBUG	[2015-09-04 07:15:14:957] <2927> encrypted:Version=4.1&PayMethod=VBank&RsaKeyNum=1&EncryptionAlgorithm=SEED-CBC&SignAlgorithm=RSAwithSHA1&CertVer=39&moid=2015090407143835&ver_trace=main(6097,6059)vbank(6031,6033)n(6009)Cs(6025)Dt(6002)Pa(6002)Cf(6024)Fv(0000)La(6155)Re(6105)Vr(6007)P(6034)en(6053)nP(6006)&pg1=203.238.37.3&pg2=211.219.96.180&pg1ip=203.238.37.3&pg2ip=211.219.96.180&agreeflag=1111&Data=HicoIXilnCZMSTED5OsHSkfUW6yPmhcQEgNlSP2mb6xVZbIE14s7zT1pfB++o7Gl
+A2MdlTE4//R65jaLmaqDA+Iuwdx1G91jSfy+TIsD5jfwFphT6MmVX4bTmLVWBvoJ
+iP6PQIWfYeA/3D06nt/Wkn8DWIoDtQ2T/CvAEbOfAf4iZr/UTSuojwc8+29Jr7fI
+WdNrERm+90eihnTweRLFGmkmRsHzwq/zXQxlrBgCoqU4eYUiai8NRuOZgnUfzFJE
+pcsOVkJDOtCrJtPZAzhM77+Il7jWhy+ae1v1huW18MqTzXT1oqFdvgVvz408PtGK
+1AvPcA+j2PJLTkmZLvTMbPd61mkifnre8wRPAWnm5Q9Fnea8cp0+MuTfrsHSpm5H
+T7td6P7YMO/sAmJlLxCIUib2qGL/hlGwMDS9227ZtT2Ck3EryG6mNJ3yA+HuO0HZ
+HLBijGTN1W2fuRosw7ysnm42kmc5qWYJciakuxX7VnM28P1YBOxkkqBTxKw0xfAS
+PdLTkA4ShaZuWkvRaqsOqrLGmotW3q17P7aykP7WpnQv3C4=
+DEBUG	[2015-09-04 07:15:14:957] <2927> sessionkey:bHXL2hLzsDhvQu/d9tFZhfa0YRHXMWrYZiwSK5hLx73n4ynlAHfnmMLHlomXAxKA
+upPb93QTEQWkpZ/aYRbbKFWiOzJ6y1dvluEeF5TpG3v6/rE2sPFTWQuWknJE/Vgl
+d+hDQL3Ff0fNHe4T2w60Hd2xXEyCoy1CsRV8uK/MCgY=
+DEBUG	[2015-09-04 07:15:14:957] <2927> url:http://www.nsale.co.kr
+DEBUG	[2015-09-04 07:15:14:957] <2927> cardcode:
+DEBUG	[2015-09-04 07:15:14:957] <2927> parentemail:
+DEBUG	[2015-09-04 07:15:14:957] <2927> recvname:황소연
+DEBUG	[2015-09-04 07:15:14:957] <2927> recvtel:01099406467
+DEBUG	[2015-09-04 07:15:14:957] <2927> recvaddr:서울 구로구 디지털로 273 208호
+DEBUG	[2015-09-04 07:15:14:957] <2927> recvpostnum:08381
+DEBUG	[2015-09-04 07:15:14:957] <2927> recvmsg:
+DEBUG	[2015-09-04 07:15:14:957] <2927> joincard:
+DEBUG	[2015-09-04 07:15:14:957] <2927> joinexpire:
+DEBUG	[2015-09-04 07:15:14:957] <2927> id_customer:
+INFO	[2015-09-04 07:15:14:957] <2927> Check Field OK
+INFO	[2015-09-04 07:15:14:957] <2927> Make TID OK INIphpVBNKnsalecokr020150904071514576027
+INFO	[2015-09-04 07:15:14:957] <2927> PI PUB KEY LOAD OK [39]
+INFO	[2015-09-04 07:15:14:957] <2927> PG PUB KEY LOAD OK [30]
+INFO	[2015-09-04 07:15:14:958] <2927> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-09-04 07:15:14:958] <2927> MERCHANT PUB KEY LOAD OK [0]
+INFO	[2015-09-04 07:15:14:959] <2927> MAKE BODY OK
+INFO	[2015-09-04 07:15:14:959] <2927> SIGN OK
+INFO	[2015-09-04 07:15:14:959] <2927> MAKE HEAD OK
+INFO	[2015-09-04 07:15:14:959] <2927> MSG_TO_PG:[0287400175R SHA1                   0                  39                  300200nsalecokr0               18800INIphpVBNKnsalecokr020150904071514576027<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+	  <GoodsInfo>
+	    <GoodsCnt>1</GoodsCnt>
+	    <MOID/>
+	    <Currency>WON</Currency>
+	    <Tax/>
+	    <TaxFree/>
+	    <Goods>
+	      <SMID>nsalecokr0</SMID>
+	      <GoodsName urlencode="1">%B4%F5%BA%ED%C0%AF%B7%A6+%BA%ED%B7%A2%C5%B3%C6%D1%3A+%B3%D0%C0%BA%B8%F0%B0%F8%2F%BA%ED%B7%A2%C7%EC%B5%E5%2F%B0%FA%C0%D7%C7%C7%C1%F6</GoodsName>
+	      <GoodsPrice>18800</GoodsPrice></Goods></GoodsInfo>
+	  <BuyerInfo>
+	    <BuyerName urlencode="1">%C8%B2%BC%D2%BF%AC</BuyerName>
+	    <BuyerTel>01099406467</BuyerTel>
+	    <BuyerEmail urlencode="1">entlamae%40gmail.com</BuyerEmail>
+	    <ParentEmail/>
+	    <RecvName urlencode="1">%C8%B2%BC%D2%BF%AC</RecvName>
+	    <RecvTel urlencode="1">01099406467</RecvTel>
+	    <RecvMsg/>
+	    <RecvAddr urlencode="1">%BC%AD%BF%EF+%B1%B8%B7%CE%B1%B8+%B5%F0%C1%F6%C5%D0%B7%CE+273+208%C8%A3</RecvAddr>
+	    <RecvPostNum urlencode="1">08381</RecvPostNum></BuyerInfo>
+	  <PaymentInfo>
+	    <Payment>
+	      <PayMethod>VBank</PayMethod>
+	      <JoinCard/>
+	      <JoinExpire/>
+	      <MailOrder/>
+	      <SessionKey>bHXL2hLzsDhvQu/d9tFZhfa0YRHXMWrYZiwSK5hLx73n4ynlAHfnmMLHlomXAxKA
+upPb93QTEQWkpZ/aYRbbKFWiOzJ6y1dvluEeF5TpG3v6/rE2sPFTWQuWknJE/Vgl
+d+hDQL3Ff0fNHe4T2w60Hd2xXEyCoy1CsRV8uK/MCgY=</SessionKey>
+	      <Encrypted urlencode="1">Version%3D4.1%26PayMethod%3DVBank%26RsaKeyNum%3D1%26EncryptionAlgorithm%3DSEED-CBC%26SignAlgorithm%3DRSAwithSHA1%26CertVer%3D39%26moid%3D2015090407143835%26ver_trace%3Dmain%286097%2C6059%29vbank%286031%2C6033%29n%286009%29Cs%286025%29Dt%286002%29Pa%286002%29Cf%286024%29Fv%280000%29La%286155%29Re%286105%29Vr%286007%29P%286034%29en%286053%29nP%286006%29%26pg1%3D203.238.37.3%26pg2%3D211.219.96.180%26pg1ip%3D203.238.37.3%26pg2ip%3D211.219.96.180%26agreeflag%3D1111%26Data%3DHicoIXilnCZMSTED5OsHSkfUW6yPmhcQEgNlSP2mb6xVZbIE14s7zT1pfB%2B%2Bo7Gl%0D%0AA2MdlTE4%2F%2FR65jaLmaqDA%2BIuwdx1G91jSfy%2BTIsD5jfwFphT6MmVX4bTmLVWBvoJ%0D%0AiP6PQIWfYeA%2F3D06nt%2FWkn8DWIoDtQ2T%2FCvAEbOfAf4iZr%2FUTSuojwc8%2B29Jr7fI%0D%0AWdNrERm%2B90eihnTweRLFGmkmRsHzwq%2FzXQxlrBgCoqU4eYUiai8NRuOZgnUfzFJE%0D%0ApcsOVkJDOtCrJtPZAzhM77%2BIl7jWhy%2Bae1v1huW18MqTzXT1oqFdvgVvz408PtGK%0D%0A1AvPcA%2Bj2PJLTkmZLvTMbPd61mkifnre8wRPAWnm5Q9Fnea8cp0%2BMuTfrsHSpm5H%0D%0AT7td6P7YMO%2FsAmJlLxCIUib2qGL%2FhlGwMDS9227ZtT2Ck3EryG6mNJ3yA%2BHuO0HZ%0D%0AHLBijGTN1W2fuRosw7ysnm42kmc5qWYJciakuxX7VnM28P1YBOxkkqBTxKw0xfAS%0D%0APdLTkA4ShaZuWkvRaqsOqrLGmotW3q17P7aykP7WpnQv3C4%3D</Encrypted></Payment></PaymentInfo>
+	  <ReservedInfo>
+	    <MReserved1/>
+	    <MReserved2/>
+	    <MReserved3/></ReservedInfo>
+	  <ManageInfo>
+	    <Language/>
+	    <URL urlencode="1">http%3A%2F%2Fwww.nsale.co.kr</URL>
+	    <TXVersion>5036B141209securLinux     PHPchkfake   3.14.44-32.39.amzn1.x86_64PHP:</TXVersion>
+	    <TXUserID/>
+	    <TXRegNum/>
+	    <Ack>1</Ack>
+	    <TXRN>MjAxNTA5MDQwNzE0NDkzNzQxNzc3MA==
+</TXRN></ManageInfo></INIpay>ANwFJrNqfNBnMJzOVIBYcNFZjgjs2ISaySgBhF9AxDadGVqZgKscfC/ASaduujRQ
+CD2QTEE1CueSj3E0y3JRdScWoAORig9R1thM/6LX74eKcH6jQ17zznEOMULAJzMe
++fpB/MaLBRlAsOBGUz1/O2b7WlGFkTmvMQJiL/iwdpj/
+]
+INFO	[2015-09-04 07:15:14:959] <2927> DNS LOOKUP OK(203.238.37.3:203.238.37.3:34049) laptime:0
+INFO	[2015-09-04 07:15:14:999] <2927> SOCKET CONNECT OK
+INFO	[2015-09-04 07:15:14:999] <2927> SEND OK
+INFO	[2015-09-04 07:15:15:317] <2927> RECV OK
+INFO	[2015-09-04 07:15:15:317] <2927> MSG_FROM_PG:[0331200175D SHA1                   0                  39                  300210nsalecokr0               18800INIphpVBNKnsalecokr020150904071514576027<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+  <GoodsInfo>
+    <GoodsCnt>1</GoodsCnt>
+    <MOID urlencode="1">2015090407143835</MOID>
+    <Currency>WON</Currency>
+    <Goods no="1">
+      <SMID>nsalecokr0</SMID>
+      <GoodsName urlencode="1">%B4%F5%BA%ED%C0%AF%B7%A6+%BA%ED%B7%A2%C5%B3%C6%D1%3A+%B3%D0%C0%BA%B8%F0%B0%F8%2F%BA%ED%B7%A2%C7%EC%B5%E5%2F%B0%FA%C0%D7%C7%C7%C1%F6</GoodsName>
+      <GoodsCntS>1</GoodsCntS>
+      <GoodsPrice>18800</GoodsPrice>
+    </Goods>
+  </GoodsInfo>
+  <PaymentInfo>
+    <Payment>
+      <SessionKey>APfNwzs9VHMfhDqeaprtcMZH7N320njyKMasra+atqrnOIMrSD1r8Re1TldV2+OL
+txcGPqQaMMbmrfq6QmLJVwDpf26MegdmPiBvmHyUc/00DyaN8DGcuu6MI0R9QuhH
+VboMHrEzIg+L8akkI05GAFQjwfi5LPA5/qpiAEmMsHzFz6rPRmqblw8=
+</SessionKey>
+      <Encrypted>4g9phLJlg4/OuecQy7COlTqFSkBPyqv3g8NR5AuUJ5MvrpUvpmJCPENYKVaNowfK
+SBAPJTwOaY1/lWB0imUoE9qetXzS//5y0VEf67scV2I8zywU4anBXER2miYWsJy8
+vqPDacBOKdU0OlRv4zK8T722SyGdE+Zjeohb1OjABMcLjq3SUYo1sWA6Lai0a0sT
+5oAkULa1c8371RCb/xXUNxBf7psbs6zXG7jghzXmidp4EyWgGp8REJBPUxfLx2K/
+ecCIiBF9H8q+EYEKuiF6bJuKHNW33HWdcdV6KPgMDJg84+iSBkQtpfRYg76CJN7x
+aFeDlnqnyzEpYgbHXsVntnUPONWuGq3RNkH00+NqnRkRpc4zThfs2Cm7VSa86ffX
+wSN1q2Bpj6AWqBoGz2bwybdfwYlkxB6HAuF4xiq8+XYc7C/wPSrWtNRMemYnAaH2
+ePSUP0gmHKjSXBejLQIyjfC0VjVRW8aWoU6SsbeALRJV6BkoXMTycN/14mqLvK5p
+430PDM6r9Ov3pwPhHvSr2KIlj4c2ImsqYSbxcL0fkVwMZ1bkTiGM8Hh6bzPcDt1n
+F7NbjzjNTACRCUGUyxt4H582P4Zwegc8OQ+Kx9jHe0NCZgQcsHQHjxFLtnRVxey4
+RU6Nq70U3nfuqMcg1cuIFPC7do7vemFD+FnKJDDSzoPQLGxUM8uOy/f+vLnNYngw
+VCv1hg1onwuQuO3fonPhd4jIKnyF5QGC/V7mG6h/89NTEEt0et8D6U9HeQx8q62t
+VD8x3zrRMmKdM8W6o5I/Ppte1FjQkXjVLy0Ku7vZ7tmCDDNQXqgoLrL80MglIDIy
+q7NNR5GMLoRNt3MP4SxEPlgnj4DTiqNni4Ug3Mcnw5o3F9w3bkM93sD96b98Udp0
++iyMvX7YMxI1Mdh7enILoEkk4v4CIZ6Vqs1/wkUG/4ZWWNlF9QSPB43NTbwYwvRa
+ibbhTSPAciurz5V+ajmTgIjmNPjkyNR0+Ow+PX5odGHQN0k6W4PFFE+BGOEDR47Y
+e4Z9Sx784CCF2nTXJL7ENU8MRueQcyb6Z5dH63/Ct+E/Ki50ODKrNQT4Ow9obrU1
+ciaP1dr8IplRqSk3tMKDGtCFSpSZ8v30b+/HV9hqN1zwrbBu3q/yls09TSf8Q79Z
+vQYU512kpHTKrufoqhpRSw7URMuXsS2rE6mRDGLf8f1DK1/SUu+r1fLRW57/smHB
+X7SUu5PSD7rzd3uhOM7wZQ1vmEKbwfgc6DbDyA0aUEpuhZ4fo1PeOdyLkrpfqXJY
+oL6tEMs8yQ5M1Z8FgZYh/gg5p9Lg2uTX8PT8skdPgAj5jRpjC/mGkahLWn+6OYUe
+RQMqYFvUbE9Yj4aKIrnmCwav5VoGpp+Lb6Rln219wW1OuWxwmc+xy6WZVzC4eLTw
+2j4YyN0rGQlhDHvWUsOO72bQ4l5qea3NIHoEQyaXGuohgnsmvQvFwqESp7YLbHQC
+Xvr88Ki4EE8gSuGSS8HLIBlFqhUVNCziO+h9eDZ1q4VxqE8dQ+Qi9SlKdEnLHRR0
++BO6TzmvqODZoO2SfSWypJxd0avqeM90xuImJWRi02fuOmM0ZxRu1ZdjqYy/4/5T
+X9HZIthBcUirsOmgrBhsEm3c/0OkNwg+XexFGDa+8sDM+IocpvsqkMO8i4rlHwyJ
+9lS8H7eJa35kuuJtvlIt94ONTe1gXGDfAUHyzxVVNTupRJ1dehJMnOQ+yolNC6VJ
+h4sBESWVUbdvg7Uug1+Bk0vHwyNBUJ+E6bYxP4DPQQ41rZqEwmkKJUVHvqt5t9NH
+h0Rd6rlASXZzgLCkmHVyw1jHdAdLoqovhvMg+1U+okbf3NHRXbROQg==
+</Encrypted>
+      <PayMethod>VBank</PayMethod>
+      <ResultCode>170000</ResultCode>
+      <ResultMsg urlencode="1">%C1%A4%BB%F3%C3%B3%B8%AE%B5%C7%BE%FA%BD%C0%B4%CF%B4%D9.</ResultMsg>
+    </Payment>
+  </PaymentInfo>
+  <ManageInfo>
+    <EventCode></EventCode>
+    <OrgCurrency></OrgCurrency>
+    <ExchangeRate></ExchangeRate>
+    <OrgPrice></OrgPrice>
+  </ManageInfo>
+  <ReservedInfo>
+    <MReserved1 urlencode="1"></MReserved1>
+    <MReserved2 urlencode="1"></MReserved2>
+    <MReserved3 urlencode="1"></MReserved3>
+    <PGReserved1 urlencode="1"></PGReserved1>
+    <PGReserved2 urlencode="1"></PGReserved2>
+    <PGReserved3 urlencode="1"></PGReserved3>
+  </ReservedInfo>
+</INIpay>
+C6AWDu2w/pdNWGpaOS3F9hSVw2hYp3SA8wUj2fSCfrOS5bdAO80cLSxuF2ObBea+
+YBNdwfLw3p20JBDD2ZO5ME90g7SIuqgLlZRpmBd+MD/J69KqCy1L3CX3cWDH2S2u
+bziUPZUHHuRFfaAb0BEDcBGigZ1oFPn6s026/kmLVaQ=
+]
+INFO	[2015-09-04 07:15:15:317] <2927> VERIFY OK
+INFO	[2015-09-04 07:15:15:317] <2927> PARSE HEAD OK
+INFO	[2015-09-04 07:15:15:318] <2927> PARSE BODY OK
+INFO	[2015-09-04 07:15:15:319] <2927> DECRYPT OK
+DEBUG	[2015-09-04 07:15:15:319] <2927> DECRYPT MSG:[<?xml version="1.0" encoding="UTF-8"?>
+<PaymentInfo>
+  <Payment>
+    <EASYPAY/>
+    <VBank>
+      <VACT_Num>88429011364033</VACT_Num>
+      <VACT_BankCode>04</VACT_BankCode>
+      <VACT_Date>20150911</VACT_Date>
+      <VACT_Time></VACT_Time>
+      <VACT_InputName urlencode="1">%C8%B2%BC%D2%BF%AC</VACT_InputName>
+      <VACT_Name urlencode="1">%BF%CD%BF%EC%BA%A5%C3%B3%BD%BA</VACT_Name>
+      <VACT_RefundName urlencode="1"></VACT_RefundName>
+      <VACT_RefundBankCode></VACT_RefundBankCode>
+      <VACT_RefundNum></VACT_RefundNum>
+      <VACT_ApplPrice>18800</VACT_ApplPrice>
+      <VACT_ApplDate>20150904</VACT_ApplDate>
+      <VACT_ApplTime>071515</VACT_ApplTime>
+      <VACT_ResultCode>170000</VACT_ResultCode>
+      <VACT_ResultMsg urlencode="1">%C1%A4%BB%F3%C3%B3%B8%AE%B5%C7%BE%FA%BD%C0%B4%CF%B4%D9.</VACT_ResultMsg>
+    </VBank>
+    <CASH>
+      <CSHR_ApplPrice>18800</CSHR_ApplPrice>
+      <CSHR_SupplyPrice>17091</CSHR_SupplyPrice>
+      <CSHR_Tax>1709</CSHR_Tax>
+      <CSHR_ServicePrice>0</CSHR_ServicePrice>
+      <CSHR_Type>0</CSHR_Type>
+      <CSHR_ApplDate>20150904</CSHR_ApplDate>
+      <CSHR_ApplTime>071515</CSHR_ApplTime>
+      <CSHR_ApplNum></CSHR_ApplNum>
+      <CSHR_ResultCode>220000</CSHR_ResultCode>
+      <CSHR_ResultMsg urlencode="1">%C1%A4%BB%F3%C3%B3%B8%AE%B5%C7%BE%FA%BD%C0%B4%CF%B4%D9.</CSHR_ResultMsg>
+    </CASH>
+  </Payment>
+</PaymentInfo>]
+INFO	[2015-09-04 07:15:15:320] <2927> DECRYPT PARSE OK
+INFO	[2015-09-04 07:15:15:320] <2927> WAIT ACK INVOKING
+DEBUG	[2015-09-04 07:15:15:320] <2927> MAKE HEAD OK
+INFO	[2015-09-04 07:15:15:360] <2927> SUCCESS ACK INVOKING
+INFO	[2015-09-04 07:15:15:360] <2927> END securepay 정상처리되었습니다. Laptime:[0.403sec]
+INFO	[2015-09-04 07:15:15:360] <2927> ===============================================================
+INFO	[2015-09-04 09:55:43:872] <2926> START INIPHP chkfake (V5036-141209)(OS:Linux3.14.44-32.39.amzn1.x86_64,PHP:5.3.29)
+DEBUG	[2015-09-04 09:55:43:872] <2926> inipayhome:/var/www/html/nsale/shop/inicis
+DEBUG	[2015-09-04 09:55:43:872] <2926> debug:false
+DEBUG	[2015-09-04 09:55:43:872] <2926> type:chkfake
+DEBUG	[2015-09-04 09:55:43:872] <2926> enctype:asym
+DEBUG	[2015-09-04 09:55:43:872] <2926> admin:1111
+DEBUG	[2015-09-04 09:55:43:872] <2926> checkopt:false
+DEBUG	[2015-09-04 09:55:43:872] <2926> mid:nsalecokr0
+DEBUG	[2015-09-04 09:55:43:872] <2926> price:39000
+DEBUG	[2015-09-04 09:55:43:872] <2926> nointerest:no
+DEBUG	[2015-09-04 09:55:43:872] <2926> quotabase:선택:일시불:2개월:3개월:4개월:5개월:6개월:7개월:8개월:9개월:10개월:11개월:12개월
+INFO	[2015-09-04 09:55:43:873] <2926> Check Field OK
+INFO	[2015-09-04 09:55:43:873] <2926> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-09-04 09:55:43:873] <2926> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-09-04 09:55:43:873] <2926> CHKFAKE KEY MAKE OK:MjAxNTA5MDQwOTU1NDM4NzMxMTU5MQ==
+
+INFO	[2015-09-04 09:55:43:873] <2926> END chkfake  Laptime:[0.001sec]
+INFO	[2015-09-04 09:55:43:873] <2926> ===============================================================
+INFO	[2015-09-04 09:56:22:347] <2928> START INIPHP securepay (V5036-141209)(OS:Linux3.14.44-32.39.amzn1.x86_64,PHP:5.3.29)
+DEBUG	[2015-09-04 09:56:22:347] <2928> inipayhome:/var/www/html/nsale/shop/inicis
+DEBUG	[2015-09-04 09:56:22:347] <2928> debug:false
+DEBUG	[2015-09-04 09:56:22:347] <2928> type:securepay
+DEBUG	[2015-09-04 09:56:22:347] <2928> pgid:INIphpISP_
+DEBUG	[2015-09-04 09:56:22:347] <2928> subpgip:203.238.3.10
+DEBUG	[2015-09-04 09:56:22:347] <2928> admin:1111
+DEBUG	[2015-09-04 09:56:22:347] <2928> uid:
+DEBUG	[2015-09-04 09:56:22:347] <2928> goodname:제주콩으로 만든 삼다두유
+DEBUG	[2015-09-04 09:56:22:347] <2928> currency:WON
+DEBUG	[2015-09-04 09:56:22:347] <2928> mid:nsalecokr0
+DEBUG	[2015-09-04 09:56:22:347] <2928> rn:MjAxNTA5MDQwOTU1NDM4NzMxMTU5MQ==
+
+DEBUG	[2015-09-04 09:56:22:347] <2928> price:39000
+DEBUG	[2015-09-04 09:56:22:347] <2928> enctype:
+DEBUG	[2015-09-04 09:56:22:347] <2928> buyername:이설
+DEBUG	[2015-09-04 09:56:22:347] <2928> buyertel:01088910238
+DEBUG	[2015-09-04 09:56:22:347] <2928> buyeremail:leesur0233@naver.com
+DEBUG	[2015-09-04 09:56:22:347] <2928> paymethod:VCard
+DEBUG	[2015-09-04 09:56:22:347] <2928> encrypted:Version=4.1&PayMethod=VCard&RsaKeyNum=1&EncryptionAlgorithm=NONE&SignAlgorithm=SHA1WithRSAEncryption&CertVer=39&moid=2015090409515583&ver_trace=main(6097,6059)vcard(6092)card(6140,6123)n(6009)Cs(6025)Dt(6002)Pa(6002)Cf(6024)Fv(0000)La(6155)Re(6105)Vr(6007)P(6034)en(6053)&pg1=211.219.96.180&pg2=203.238.37.3&pg1ip=211.219.96.180&pg2ip=203.238.37.3&agreeflag=1111&rn=3/jEtW4vAEtd+gyP2vMLRpKrtu5wohqW61o2NbaSizo=
+&VCode=000204040016646&VQuota=00&VNoint=0&ip=192.168.123.15&mac=D02788B27D1C&cardpoint=9&custemail=leesur0233@naver.com&price=4uDsrkVGckcgjm3e9sgrB7OBpLxSv2re
+&below1000=0&encisp=0&pgnoint=0&VKBPoint=&VSessionKey=gUsKo13pBJ8Pv4tqMpUPjGq5F%2fpRo%2fDrP0Z6Rwf%2b2c%2bLAVD5bXd1ia9SVjPvhj4t%0d%0avafIMdNE91ywmrFnakMxT2zweW6H0JtlDlcsOKKJaRk6GPZfRDWyOkBNV7voAI5x%0d%0aOhR7WdjCrixWuvDh3jNqrCSlcUws8OHLgZN97FCM3wc%3d%0d%0a&Data=Version%3d1.0%26KeyFlag%3d1%26KeyNum%3d1%26EncryptAlgorithm%3dSEED%2dCBC%26SignAlgorithm%3d%26Data%3dC5nhU6KSlHp2JT78mKZaXkgJ90bSY0BZSGeblVxXMkHYtkEqXADR0ynzu3uWWLOQ%250aJNUlXuuEQC5SMfjUm3U5KA3mra1LbGVMZy9mPxTAkNLXI4LUr9v7%252bmHw9eyxF5qY%250aIxuusfv7fo0hsLr1oHOyWhAsXzgfK%2fENvwjfwwctvQxvpO1jNNRHzub0F6BmDoVD%250ava1GBaAsXiUhysJwGNOCJcE0zK%2fNbT0le%2fh2Ky36KAh9P5cg89GJcarQYREw%2f8av%250aA4gNfpiFPwKn33AO%252bEQvMopGoxU%2fMgNRUjAWXFYdyuVgeFsN81qsBvMH5XF4cuyt%250a%2fhkGSPzFbmGvB7pcBr9LpFO%2fYX5PSUusBQOtO9sJ9w6z1b2ENrRYr%2fKR7EARuEw2%250a6VknCT9Reky1YEvvLBP4dUyRylmOn%252b4AqFrDou6AVRNQFLmJJ%252bOM5%2fG3SVFKgy0K%250a0bI8XQq8HImwdfRAK0H2jeDDJKaHZjJuXTknM8N9EUGAgnCJCCTESzR1J6cnfkI3%250aXwWS3s%252bFDkgpmFzN%2fGHqBNyGIOli5iNEEGPO7u9EFlt7%2fRxVGoioIFOpBpYQiP6v%250acRtwdp6kA4I9WRb0sBs1KWP0nfrUm6zbhi1T%252bZgIax42gTdOK4oTKjIY7yI97LJm%250a%26PubCert%3d&ts=150904095623T2hWV0OqDFP7W65APptVlw001082&src_flg=0&OSv=IE8_WinXP 5.01.2600 SP3 Professional (CDN) [nsalecokr0] (61_secuni_npapi)&ip2=123.142.179.197
+DEBUG	[2015-09-04 09:56:22:347] <2928> sessionkey:VCard
+DEBUG	[2015-09-04 09:56:22:347] <2928> url:http://www.nsale.co.kr
+DEBUG	[2015-09-04 09:56:22:347] <2928> cardcode:06
+DEBUG	[2015-09-04 09:56:22:347] <2928> parentemail:
+DEBUG	[2015-09-04 09:56:22:347] <2928> recvname:이설
+DEBUG	[2015-09-04 09:56:22:347] <2928> recvtel:01088910238
+DEBUG	[2015-09-04 09:56:22:347] <2928> recvaddr:경기 화성시 태안로 85 한일타운 아파트 106동 202호
+DEBUG	[2015-09-04 09:56:22:347] <2928> recvpostnum:18412
+DEBUG	[2015-09-04 09:56:22:347] <2928> recvmsg:
+DEBUG	[2015-09-04 09:56:22:347] <2928> joincard:
+DEBUG	[2015-09-04 09:56:22:347] <2928> joinexpire:
+DEBUG	[2015-09-04 09:56:22:347] <2928> id_customer:
+INFO	[2015-09-04 09:56:22:347] <2928> Check Field OK
+INFO	[2015-09-04 09:56:22:347] <2928> Make TID OK INIphpISP_nsalecokr020150904095622478737
+INFO	[2015-09-04 09:56:22:347] <2928> PI PUB KEY LOAD OK [39]
+INFO	[2015-09-04 09:56:22:348] <2928> PG PUB KEY LOAD OK [30]
+INFO	[2015-09-04 09:56:22:348] <2928> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-09-04 09:56:22:348] <2928> MERCHANT PUB KEY LOAD OK [0]
+INFO	[2015-09-04 09:56:22:349] <2928> MAKE BODY OK
+INFO	[2015-09-04 09:56:22:350] <2928> SIGN OK
+INFO	[2015-09-04 09:56:22:350] <2928> MAKE HEAD OK
+INFO	[2015-09-04 09:56:22:350] <2928> MSG_TO_PG:[0370500175R SHA1                   0                  39                  300200nsalecokr0               39000INIphpISP_nsalecokr020150904095622478737<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+	  <GoodsInfo>
+	    <GoodsCnt>1</GoodsCnt>
+	    <MOID/>
+	    <Currency>WON</Currency>
+	    <Tax/>
+	    <TaxFree/>
+	    <Goods>
+	      <SMID>nsalecokr0</SMID>
+	      <GoodsName urlencode="1">%C1%A6%C1%D6%C4%E1%C0%B8%B7%CE+%B8%B8%B5%E7+%BB%EF%B4%D9%B5%CE%C0%AF</GoodsName>
+	      <GoodsPrice>39000</GoodsPrice></Goods></GoodsInfo>
+	  <BuyerInfo>
+	    <BuyerName urlencode="1">%C0%CC%BC%B3</BuyerName>
+	    <BuyerTel>01088910238</BuyerTel>
+	    <BuyerEmail urlencode="1">leesur0233%40naver.com</BuyerEmail>
+	    <ParentEmail/>
+	    <RecvName urlencode="1">%C0%CC%BC%B3</RecvName>
+	    <RecvTel urlencode="1">01088910238</RecvTel>
+	    <RecvMsg/>
+	    <RecvAddr urlencode="1">%B0%E6%B1%E2+%C8%AD%BC%BA%BD%C3+%C5%C2%BE%C8%B7%CE+85+%C7%D1%C0%CF%C5%B8%BF%EE+%BE%C6%C6%C4%C6%AE+106%B5%BF+202%C8%A3</RecvAddr>
+	    <RecvPostNum urlencode="1">18412</RecvPostNum></BuyerInfo>
+	  <PaymentInfo>
+	    <Payment>
+	      <PayMethod>VCard</PayMethod>
+	      <JoinCard/>
+	      <JoinExpire/>
+	      <MailOrder/>
+	      <SessionKey>VCard</SessionKey>
+	      <Encrypted urlencode="1">Version%3D4.1%26PayMethod%3DVCard%26RsaKeyNum%3D1%26EncryptionAlgorithm%3DNONE%26SignAlgorithm%3DSHA1WithRSAEncryption%26CertVer%3D39%26moid%3D2015090409515583%26ver_trace%3Dmain%286097%2C6059%29vcard%286092%29card%286140%2C6123%29n%286009%29Cs%286025%29Dt%286002%29Pa%286002%29Cf%286024%29Fv%280000%29La%286155%29Re%286105%29Vr%286007%29P%286034%29en%286053%29%26pg1%3D211.219.96.180%26pg2%3D203.238.37.3%26pg1ip%3D211.219.96.180%26pg2ip%3D203.238.37.3%26agreeflag%3D1111%26rn%3D3%2FjEtW4vAEtd%2BgyP2vMLRpKrtu5wohqW61o2NbaSizo%3D%0D%0A%26VCode%3D000204040016646%26VQuota%3D00%26VNoint%3D0%26ip%3D192.168.123.15%26mac%3DD02788B27D1C%26cardpoint%3D9%26custemail%3Dleesur0233%40naver.com%26price%3D4uDsrkVGckcgjm3e9sgrB7OBpLxSv2re%0D%0A%26below1000%3D0%26encisp%3D0%26pgnoint%3D0%26VKBPoint%3D%26VSessionKey%3DgUsKo13pBJ8Pv4tqMpUPjGq5F%252fpRo%252fDrP0Z6Rwf%252b2c%252bLAVD5bXd1ia9SVjPvhj4t%250d%250avafIMdNE91ywmrFnakMxT2zweW6H0JtlDlcsOKKJaRk6GPZfRDWyOkBNV7voAI5x%250d%250aOhR7WdjCrixWuvDh3jNqrCSlcUws8OHLgZN97FCM3wc%253d%250d%250a%26Data%3DVersion%253d1.0%2526KeyFlag%253d1%2526KeyNum%253d1%2526EncryptAlgorithm%253dSEED%252dCBC%2526SignAlgorithm%253d%2526Data%253dC5nhU6KSlHp2JT78mKZaXkgJ90bSY0BZSGeblVxXMkHYtkEqXADR0ynzu3uWWLOQ%25250aJNUlXuuEQC5SMfjUm3U5KA3mra1LbGVMZy9mPxTAkNLXI4LUr9v7%25252bmHw9eyxF5qY%25250aIxuusfv7fo0hsLr1oHOyWhAsXzgfK%252fENvwjfwwctvQxvpO1jNNRHzub0F6BmDoVD%25250ava1GBaAsXiUhysJwGNOCJcE0zK%252fNbT0le%252fh2Ky36KAh9P5cg89GJcarQYREw%252f8av%25250aA4gNfpiFPwKn33AO%25252bEQvMopGoxU%252fMgNRUjAWXFYdyuVgeFsN81qsBvMH5XF4cuyt%25250a%252fhkGSPzFbmGvB7pcBr9LpFO%252fYX5PSUusBQOtO9sJ9w6z1b2ENrRYr%252fKR7EARuEw2%25250a6VknCT9Reky1YEvvLBP4dUyRylmOn%25252b4AqFrDou6AVRNQFLmJJ%25252bOM5%252fG3SVFKgy0K%25250a0bI8XQq8HImwdfRAK0H2jeDDJKaHZjJuXTknM8N9EUGAgnCJCCTESzR1J6cnfkI3%25250aXwWS3s%25252bFDkgpmFzN%252fGHqBNyGIOli5iNEEGPO7u9EFlt7%252fRxVGoioIFOpBpYQiP6v%25250acRtwdp6kA4I9WRb0sBs1KWP0nfrUm6zbhi1T%25252bZgIax42gTdOK4oTKjIY7yI97LJm%25250a%2526PubCert%253d%26ts%3D150904095623T2hWV0OqDFP7W65APptVlw001082%26src_flg%3D0%26OSv%3DIE8_WinXP+5.01.2600+SP3+Professional+%28CDN%29+%5Bnsalecokr0%5D+%2861_secuni_npapi%29%26ip2%3D123.142.179.197</Encrypted></Payment></PaymentInfo>
+	  <ReservedInfo>
+	    <MReserved1/>
+	    <MReserved2/>
+	    <MReserved3/></ReservedInfo>
+	  <ManageInfo>
+	    <Language/>
+	    <URL urlencode="1">http%3A%2F%2Fwww.nsale.co.kr</URL>
+	    <TXVersion>5036B141209securLinux     PHPchkfake   3.14.44-32.39.amzn1.x86_64PHP:</TXVersion>
+	    <TXUserID/>
+	    <TXRegNum/>
+	    <Ack>1</Ack>
+	    <TXRN>MjAxNTA5MDQwOTU1NDM4NzMxMTU5MQ==
+</TXRN></ManageInfo></INIpay>ARzPKacui6dKsPrG/ZtApatKEMqsDBxptxUOtknN5IehXexz2JY+MfEuro00/4vj
+1Eollm68eXthhrG7ICLORwRBsyaXUda1+ALnWXggoDojpz8JYAhKpBmAtursof74
+29kyTChrlAx5RXvRLdH6j93SZYw8tXknnxcvxKQ7HxGa
+]
+INFO	[2015-09-04 09:56:22:350] <2928> DNS LOOKUP OK(211.219.96.180:211.219.96.180:34049) laptime:0
+INFO	[2015-09-04 09:56:22:388] <2928> SOCKET CONNECT OK
+INFO	[2015-09-04 09:56:22:388] <2928> SEND OK
+INFO	[2015-09-04 09:56:23:692] <2928> RECV OK
+INFO	[2015-09-04 09:56:23:692] <2928> MSG_FROM_PG:[0282800175D SHA1                   0                  39                  300210nsalecokr0               39000INIphpISP_nsalecokr020150904095622478737<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+  <GoodsInfo>
+    <GoodsCnt>1</GoodsCnt>
+    <MOID urlencode="1">2015090409515583</MOID>
+    <Currency>WON</Currency>
+    <Goods no="1">
+      <SMID>nsalecokr0</SMID>
+      <GoodsName urlencode="1">%C1%A6%C1%D6%C4%E1%C0%B8%B7%CE+%B8%B8%B5%E7+%BB%EF%B4%D9%B5%CE%C0%AF</GoodsName>
+      <GoodsCntS>1</GoodsCntS>
+      <GoodsPrice>39000</GoodsPrice>
+    </Goods>
+  </GoodsInfo>
+  <PaymentInfo>
+    <Payment>
+      <SessionKey>AOkP+T3y6AvPhpktIQoMBbG0BOdQB121NzfsJH/ZPbYG7cf8vfS1tnbCtR6AB3UF
+zewIc618vige8wyCYm/nNY0KcnwUyRnZZgGal/XomhRGz7dwyky1BLbY4fliMba4
+bD2/GhL60+CmokeMaOhdZAVH52fUOT04ND8nhUPsHBWiWr6+/+iIxn0=
+</SessionKey>
+      <Encrypted>haMmGtlafPHIF2uGOtDeQLHOXSfCRKhCdRCYw1uu1rTtVNTHNaNQ4+goeyFiApjH
+IoFz674aA08FOjMTamegMItSkamtSArqOYxR7V3reqrGA6tn4+Vek5kMzMYJ+Qzf
+ifllY4Pe4lW7abpSiF0q1wGPJdxzeNSGM44k1xt1sTup0t5k46cFxQ787LBgxR9L
+eLeHlIYtr21WjSZ7lg0LtgghyXX1JHSFN6J3a2BxWhJdpUtlwrlNWYceZzEYSuyN
+g8xVdaMlHIbsfo4Vf1j1Ntkx+8kFiwsU8rJlmgl27++zYyvRK0V1fiBNtBi6f3zw
+H9JtAJ1FkRNQ+yWu04NrqykK4hiegkQqN1cISstTwg73gh2q1UQNujq65lr28kJp
+tzcMr1fDvg4J7C1vBdQixOw8NY0flTrcKnJa3LCW9PG5tk34Ks5B0ZnwihlMKda6
+6x2QJrQarPfouH4Br6TV4mN/D2uOOoZVT3iaEN5WlF3MXPi91mdK4tlZjYm3rrBf
+uUtBsP/fPlY9xhxhGqFW4vMwdj/TBBvdh9dQNrbupfBMtfSraf7NtUlCr5SpMh32
+iVrvzXEEbX7l1bQSelldQgGwAjBffnCd3i8l3++B5A9Uh6k/PWEwdHuU3/tn1CJe
+E/6YgizI1XOJ7Ria3d8wwioiR3WdeGvEkTH+ccMn/U+5GpqLMJgJ5aZC9Q+N6we3
+kGAa9bol5NzPypgAt6XcVms9kW3ixINHfYfb6VBqIyuzhD5ZLTDxWlcY6cq6Xiz0
+13yORqhlVy1sZGzfaVGOAuBl6Xldqfuud9M6m4/Jt0zEkKeqrFhsoNECDFnOE3L8
+WY0g5KN1jWVvppmprgm5NnSpkU85c5eDjqER2+/nj7pZCw0siUYBUMBA4R4VbbUl
+TjL+54N2TCl6hKc2veQPMnQkge7qEFFUY9jzsUO1KGy/+ZzoIrQnk6rQtzLg9t1U
+M0o0EuP9sQounMebVbK+d+PpUJpboeHK/L2QvTR9bORF4K5A6mBBGJKTakQgXqWH
++HFjL1eW2WSaxOGDEfkF1PR26k0jWt/FIK4JS+cUTTWfL/bab/h14shOYOSls2HE
+53Z4QVw2ahNuu41zD49dFrIMKa8KoGI7gwEt7brE5eoViIstA3yxJy5r/Zlp5tWX
+sezR4ZcS4S65zy+GSXiyQV81qp0pjQFBnb35nZjpw7cnGqL4iI+YhTGQ0On3XU8D
+rewTyz0DaPt5dvSgVg7HqxIrIct455R5L4m4tJfZh7GQOEP+zM0G3ERpTVwSW2dg
+f3IjbItomqfJC427twM1Q1Bk3A5ZoP8Nlp4Ylddm0cCvJQcE736Ld8HaFXcC9cXC
+YRpHQ2fTYBelADGjx+UzSp9HJb7CPaX90tzvsT4UhW6blfolV5GvuwHdpTF2IzAg
+rrlAWzlbsH5ZpDgRBMD3jMY1C4NIn7PSBOesZ94YdNcj4S8fJj6fjA==
+</Encrypted>
+      <PayMethod>VCard</PayMethod>
+      <ResultCode>170000</ResultCode>
+      <ResultMsg urlencode="1">%C1%A4%BB%F3%BF%CF%B7%E1</ResultMsg>
+    </Payment>
+  </PaymentInfo>
+  <ManageInfo>
+    <EventCode></EventCode>
+    <OrgCurrency></OrgCurrency>
+    <ExchangeRate></ExchangeRate>
+    <OrgPrice></OrgPrice>
+  </ManageInfo>
+  <ReservedInfo>
+    <MReserved1 urlencode="1"></MReserved1>
+    <MReserved2 urlencode="1"></MReserved2>
+    <MReserved3 urlencode="1"></MReserved3>
+    <PGReserved1 urlencode="1"></PGReserved1>
+    <PGReserved2 urlencode="1"></PGReserved2>
+    <PGReserved3 urlencode="1"></PGReserved3>
+  </ReservedInfo>
+</INIpay>
+AFQfV8+JlCAq1RXiSntjOZW/YMPuMtlkIAC8l0CVeXSdGTihEvjP4jZ6GbhAaRbw
+nuE4BG4vMYhsTeBxl/g2tW7/QTM3qOxiaxtwADgX0HbFXm4bq3aHpqG9Iy/p6mtP
+IvNxkaVCxbzd2BE4PXVA9iuYUom2ZDnsaJL8kMMTebI=
+]
+INFO	[2015-09-04 09:56:23:692] <2928> VERIFY OK
+INFO	[2015-09-04 09:56:23:693] <2928> PARSE HEAD OK
+INFO	[2015-09-04 09:56:23:694] <2928> PARSE BODY OK
+INFO	[2015-09-04 09:56:23:695] <2928> DECRYPT OK
+DEBUG	[2015-09-04 09:56:23:695] <2928> DECRYPT MSG:[<?xml version="1.0" encoding="UTF-8"?>
+<PaymentInfo>
+  <Payment>
+    <EASYPAY/>
+    <VCard>
+      <ISP_ApplPrice>39000</ISP_ApplPrice>
+      <ISP_BankCode>04</ISP_BankCode>
+      <ISP_Quota>00</ISP_Quota>
+      <ISP_Interest>0</ISP_Interest>
+      <ISP_CardCode>06</ISP_CardCode>
+      <ISP_CardNum>94364603****</ISP_CardNum>
+      <ISP_Point></ISP_Point>
+      <ISP_ApplDate>20150904</ISP_ApplDate>
+      <ISP_ApplTime>095622</ISP_ApplTime>
+      <ISP_ApplNum>30010897</ISP_ApplNum>
+      <ISP_TerminalNum>0198732000</ISP_TerminalNum>
+      <ISP_MemberNum></ISP_MemberNum>
+      <ISP_PurchaseCode></ISP_PurchaseCode>
+      <ISP_ResultCode>170000</ISP_ResultCode>
+      <ISP_ResultMsg urlencode="1">%C1%A4%BB%F3%BF%CF%B7%E1</ISP_ResultMsg>
+      <ISP_PrtcCode>1</ISP_PrtcCode>
+      <ISP_Quota_Point>00</ISP_Quota_Point>
+      <ISP_CheckFlag>1</ISP_CheckFlag>
+      <ISP_PurchaseName urlencode="1"></ISP_PurchaseName>
+      <ISP_IssuerName urlencode="1"></ISP_IssuerName>
+      <ISP_UsePoint></ISP_UsePoint>
+      <ISP_CouponOnlyMer></ISP_CouponOnlyMer>
+    </VCard>
+  </Payment>
+</PaymentInfo>]
+INFO	[2015-09-04 09:56:23:696] <2928> DECRYPT PARSE OK
+INFO	[2015-09-04 09:56:23:696] <2928> WAIT ACK INVOKING
+DEBUG	[2015-09-04 09:56:23:696] <2928> MAKE HEAD OK
+INFO	[2015-09-04 09:56:23:734] <2928> SUCCESS ACK INVOKING
+INFO	[2015-09-04 09:56:23:734] <2928> END securepay 정상완료 Laptime:[1.387sec]
+INFO	[2015-09-04 09:56:23:734] <2928> ===============================================================
+INFO	[2015-09-04 10:57:37:82] <3232> START INIPHP chkfake (V5036-141209)(OS:Linux3.14.44-32.39.amzn1.x86_64,PHP:5.3.29)
+DEBUG	[2015-09-04 10:57:37:82] <3232> inipayhome:/var/www/html/nsale/shop/inicis
+DEBUG	[2015-09-04 10:57:37:82] <3232> debug:false
+DEBUG	[2015-09-04 10:57:37:82] <3232> type:chkfake
+DEBUG	[2015-09-04 10:57:37:82] <3232> enctype:asym
+DEBUG	[2015-09-04 10:57:37:82] <3232> admin:1111
+DEBUG	[2015-09-04 10:57:37:82] <3232> checkopt:false
+DEBUG	[2015-09-04 10:57:37:82] <3232> mid:nsalecokr0
+DEBUG	[2015-09-04 10:57:37:82] <3232> price:30000
+DEBUG	[2015-09-04 10:57:37:82] <3232> nointerest:no
+DEBUG	[2015-09-04 10:57:37:82] <3232> quotabase:선택:일시불:2개월:3개월:4개월:5개월:6개월:7개월:8개월:9개월:10개월:11개월:12개월
+INFO	[2015-09-04 10:57:37:82] <3232> Check Field OK
+INFO	[2015-09-04 10:57:37:82] <3232> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-09-04 10:57:37:83] <3232> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-09-04 10:57:37:83] <3232> CHKFAKE KEY MAKE OK:MjAxNTA5MDQxMDU3MzcwODMzMzk4MA==
+
+INFO	[2015-09-04 10:57:37:83] <3232> END chkfake  Laptime:[0.001sec]
+INFO	[2015-09-04 10:57:37:83] <3232> ===============================================================
+INFO	[2015-09-04 10:58:34:716] <7103> START INIPHP securepay (V5036-141209)(OS:Linux3.14.44-32.39.amzn1.x86_64,PHP:5.3.29)
+DEBUG	[2015-09-04 10:58:34:716] <7103> inipayhome:/var/www/html/nsale/shop/inicis
+DEBUG	[2015-09-04 10:58:34:716] <7103> debug:false
+DEBUG	[2015-09-04 10:58:34:716] <7103> type:securepay
+DEBUG	[2015-09-04 10:58:34:716] <7103> pgid:INIphpCARD
+DEBUG	[2015-09-04 10:58:34:716] <7103> subpgip:203.238.3.10
+DEBUG	[2015-09-04 10:58:34:716] <7103> admin:1111
+DEBUG	[2015-09-04 10:58:34:716] <7103> uid:
+DEBUG	[2015-09-04 10:58:34:716] <7103> goodname:더블유랩 블랙킬팩: 넓은모공/블랙헤드/과잉피지
+DEBUG	[2015-09-04 10:58:34:716] <7103> currency:WON
+DEBUG	[2015-09-04 10:58:34:716] <7103> mid:nsalecokr0
+DEBUG	[2015-09-04 10:58:34:716] <7103> rn:MjAxNTA5MDQxMDU3MzcwODMzMzk4MA==
+
+DEBUG	[2015-09-04 10:58:34:716] <7103> price:30000
+DEBUG	[2015-09-04 10:58:34:716] <7103> enctype:
+DEBUG	[2015-09-04 10:58:34:716] <7103> buyername:권정묘
+DEBUG	[2015-09-04 10:58:34:716] <7103> buyertel:01067989860
+DEBUG	[2015-09-04 10:58:34:716] <7103> buyeremail:camp0726@naver.com
+DEBUG	[2015-09-04 10:58:34:716] <7103> paymethod:Card
+DEBUG	[2015-09-04 10:58:34:716] <7103> encrypted:Version=4.1&PayMethod=Card&RsaKeyNum=1&EncryptionAlgorithm=SEED-CBC&SignAlgorithm=RSAwithSHA1&CertVer=39&moid=2015090410562923&ver_trace=main(6097,6059)card(6140,6123)n(6009)Cs(6025)Dt(6002)Pa(6002)Cf(6024)Fv(0000)La(6155)Re(6105)Vr(6007)P(6034)en(6053)nP(6006)&pg1=203.238.37.3&pg2=211.219.96.180&pg1ip=203.238.37.3&pg2ip=211.219.96.180&agreeflag=1111&Data=zKK5TfCtlmHjHuirCIdOBQ/wG7iXq7NRUvhi2LuwbgtlLCVn+EjVtT0htnFfRq6l
+iIPiFcJEWN23CCnrDFxSu5UV1yFOK2tHG0kt8Qtc4A/F5gtlT5uSxy8rfER3fsD0
+SBw2smfWSrYctSMGNCmWXn+s/Ko3ex36lI27riuQXISolacWPV45bT9ntmRr0/gV
+/MTlfgEnrMxoheNkvnM7VNEtPiAKx4p57pc27W/YuRhWh90Lq7w+f6RDkjWTS6dl
+MNqmQXj1PKR7uiUhqNmFrkQV5RqRcz7qGcW265pmDCwlhHm+SE9VLl5OH2XMAzu6
+aycnaP4JxjF5i8CX9YbSAm2afe6o5YPvUdxyJelxeEeRNS+0CPXRcGhDrI4MQtFE
+QoQ9aunQmS0eXH43po+imXwS5z25Hy3hmUyEWEKi/KAsAJoXeCQrT29m2HSQZBJl
+HmkXcf+uajhuE0/RZAtb1ZGYQA38Tx2opDsAXgDuM2s1oCuW2iEatdXLMufQeTor
+a8zwkOvCZWqz29pAgl62qObkwYwacn8/UMp9KAZrgx+8nT4yJBHI/fWGatNU6KsN
+ybq+nDonvmaAFGOkTin0uZQkwlf289xwkjc8Ra62QnMiUZmqPB5adu/bz4ZqI5gL
+w/p7pc2r5JohBE9xojbuVgEZbImaVMk+gcTJDATFfdokIjec5tEfwDf11WQ7jLML
+bn6DXLoV3Q==
+DEBUG	[2015-09-04 10:58:34:716] <7103> sessionkey:OVI92ghDDb7/tzrX0VUVDyGTEAIdg26Gf82+MRDlHw1KWq9rzTmml5cYyIWJJKPG
+MMh4M1MNzkhPz2WGOMOxwMoHafoMqyLQ9par9xbozMFu4Cqc4/Zrjrf82Y1I+POo
+LYqrPDTo/+AzQWjtERQ9zjVDWGBObIX1Z7YxkljY8+Y=
+DEBUG	[2015-09-04 10:58:34:716] <7103> url:http://www.nsale.co.kr
+DEBUG	[2015-09-04 10:58:34:716] <7103> cardcode:03
+DEBUG	[2015-09-04 10:58:34:716] <7103> parentemail:
+DEBUG	[2015-09-04 10:58:34:716] <7103> recvname:권정묘
+DEBUG	[2015-09-04 10:58:34:716] <7103> recvtel:01067989860
+DEBUG	[2015-09-04 10:58:34:716] <7103> recvaddr:서울 구로구 구로동 184-1 우림이비즈센터 2차 212호
+DEBUG	[2015-09-04 10:58:34:716] <7103> recvpostnum:08377
+DEBUG	[2015-09-04 10:58:34:716] <7103> recvmsg:
+DEBUG	[2015-09-04 10:58:34:716] <7103> joincard:
+DEBUG	[2015-09-04 10:58:34:716] <7103> joinexpire:
+DEBUG	[2015-09-04 10:58:34:716] <7103> id_customer:
+INFO	[2015-09-04 10:58:34:716] <7103> Check Field OK
+INFO	[2015-09-04 10:58:34:716] <7103> Make TID OK INIphpCARDnsalecokr020150904105834163213
+INFO	[2015-09-04 10:58:34:716] <7103> PI PUB KEY LOAD OK [39]
+INFO	[2015-09-04 10:58:34:716] <7103> PG PUB KEY LOAD OK [30]
+INFO	[2015-09-04 10:58:34:716] <7103> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-09-04 10:58:34:717] <7103> MERCHANT PUB KEY LOAD OK [0]
+INFO	[2015-09-04 10:58:34:717] <7103> MAKE BODY OK
+INFO	[2015-09-04 10:58:34:718] <7103> SIGN OK
+INFO	[2015-09-04 10:58:34:718] <7103> MAKE HEAD OK
+INFO	[2015-09-04 10:58:34:718] <7103> MSG_TO_PG:[0309800175R SHA1                   0                  39                  300200nsalecokr0               30000INIphpCARDnsalecokr020150904105834163213<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+	  <GoodsInfo>
+	    <GoodsCnt>1</GoodsCnt>
+	    <MOID/>
+	    <Currency>WON</Currency>
+	    <Tax/>
+	    <TaxFree/>
+	    <Goods>
+	      <SMID>nsalecokr0</SMID>
+	      <GoodsName urlencode="1">%B4%F5%BA%ED%C0%AF%B7%A6+%BA%ED%B7%A2%C5%B3%C6%D1%3A+%B3%D0%C0%BA%B8%F0%B0%F8%2F%BA%ED%B7%A2%C7%EC%B5%E5%2F%B0%FA%C0%D7%C7%C7%C1%F6</GoodsName>
+	      <GoodsPrice>30000</GoodsPrice></Goods></GoodsInfo>
+	  <BuyerInfo>
+	    <BuyerName urlencode="1">%B1%C7%C1%A4%B9%A6</BuyerName>
+	    <BuyerTel>01067989860</BuyerTel>
+	    <BuyerEmail urlencode="1">camp0726%40naver.com</BuyerEmail>
+	    <ParentEmail/>
+	    <RecvName urlencode="1">%B1%C7%C1%A4%B9%A6</RecvName>
+	    <RecvTel urlencode="1">01067989860</RecvTel>
+	    <RecvMsg/>
+	    <RecvAddr urlencode="1">%BC%AD%BF%EF+%B1%B8%B7%CE%B1%B8+%B1%B8%B7%CE%B5%BF+184-1+%BF%EC%B8%B2%C0%CC%BA%F1%C1%EE%BC%BE%C5%CD+2%C2%F7+212%C8%A3</RecvAddr>
+	    <RecvPostNum urlencode="1">08377</RecvPostNum></BuyerInfo>
+	  <PaymentInfo>
+	    <Payment>
+	      <PayMethod>Card</PayMethod>
+	      <JoinCard/>
+	      <JoinExpire/>
+	      <MailOrder/>
+	      <SessionKey>OVI92ghDDb7/tzrX0VUVDyGTEAIdg26Gf82+MRDlHw1KWq9rzTmml5cYyIWJJKPG
+MMh4M1MNzkhPz2WGOMOxwMoHafoMqyLQ9par9xbozMFu4Cqc4/Zrjrf82Y1I+POo
+LYqrPDTo/+AzQWjtERQ9zjVDWGBObIX1Z7YxkljY8+Y=</SessionKey>
+	      <Encrypted urlencode="1">Version%3D4.1%26PayMethod%3DCard%26RsaKeyNum%3D1%26EncryptionAlgorithm%3DSEED-CBC%26SignAlgorithm%3DRSAwithSHA1%26CertVer%3D39%26moid%3D2015090410562923%26ver_trace%3Dmain%286097%2C6059%29card%286140%2C6123%29n%286009%29Cs%286025%29Dt%286002%29Pa%286002%29Cf%286024%29Fv%280000%29La%286155%29Re%286105%29Vr%286007%29P%286034%29en%286053%29nP%286006%29%26pg1%3D203.238.37.3%26pg2%3D211.219.96.180%26pg1ip%3D203.238.37.3%26pg2ip%3D211.219.96.180%26agreeflag%3D1111%26Data%3DzKK5TfCtlmHjHuirCIdOBQ%2FwG7iXq7NRUvhi2LuwbgtlLCVn%2BEjVtT0htnFfRq6l%0D%0AiIPiFcJEWN23CCnrDFxSu5UV1yFOK2tHG0kt8Qtc4A%2FF5gtlT5uSxy8rfER3fsD0%0D%0ASBw2smfWSrYctSMGNCmWXn%2Bs%2FKo3ex36lI27riuQXISolacWPV45bT9ntmRr0%2FgV%0D%0A%2FMTlfgEnrMxoheNkvnM7VNEtPiAKx4p57pc27W%2FYuRhWh90Lq7w%2Bf6RDkjWTS6dl%0D%0AMNqmQXj1PKR7uiUhqNmFrkQV5RqRcz7qGcW265pmDCwlhHm%2BSE9VLl5OH2XMAzu6%0D%0AaycnaP4JxjF5i8CX9YbSAm2afe6o5YPvUdxyJelxeEeRNS%2B0CPXRcGhDrI4MQtFE%0D%0AQoQ9aunQmS0eXH43po%2BimXwS5z25Hy3hmUyEWEKi%2FKAsAJoXeCQrT29m2HSQZBJl%0D%0AHmkXcf%2BuajhuE0%2FRZAtb1ZGYQA38Tx2opDsAXgDuM2s1oCuW2iEatdXLMufQeTor%0D%0Aa8zwkOvCZWqz29pAgl62qObkwYwacn8%2FUMp9KAZrgx%2B8nT4yJBHI%2FfWGatNU6KsN%0D%0Aybq%2BnDonvmaAFGOkTin0uZQkwlf289xwkjc8Ra62QnMiUZmqPB5adu%2Fbz4ZqI5gL%0D%0Aw%2Fp7pc2r5JohBE9xojbuVgEZbImaVMk%2BgcTJDATFfdokIjec5tEfwDf11WQ7jLML%0D%0Abn6DXLoV3Q%3D%3D</Encrypted></Payment></PaymentInfo>
+	  <ReservedInfo>
+	    <MReserved1/>
+	    <MReserved2/>
+	    <MReserved3/></ReservedInfo>
+	  <ManageInfo>
+	    <Language/>
+	    <URL urlencode="1">http%3A%2F%2Fwww.nsale.co.kr</URL>
+	    <TXVersion>5036B141209securLinux     PHPchkfake   3.14.44-32.39.amzn1.x86_64PHP:</TXVersion>
+	    <TXUserID/>
+	    <TXRegNum/>
+	    <Ack>1</Ack>
+	    <TXRN>MjAxNTA5MDQxMDU3MzcwODMzMzk4MA==
+</TXRN></ManageInfo></INIpay>AHNFCjNkt8bxwaMIE1HPgJbx/tD+OwmAtAZmVCQs57yC3zkMyARCOkafAQ6TPXmU
+U/7+a94wBaAqts98V2rJfvnsTQgjtKoNdFNBwxa6PRLSuGFDtPhvTfQXiLpB4wzH
+vAp+ikkEVM50OZ3oazdd7XavvAbwUnKprNiKgLDHVfEX
+]
+INFO	[2015-09-04 10:58:34:718] <7103> DNS LOOKUP OK(203.238.37.3:203.238.37.3:34049) laptime:0
+INFO	[2015-09-04 10:58:34:757] <7103> SOCKET CONNECT OK
+INFO	[2015-09-04 10:58:34:757] <7103> SEND OK
+INFO	[2015-09-04 10:58:35:340] <7103> RECV OK
+INFO	[2015-09-04 10:58:35:340] <7103> MSG_FROM_PG:[0322200175D SHA1                   0                  39                  300210nsalecokr0               30000INIphpCARDnsalecokr020150904105834163213<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+  <GoodsInfo>
+    <GoodsCnt>1</GoodsCnt>
+    <MOID urlencode="1">2015090410562923</MOID>
+    <Currency>WON</Currency>
+    <Goods no="1">
+      <SMID>nsalecokr0</SMID>
+      <GoodsName urlencode="1">%B4%F5%BA%ED%C0%AF%B7%A6+%BA%ED%B7%A2%C5%B3%C6%D1%3A+%B3%D0%C0%BA%B8%F0%B0%F8%2F%BA%ED%B7%A2%C7%EC%B5%E5%2F%B0%FA%C0%D7%C7%C7%C1%F6</GoodsName>
+      <GoodsCntS>1</GoodsCntS>
+      <GoodsPrice>30000</GoodsPrice>
+    </Goods>
+  </GoodsInfo>
+  <PaymentInfo>
+    <Payment>
+      <SessionKey>AE8NPf8DBcMxwXX+pybua2s2Irn7WykcGdRLxKNoOFr8V/O/v/KT69RfgsM7aCxJ
+swWukEzTQ6g39Bw+29Clsdr7hO/yCvmeMb9Zty0/egVLloLZ22+cPGkfSyH/OMXV
+zuvHWxi4L1BYpL25qmw6jSLuosM0HhJOSIxPCe42gJXOCSUJHvp1w20=
+</SessionKey>
+      <Encrypted>eZtv/x5WxEiWwtf5xUT+RVmSKn59NfysyoVRZZk4nxIWItVaHEqJtSblnPltGV+T
+TvnlzaH6eiVH1WuNkUfZIAGTkSDJtIXgVOyz/iS5Xx55jVUVnGuMEUrf8wthWDP+
+URorlxaPUIpJEZr0tPfAikT8ySpgxjwWbfJE9Z8cp9+oqC1etCx0Ma4gYlaSd0oT
+n646oZ522LKjOz05wUhdbpNYndsIA7uWVaxURt1ntDuM9mumZj5Gv6QbsDv5RWXl
+P5mMBUmtAf9TTsQP9DjQkQiMA9Il/A8ahCyO8DQgEN+CUNz28x3TNFnsZXW7GA0Z
+/LuehRX29VM7K3OU3eUZL5iX1tzXr+px0H0/ydEuts2MLWwifST7M6U8YP6PEVF3
+4jNlhctc1W7706LR3zuU4HghiY+AsBUb8P+oRdGEa2vv7obK38RV7mMeNYcBXmHp
+mLA6RsX3BnEgT3A3o7FSuhmVQ/y0xfubrNiNEor00ETsVE9gVkDcTm5IOHptqUm7
+5vCjqqC6/UqsmtfvLmvw0zIelG532pYsIX7dPBogv3WvxSjRSOWq5nC+7SAoBJea
+pd5szM2Y7+FJLhyrRaXlzwF/DZBIM58zAMTSjDXcDP75RxzkWz15lsUmDJmpArom
+v36uZ8SoHna+H5tiZ/bhNhqgp3rX5dr0+xb147Hhu9b+51K9lHJiqiaepI+SZi1d
+ff7n49+YL0w85eW/9YLFcRozYWE8yTbJJmG26mZGnu8jX5fTO9cEqiPLzTr7PYZn
+mLbNMmqvLQMz7NMp5PacGSUagATgLxzYvXrZYTFcTdwa+hz16FhW0ddhw3kmrqf2
+OuejiF8dFGN+KlUEBjTfcmm8l/CXqbuYz4+rswXy7mFK3TzqbuJKAda0RirTHRvV
+KeBQN9qZq5rzsHuFOLsE1s8Bv2P/+Qx3BfPpWZ8yOa2yJK9Ul/TPb6pf+Wh0kfs6
+Uim9vpl3iCarNrd2qGeGjBT9rZZk7g2Z1LrptXrM1poSzAn0Gftu5YZ10PzwJwmy
+QrEwpVzq2hjU0nYkLKeNPhnij7D5DtTQha4Ek5syxDDxkiLM2hqq5AuHlyUPGIhA
+RbRTXjXpS3sUmpRxDiVgPYNeESZebvYZzrZSVTdacL9V05eFJC4OnVU1mEbtZ9Qw
+rcYB0sb52Pji7TCFpYs5BlY0mu8DwAk7IVh9G9X2SsQYMaUnjhXl8Y1U6vVno0C9
+GaLkEpe3ewajeq0p1Lrx9dav+5W3GoHpU9jTussWLX1mn8kl34elN91qAY3SblpE
+8+YcNhJK1Lb2JBvMg4QqxIDTBpV3v3nuW2RXnVFgw2i9SpZ9VMLKi5/EaTWY0F+z
+0lIIp3vtcmsrfmHa/uVW92W+9AogCT3uojVtVU1IQ4YFgmdnNO61bT4TCoODIM5y
+OvZIpnfoHUu3lE3LWdRo0yKaA0YUG7iKtPOjX+6+0TfZ3NQG68S+Tvejtj0RkkQq
+e3prwc108F5DeDVEd36+FWMP7x2H3bfXICS5PrqMSHZpPFCUM6OD2T7wlG2SXwuJ
+pfRPfvyI7+8pNg3jcd3gJ47mDDhzZkuVSeCxLkte6pqWC+tlfSwdkX/r2QwMeChz
+Xm/e+LmGHyHLUnoDRIuKnHxCLE/3funnW/k/21q28ezq2cZglE63bC4gGAZH/ZAY
+5DfwU2sw6MLXnMBX8j1p/a7iBBxhFTCA5O7pm9l+QQAPRx6ollyUP9a/x8v7vF/d
+Cvgt1yUPuXOhBZMEsn7WWMY4jnMgKWvf
+</Encrypted>
+      <PayMethod>Card</PayMethod>
+      <ResultCode>120000</ResultCode>
+      <ResultMsg urlencode="1">%C1%A4%BB%F3%C3%B3%B8%AE%B5%C7%BE%FA%BD%C0%B4%CF%B4%D9.</ResultMsg>
+    </Payment>
+  </PaymentInfo>
+  <ManageInfo>
+    <EventCode></EventCode>
+    <OrgCurrency></OrgCurrency>
+    <ExchangeRate></ExchangeRate>
+    <OrgPrice></OrgPrice>
+  </ManageInfo>
+  <ReservedInfo>
+    <MReserved1 urlencode="1"></MReserved1>
+    <MReserved2 urlencode="1"></MReserved2>
+    <MReserved3 urlencode="1"></MReserved3>
+    <PGReserved1 urlencode="1"></PGReserved1>
+    <PGReserved2 urlencode="1"></PGReserved2>
+    <PGReserved3 urlencode="1"></PGReserved3>
+  </ReservedInfo>
+</INIpay>
+AcPcvkhNecDCyqe0UicwplvACNNA6VMllTqM5iJ9PDzZZmJEwtWEJoO6SCj3O9mM
+VU48/EA4ZLbqWsHN/DKnCSwrIIt6l6Ckk9xC2AB06qbmaa+uLCBVa/O2JitwPs9Y
+srGYoaKDZToZZh7si7OvqivpembwI2/FTWMuFkhSMF8=
+]
+INFO	[2015-09-04 10:58:35:340] <7103> VERIFY OK
+INFO	[2015-09-04 10:58:35:340] <7103> PARSE HEAD OK
+INFO	[2015-09-04 10:58:35:341] <7103> PARSE BODY OK
+INFO	[2015-09-04 10:58:35:342] <7103> DECRYPT OK
+DEBUG	[2015-09-04 10:58:35:342] <7103> DECRYPT MSG:[<?xml version="1.0" encoding="UTF-8"?>
+<PaymentInfo>
+  <Payment>
+    <EASYPAY/>
+    <Card>
+      <CARD_ApplPrice>30000</CARD_ApplPrice>
+      <CARD_Num>520045054563</CARD_Num>
+      <CARD_Expire></CARD_Expire>
+      <CARD_Code>03</CARD_Code>
+      <CARD_BankCode>00</CARD_BankCode>
+      <CARD_Quota>00</CARD_Quota>
+      <CARD_Interest>0</CARD_Interest>
+      <CARD_Point></CARD_Point>
+      <CARD_AuthType>99</CARD_AuthType>
+      <CARD_RegNum></CARD_RegNum>
+      <CARD_ApplDate>20150904</CARD_ApplDate>
+      <CARD_ApplTime>105834</CARD_ApplTime>
+      <CARD_ApplNum>49793789</CARD_ApplNum>
+      <CARD_TerminalNum>0198732000</CARD_TerminalNum>
+      <CARD_MemberNum></CARD_MemberNum>
+      <CARD_PurchaseCode></CARD_PurchaseCode>
+      <CARD_ResultCode>120000</CARD_ResultCode>
+      <CARD_ResultMsg urlencode="1">%C1%A4%BB%F3%C3%B3%B8%AE%B5%C7%BE%FA%BD%C0%B4%CF%B4%D9.</CARD_ResultMsg>
+      <CARD_PrtcCode>1</CARD_PrtcCode>
+      <CARD_Quota_Point>00</CARD_Quota_Point>
+      <CARD_CheckFlag>0</CARD_CheckFlag>
+      <CARD_PurchaseName urlencode="1"></CARD_PurchaseName>
+      <CARD_IssuerName urlencode="1"></CARD_IssuerName>
+      <CARD_JoinUsePoint></CARD_JoinUsePoint>
+      <CARD_UsePoint>000000000000</CARD_UsePoint>
+      <CARD_CouponOnlyMer></CARD_CouponOnlyMer>
+    </Card>
+  </Payment>
+</PaymentInfo>]
+INFO	[2015-09-04 10:58:35:343] <7103> DECRYPT PARSE OK
+INFO	[2015-09-04 10:58:35:343] <7103> WAIT ACK INVOKING
+DEBUG	[2015-09-04 10:58:35:343] <7103> MAKE HEAD OK
+INFO	[2015-09-04 10:58:35:382] <7103> SUCCESS ACK INVOKING
+INFO	[2015-09-04 10:58:35:383] <7103> END securepay 정상처리되었습니다. Laptime:[0.667sec]
+INFO	[2015-09-04 10:58:35:383] <7103> ===============================================================
+INFO	[2015-09-04 11:59:40:644] <9248> START INIPHP chkfake (V5036-141209)(OS:Linux3.14.44-32.39.amzn1.x86_64,PHP:5.3.29)
+DEBUG	[2015-09-04 11:59:40:644] <9248> inipayhome:/var/www/html/nsale/shop/inicis
+DEBUG	[2015-09-04 11:59:40:644] <9248> debug:false
+DEBUG	[2015-09-04 11:59:40:644] <9248> type:chkfake
+DEBUG	[2015-09-04 11:59:40:644] <9248> enctype:asym
+DEBUG	[2015-09-04 11:59:40:644] <9248> admin:1111
+DEBUG	[2015-09-04 11:59:40:644] <9248> checkopt:false
+DEBUG	[2015-09-04 11:59:40:644] <9248> mid:nsalecokr0
+DEBUG	[2015-09-04 11:59:40:644] <9248> price:39000
+DEBUG	[2015-09-04 11:59:40:644] <9248> nointerest:no
+DEBUG	[2015-09-04 11:59:40:644] <9248> quotabase:선택:일시불:2개월:3개월:4개월:5개월:6개월:7개월:8개월:9개월:10개월:11개월:12개월
+INFO	[2015-09-04 11:59:40:644] <9248> Check Field OK
+INFO	[2015-09-04 11:59:40:645] <9248> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-09-04 11:59:40:645] <9248> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-09-04 11:59:40:645] <9248> CHKFAKE KEY MAKE OK:MjAxNTA5MDQxMTU5NDA2NDU2MDY5MA==
+
+INFO	[2015-09-04 11:59:40:645] <9248> END chkfake  Laptime:[0.001sec]
+INFO	[2015-09-04 11:59:40:646] <9248> ===============================================================
+INFO	[2015-09-04 12:00:45:723] <4220> START INIPHP securepay (V5036-141209)(OS:Linux3.14.44-32.39.amzn1.x86_64,PHP:5.3.29)
+DEBUG	[2015-09-04 12:00:45:723] <4220> inipayhome:/var/www/html/nsale/shop/inicis
+DEBUG	[2015-09-04 12:00:45:723] <4220> debug:false
+DEBUG	[2015-09-04 12:00:45:723] <4220> type:securepay
+DEBUG	[2015-09-04 12:00:45:723] <4220> pgid:INIphpVBNK
+DEBUG	[2015-09-04 12:00:45:723] <4220> subpgip:203.238.3.10
+DEBUG	[2015-09-04 12:00:45:723] <4220> admin:1111
+DEBUG	[2015-09-04 12:00:45:723] <4220> uid:
+DEBUG	[2015-09-04 12:00:45:723] <4220> goodname:바우어 세라믹칼 6종세트
+DEBUG	[2015-09-04 12:00:45:723] <4220> currency:WON
+DEBUG	[2015-09-04 12:00:45:723] <4220> mid:nsalecokr0
+DEBUG	[2015-09-04 12:00:45:723] <4220> rn:MjAxNTA5MDQxMTU5NDA2NDU2MDY5MA==
+
+DEBUG	[2015-09-04 12:00:45:723] <4220> price:39000
+DEBUG	[2015-09-04 12:00:45:723] <4220> enctype:
+DEBUG	[2015-09-04 12:00:45:723] <4220> buyername:정옥란
+DEBUG	[2015-09-04 12:00:45:723] <4220> buyertel:01094439531
+DEBUG	[2015-09-04 12:00:45:723] <4220> buyeremail:okran0117@daum.net
+DEBUG	[2015-09-04 12:00:45:723] <4220> paymethod:VBank
+DEBUG	[2015-09-04 12:00:45:723] <4220> encrypted:Version=4.1&PayMethod=VBank&RsaKeyNum=1&EncryptionAlgorithm=SEED-CBC&SignAlgorithm=RSAwithSHA1&CertVer=39&moid=2015090411582851&ver_trace=main(6097,6059)vbank(6031,6033)n(6009)Cs(6025)Dt(6002)Pa(6002)Cf(6024)Fv(0000)La(6155)Re(6105)Vr(6007)P(6034)en(6053)nP(6006)&pg1=203.238.37.3&pg2=211.219.96.180&pg1ip=203.238.37.3&pg2ip=211.219.96.180&agreeflag=1111&Data=8RIx1K+5XbC11Mvnn753Kg/O+842/I5UZ/IkII0gxZG3HN8JZPBr1VR1jBicX/2f
+7O47RwtgRV4fYSL6YWWedyS9BKEF4Xpy5KjMThCM0/IIJzAh2xK9V0uiPMH8GLwk
+8sN1flkiTjqUCc3rFfDSeYiMd79RkwgJd+hreUTWKK+fhqx8nh47d9VscrIGp7On
+lhbr6KUDIxEGpInxumbXRF0YIbxoCubq2MtV/mAe7gha1LagX9V8rj3Xg7/8AcXh
+jXl1VR0v225Niw/nYt/xRTGbOKEw7Lx5AAHTx9fx3TVO2fYfMFWkHQ+Ufac7ZqtA
+wFOEk/083KjOOaKkbQEspkoRKkJsOtZ+7baAUq4ehMQW8UvhZOSmMO5qXZ3DPg8Q
+G2uN5tcUQuWuIN+BzKgWNRMFFdhbfrhJKxULSpwqIrF6RA6OgWk7UQ7MzwMmz1Zz
+wuUo/dLXqsUz1nwbpW5aJuDE9rwIudMGW1VeSNI1cVNELoVtIROEu3u237fnD4qM
+E09+rAYUZMRLqs3QMPTJlaHK/0F+i4eVsN0gf5M=
+DEBUG	[2015-09-04 12:00:45:723] <4220> sessionkey:kJX91gke64M4PdSllwCQU7jT3aL6yUHTpyES76Y0t+t34jahvg8XDB48tnkJBVWN
+xCMopu+VTbtUlb9SpyUcgLINYg4HR3DmdJpjY+Rltewnhn2Zfuf4981muBMZaZZ8
+It0zs5kS+uDDjXIbkcuoI3uUDeVBUuePGqhyS2xZxO4=
+DEBUG	[2015-09-04 12:00:45:723] <4220> url:http://www.nsale.co.kr
+DEBUG	[2015-09-04 12:00:45:723] <4220> cardcode:
+DEBUG	[2015-09-04 12:00:45:723] <4220> parentemail:
+DEBUG	[2015-09-04 12:00:45:723] <4220> recvname:정옥란
+DEBUG	[2015-09-04 12:00:45:723] <4220> recvtel:01094439531
+DEBUG	[2015-09-04 12:00:45:723] <4220> recvaddr:전남 순천시 봉화1길 33 508동 304호
+DEBUG	[2015-09-04 12:00:45:723] <4220> recvpostnum:57951
+DEBUG	[2015-09-04 12:00:45:723] <4220> recvmsg:
+DEBUG	[2015-09-04 12:00:45:723] <4220> joincard:
+DEBUG	[2015-09-04 12:00:45:723] <4220> joinexpire:
+DEBUG	[2015-09-04 12:00:45:723] <4220> id_customer:
+INFO	[2015-09-04 12:00:45:723] <4220> Check Field OK
+INFO	[2015-09-04 12:00:45:723] <4220> Make TID OK INIphpVBNKnsalecokr020150904120045235831
+INFO	[2015-09-04 12:00:45:723] <4220> PI PUB KEY LOAD OK [39]
+INFO	[2015-09-04 12:00:45:724] <4220> PG PUB KEY LOAD OK [30]
+INFO	[2015-09-04 12:00:45:724] <4220> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-09-04 12:00:45:724] <4220> MERCHANT PUB KEY LOAD OK [0]
+INFO	[2015-09-04 12:00:45:725] <4220> MAKE BODY OK
+INFO	[2015-09-04 12:00:45:725] <4220> SIGN OK
+INFO	[2015-09-04 12:00:45:725] <4220> MAKE HEAD OK
+INFO	[2015-09-04 12:00:45:725] <4220> MSG_TO_PG:[0280400175R SHA1                   0                  39                  300200nsalecokr0               39000INIphpVBNKnsalecokr020150904120045235831<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+	  <GoodsInfo>
+	    <GoodsCnt>1</GoodsCnt>
+	    <MOID/>
+	    <Currency>WON</Currency>
+	    <Tax/>
+	    <TaxFree/>
+	    <Goods>
+	      <SMID>nsalecokr0</SMID>
+	      <GoodsName urlencode="1">%B9%D9%BF%EC%BE%EE+%BC%BC%B6%F3%B9%CD%C4%AE+6%C1%BE%BC%BC%C6%AE</GoodsName>
+	      <GoodsPrice>39000</GoodsPrice></Goods></GoodsInfo>
+	  <BuyerInfo>
+	    <BuyerName urlencode="1">%C1%A4%BF%C1%B6%F5</BuyerName>
+	    <BuyerTel>01094439531</BuyerTel>
+	    <BuyerEmail urlencode="1">okran0117%40daum.net</BuyerEmail>
+	    <ParentEmail/>
+	    <RecvName urlencode="1">%C1%A4%BF%C1%B6%F5</RecvName>
+	    <RecvTel urlencode="1">01094439531</RecvTel>
+	    <RecvMsg/>
+	    <RecvAddr urlencode="1">%C0%FC%B3%B2+%BC%F8%C3%B5%BD%C3+%BA%C0%C8%AD1%B1%E6+33+508%B5%BF+304%C8%A3</RecvAddr>
+	    <RecvPostNum urlencode="1">57951</RecvPostNum></BuyerInfo>
+	  <PaymentInfo>
+	    <Payment>
+	      <PayMethod>VBank</PayMethod>
+	      <JoinCard/>
+	      <JoinExpire/>
+	      <MailOrder/>
+	      <SessionKey>kJX91gke64M4PdSllwCQU7jT3aL6yUHTpyES76Y0t+t34jahvg8XDB48tnkJBVWN
+xCMopu+VTbtUlb9SpyUcgLINYg4HR3DmdJpjY+Rltewnhn2Zfuf4981muBMZaZZ8
+It0zs5kS+uDDjXIbkcuoI3uUDeVBUuePGqhyS2xZxO4=</SessionKey>
+	      <Encrypted urlencode="1">Version%3D4.1%26PayMethod%3DVBank%26RsaKeyNum%3D1%26EncryptionAlgorithm%3DSEED-CBC%26SignAlgorithm%3DRSAwithSHA1%26CertVer%3D39%26moid%3D2015090411582851%26ver_trace%3Dmain%286097%2C6059%29vbank%286031%2C6033%29n%286009%29Cs%286025%29Dt%286002%29Pa%286002%29Cf%286024%29Fv%280000%29La%286155%29Re%286105%29Vr%286007%29P%286034%29en%286053%29nP%286006%29%26pg1%3D203.238.37.3%26pg2%3D211.219.96.180%26pg1ip%3D203.238.37.3%26pg2ip%3D211.219.96.180%26agreeflag%3D1111%26Data%3D8RIx1K%2B5XbC11Mvnn753Kg%2FO%2B842%2FI5UZ%2FIkII0gxZG3HN8JZPBr1VR1jBicX%2F2f%0D%0A7O47RwtgRV4fYSL6YWWedyS9BKEF4Xpy5KjMThCM0%2FIIJzAh2xK9V0uiPMH8GLwk%0D%0A8sN1flkiTjqUCc3rFfDSeYiMd79RkwgJd%2BhreUTWKK%2Bfhqx8nh47d9VscrIGp7On%0D%0Alhbr6KUDIxEGpInxumbXRF0YIbxoCubq2MtV%2FmAe7gha1LagX9V8rj3Xg7%2F8AcXh%0D%0AjXl1VR0v225Niw%2FnYt%2FxRTGbOKEw7Lx5AAHTx9fx3TVO2fYfMFWkHQ%2BUfac7ZqtA%0D%0AwFOEk%2F083KjOOaKkbQEspkoRKkJsOtZ%2B7baAUq4ehMQW8UvhZOSmMO5qXZ3DPg8Q%0D%0AG2uN5tcUQuWuIN%2BBzKgWNRMFFdhbfrhJKxULSpwqIrF6RA6OgWk7UQ7MzwMmz1Zz%0D%0AwuUo%2FdLXqsUz1nwbpW5aJuDE9rwIudMGW1VeSNI1cVNELoVtIROEu3u237fnD4qM%0D%0AE09%2BrAYUZMRLqs3QMPTJlaHK%2F0F%2Bi4eVsN0gf5M%3D</Encrypted></Payment></PaymentInfo>
+	  <ReservedInfo>
+	    <MReserved1/>
+	    <MReserved2/>
+	    <MReserved3/></ReservedInfo>
+	  <ManageInfo>
+	    <Language/>
+	    <URL urlencode="1">http%3A%2F%2Fwww.nsale.co.kr</URL>
+	    <TXVersion>5036B141209securLinux     PHPchkfake   3.14.44-32.39.amzn1.x86_64PHP:</TXVersion>
+	    <TXUserID/>
+	    <TXRegNum/>
+	    <Ack>1</Ack>
+	    <TXRN>MjAxNTA5MDQxMTU5NDA2NDU2MDY5MA==
+</TXRN></ManageInfo></INIpay>AKpmnFxQMPGE1ph3cjD2fjHw1249M/mMGkmwXoSqwOfHqm1H53w0S4NV448ANadx
+XXdqWDGwkMqfn4IPFFCixOfqqW/lSzGktVDMoG6WGvGmXc9FpMlGyHPAzRRXlDQI
+r3IxISybmOz+Um6QaKI3resvzMXVaNRDoGxMNLLXKUF1
+]
+INFO	[2015-09-04 12:00:45:725] <4220> DNS LOOKUP OK(203.238.37.3:203.238.37.3:34049) laptime:0
+INFO	[2015-09-04 12:00:45:763] <4220> SOCKET CONNECT OK
+INFO	[2015-09-04 12:00:45:763] <4220> SEND OK
+INFO	[2015-09-04 12:00:45:990] <4220> RECV OK
+INFO	[2015-09-04 12:00:45:990] <4220> MSG_FROM_PG:[0324400175D SHA1                   0                  39                  300210nsalecokr0               39000INIphpVBNKnsalecokr020150904120045235831<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+  <GoodsInfo>
+    <GoodsCnt>1</GoodsCnt>
+    <MOID urlencode="1">2015090411582851</MOID>
+    <Currency>WON</Currency>
+    <Goods no="1">
+      <SMID>nsalecokr0</SMID>
+      <GoodsName urlencode="1">%B9%D9%BF%EC%BE%EE+%BC%BC%B6%F3%B9%CD%C4%AE+6%C1%BE%BC%BC%C6%AE</GoodsName>
+      <GoodsCntS>1</GoodsCntS>
+      <GoodsPrice>39000</GoodsPrice>
+    </Goods>
+  </GoodsInfo>
+  <PaymentInfo>
+    <Payment>
+      <SessionKey>AJ1FiQjhySMcbfxqe4/4VUbBFGNzqRRczb5jdjNv1UAVJ+espD+6tpHgSMjm+M1L
+vG2kGU4F4kBt6YB1PPgoupKOcuUdRLvlE45aSkSg5fXnkWj4YguuNPJn8A2n66Fs
+aaThmLRbNN/3a/p3WgKQh6XVPMbeByG++sfAZjtirZ2u+NXiFKc7zzA=
+</SessionKey>
+      <Encrypted>zHkmPgy1nDlO9ycsYHO3bInflJDxe2VS/3IVMq0TyCKgrFuzAPG9z5v2tzB3gQAv
+MWGrNgj229i7KI3hUTpxbtnk6v7ZkqLlD7Xv9IYphAvqbtgLwLoYcIWWLD2NmayD
+KWt1VtuukmKYaTPqA5DBLF7TH2zjmz6fBsiZVvzaSRC7d4koEEnKylaoHsMgHH8a
+4oBHBNQtEkwMYZtGQHjSFvetfAU8/2wfFEnSgonlO4vbt96yXaicnL1UDMlNB5dJ
+e7AHKUVuYcXl5Adn7WeX+82TF2hhtYEaZzeZluo0ItijSVkilVlnb5FWT1h1Fg/8
+W0QcNRdRJL9PjyUzmSSoZzCeQmtvxRpGyI1JRD9V6+Tq4fGti/KT32rQHoqUXLpK
+S5sNL41HkgWCcQfoFefGUzt2fe4hZ4YQacuHZqO/6WelzPvPecSy4yL4DDzsfjRG
+5J1LeL6Pl8HRxYthM89rSgDnSndePoHvmBNjAFWsKbeSn7/LYTt7FsZYFuPp/B2i
+m3ds5KpF2ZsLoYH6Sxp0u7SeOBPaTZ9FLEMt+ps9+uXPQsyo/LEb6+dRm7BrCW5M
+FTYk44/9oitgT2GHg0XdWT/czIA+mJ72UczEDqiNClILdpG1ACpRlcV0hYq/lVmf
+oIto/XU3eWc6xnxuDbm4kk+++8Iu5jCwZIJTZxUdCS21eX8aDIO6l1IyCA3ANTmt
+26WRuouutfCZ0jJPqJO6g2rDX4F1QUCIv0PlMv3xhRAJzLv/RONx2LjRstU74s5u
+fecUUHc+X51mnUJv8IfPw795aJEYo0lwapobUCKmO/zvNnzOVS2DhfJuPN0WE/BN
+cbag7wCjqQ4QB4M8FWN79BRxdbOa9eWcnHgWU7xXMH3heORmltVGzG7lVBTpErvu
+WSxh/zWzuZz+Y7CJw4B6ERr45mhvX/HYOgZ+mtAZdgUDuAmzKwJv6sLU+WwVet3i
+RqAi9KQxBP51m7eMaAqKlqxg5y84lFfkrHBd6eL1ruDMci0oGed7j02Y2pEIM6Sj
+WRqRLi/AbHhSUHOlQVSLxQi+ZrhjdvoUrJy/dAUGyhmIYHPqcNo4nCyGQuwgNlt1
+reVIf9wPMb9uQrFUF1+RNx2MoNbB2L85nTdpihcPQNLK46uuvJN4AaetEz9l9FIW
+Z3NDtJBIFI/ZUExrlHn45L7RdPO8uM4x2Ls5sdIpPKefVMevWDwxp5OhEd2scSOh
+uhdYWq+fRZaDZ6dBdUjiwEZpmxCW2NvmgHofzk26fCI3P2bwqH8X9xyZHGuNPPxx
+kC5yCxKqIsjXkx59GFARBNHofIYsHlUFSukp2ztgQQvYpV+RuUsPumq74nlu3Uos
+RXoSypdrgZoL5/lyigJXIi6bdaauZpA81xM5lU/muY30AkW21ET29M0OjUR7LSVz
+jKO/NgV/PZIZtRpwkR3xJ38oY9xEvdRYm6HUt0QiyLr8gKfo91FoGdgc+GtDct+D
+9PtjBQhAOFZROJJQLxOrkFGgWqnxj0E8S5NKhbgzgtH8yqklchm9MGLO01x5TO9V
+QDuFBmaaTkXX34wK+HeNonutTHQyxWKnUnlfg3cQi3gstZAOSk89w0E5XoihjTbQ
+Zu/0DvV9b53HLOLEt2uKltyBqxgSUX9pUct7bfNaSjS/kEW2A/c8pXiF2IHHG4NR
+tc3zMBHUwq8XaMhCWun07zuWQr2BfV4Eb+2+xs7dXpQkRTMaW6qi5yrUeFRWAYq1
+qHB7U718wKDmDfcP/ORuaMbwat2sIwhfO62zJyUOWH6mHDE/9DiTOcFgANWzGO1z
+WhPASDvujF4hXEfkbThPhf123b7u8fSS6s3IygHKgHZDPjYZXDMkpg==
+</Encrypted>
+      <PayMethod>VBank</PayMethod>
+      <ResultCode>170000</ResultCode>
+      <ResultMsg urlencode="1">%C1%A4%BB%F3%C3%B3%B8%AE%B5%C7%BE%FA%BD%C0%B4%CF%B4%D9.</ResultMsg>
+    </Payment>
+  </PaymentInfo>
+  <ManageInfo>
+    <EventCode></EventCode>
+    <OrgCurrency></OrgCurrency>
+    <ExchangeRate></ExchangeRate>
+    <OrgPrice></OrgPrice>
+  </ManageInfo>
+  <ReservedInfo>
+    <MReserved1 urlencode="1"></MReserved1>
+    <MReserved2 urlencode="1"></MReserved2>
+    <MReserved3 urlencode="1"></MReserved3>
+    <PGReserved1 urlencode="1"></PGReserved1>
+    <PGReserved2 urlencode="1"></PGReserved2>
+    <PGReserved3 urlencode="1"></PGReserved3>
+  </ReservedInfo>
+</INIpay>
+AzLe3QHx83QS7Y+L8Ts9a3f416p2Sb3OO68VsEfwjB9CvMdv+ChRxmP/w4QwWY5X
+7IWUnlicylKZioh5TDuhJzPpNFRL6ZLWJod+u5lYkdSOmYhD55LT/ng6iiHk50Ul
+ndus1pi+jmuC3AAScAa7pv4HwR9ZAfw2eQ78QYKSyWI=
+]
+INFO	[2015-09-04 12:00:45:990] <4220> VERIFY OK
+INFO	[2015-09-04 12:00:45:990] <4220> PARSE HEAD OK
+INFO	[2015-09-04 12:00:45:991] <4220> PARSE BODY OK
+INFO	[2015-09-04 12:00:45:992] <4220> DECRYPT OK
+DEBUG	[2015-09-04 12:00:45:993] <4220> DECRYPT MSG:[<?xml version="1.0" encoding="UTF-8"?>
+<PaymentInfo>
+  <Payment>
+    <EASYPAY/>
+    <VBank>
+      <VACT_Num>01443264293512</VACT_Num>
+      <VACT_BankCode>11</VACT_BankCode>
+      <VACT_Date>20150911</VACT_Date>
+      <VACT_Time></VACT_Time>
+      <VACT_InputName urlencode="1">%C1%A4%BF%C1%B6%F5</VACT_InputName>
+      <VACT_Name urlencode="1">%BF%CD%BF%EC%BA%A5%C3%B3%BD%BA</VACT_Name>
+      <VACT_RefundName urlencode="1"></VACT_RefundName>
+      <VACT_RefundBankCode></VACT_RefundBankCode>
+      <VACT_RefundNum></VACT_RefundNum>
+      <VACT_ApplPrice>39000</VACT_ApplPrice>
+      <VACT_ApplDate>20150904</VACT_ApplDate>
+      <VACT_ApplTime>120045</VACT_ApplTime>
+      <VACT_ResultCode>170000</VACT_ResultCode>
+      <VACT_ResultMsg urlencode="1">%C1%A4%BB%F3%C3%B3%B8%AE%B5%C7%BE%FA%BD%C0%B4%CF%B4%D9.</VACT_ResultMsg>
+    </VBank>
+    <CASH>
+      <CSHR_ApplPrice>39000</CSHR_ApplPrice>
+      <CSHR_SupplyPrice>35455</CSHR_SupplyPrice>
+      <CSHR_Tax>3545</CSHR_Tax>
+      <CSHR_ServicePrice>0</CSHR_ServicePrice>
+      <CSHR_Type>0</CSHR_Type>
+      <CSHR_ApplDate>20150904</CSHR_ApplDate>
+      <CSHR_ApplTime>120045</CSHR_ApplTime>
+      <CSHR_ApplNum></CSHR_ApplNum>
+      <CSHR_ResultCode>220000</CSHR_ResultCode>
+      <CSHR_ResultMsg urlencode="1">%C1%A4%BB%F3%C3%B3%B8%AE%B5%C7%BE%FA%BD%C0%B4%CF%B4%D9.</CSHR_ResultMsg>
+    </CASH>
+  </Payment>
+</PaymentInfo>]
+INFO	[2015-09-04 12:00:45:993] <4220> DECRYPT PARSE OK
+INFO	[2015-09-04 12:00:45:993] <4220> WAIT ACK INVOKING
+DEBUG	[2015-09-04 12:00:45:993] <4220> MAKE HEAD OK
+INFO	[2015-09-04 12:00:46:31] <4220> SUCCESS ACK INVOKING
+INFO	[2015-09-04 12:00:46:31] <4220> END securepay 정상처리되었습니다. Laptime:[0.308sec]
+INFO	[2015-09-04 12:00:46:31] <4220> ===============================================================
+INFO	[2015-09-04 14:43:23:626] <3046> START INIPHP chkfake (V5036-141209)(OS:Linux3.14.44-32.39.amzn1.x86_64,PHP:5.3.29)
+DEBUG	[2015-09-04 14:43:23:626] <3046> inipayhome:/var/www/html/nsale/shop/inicis
+DEBUG	[2015-09-04 14:43:23:626] <3046> debug:false
+DEBUG	[2015-09-04 14:43:23:626] <3046> type:chkfake
+DEBUG	[2015-09-04 14:43:23:626] <3046> enctype:asym
+DEBUG	[2015-09-04 14:43:23:626] <3046> admin:1111
+DEBUG	[2015-09-04 14:43:23:626] <3046> checkopt:false
+DEBUG	[2015-09-04 14:43:23:626] <3046> mid:nsalecokr0
+DEBUG	[2015-09-04 14:43:23:626] <3046> price:39000
+DEBUG	[2015-09-04 14:43:23:626] <3046> nointerest:no
+DEBUG	[2015-09-04 14:43:23:626] <3046> quotabase:선택:일시불:2개월:3개월:4개월:5개월:6개월:7개월:8개월:9개월:10개월:11개월:12개월
+INFO	[2015-09-04 14:43:23:626] <3046> Check Field OK
+INFO	[2015-09-04 14:43:23:626] <3046> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-09-04 14:43:23:626] <3046> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-09-04 14:43:23:627] <3046> CHKFAKE KEY MAKE OK:MjAxNTA5MDQxNDQzMjM2MjY2ODcyNg==
+
+INFO	[2015-09-04 14:43:23:627] <3046> END chkfake  Laptime:[0.001sec]
+INFO	[2015-09-04 14:43:23:627] <3046> ===============================================================
+INFO	[2015-09-04 14:44:18:656] <2929> START INIPHP securepay (V5036-141209)(OS:Linux3.14.44-32.39.amzn1.x86_64,PHP:5.3.29)
+DEBUG	[2015-09-04 14:44:18:656] <2929> inipayhome:/var/www/html/nsale/shop/inicis
+DEBUG	[2015-09-04 14:44:18:656] <2929> debug:false
+DEBUG	[2015-09-04 14:44:18:656] <2929> type:securepay
+DEBUG	[2015-09-04 14:44:18:656] <2929> pgid:INIphpCARD
+DEBUG	[2015-09-04 14:44:18:656] <2929> subpgip:203.238.3.10
+DEBUG	[2015-09-04 14:44:18:656] <2929> admin:1111
+DEBUG	[2015-09-04 14:44:18:656] <2929> uid:
+DEBUG	[2015-09-04 14:44:18:656] <2929> goodname:바우어 세라믹칼 6종세트
+DEBUG	[2015-09-04 14:44:18:656] <2929> currency:WON
+DEBUG	[2015-09-04 14:44:18:656] <2929> mid:nsalecokr0
+DEBUG	[2015-09-04 14:44:18:656] <2929> rn:MjAxNTA5MDQxNDQzMjM2MjY2ODcyNg==
+
+DEBUG	[2015-09-04 14:44:18:656] <2929> price:39000
+DEBUG	[2015-09-04 14:44:18:656] <2929> enctype:
+DEBUG	[2015-09-04 14:44:18:656] <2929> buyername:서석종
+DEBUG	[2015-09-04 14:44:18:656] <2929> buyertel:01027983330
+DEBUG	[2015-09-04 14:44:18:656] <2929> buyeremail:seokjong78@naver.com
+DEBUG	[2015-09-04 14:44:18:656] <2929> paymethod:Card
+DEBUG	[2015-09-04 14:44:18:656] <2929> encrypted:Version=4.1&PayMethod=Card&RsaKeyNum=1&EncryptionAlgorithm=SEED-CBC&SignAlgorithm=RSAwithSHA1&CertVer=39&moid=2015090414431707&ver_trace=main(6097,6059)card(6140,6123)n(6009)Cs(6025)Dt(6002)Pa(6002)Cf(6024)Fv(0000)La(6155)Re(6105)Vr(6007)P(6034)en(6053)nP(6006)&pg1=203.238.37.3&pg2=211.219.96.180&pg1ip=203.238.37.3&pg2ip=211.219.96.180&agreeflag=1111&Data=9keF87uip7YS6gJxjn3gu59VpUstIO7crgzQMjzsFcj6VN3WDYUplteLH/7xHH3E
+kc60ZYnnd1pUcaC224bmCu/dsa/SuiWfyjLJ95/HrGdNO0JyRAeqiCeU19GYAdOg
+ZybwMxoKe/qTUV0TPh0iSs7Ii6y2EvwSciOS7UXobe8HxrMHFPIOQtcRWijkFNDn
+rIT8CFu+SzQ70cpiVgFphqVq7mafiMVmBZGUhn15c+PdQ7XQNa/Sr3d+ecHCLGL1
+tZitxm/gudAlMzmQmnS1DTRFJX0stIo5IfyReo3ryDXR9lS/2PKqKvHwq6p9Vavk
+euYEenk7zOr1cjvw6IzgHoQCk14lokxbrDliRPslLa3Zr1lAfYRcu1zOZrPbZE25
+LyU6Xbj3yZHodop9QIBZoIvzzINmjkvEGUdbhpl2hsvMwSNDJ7+LPEwB5FwHP51t
+aS3r+7hR+of6p/B5uEToZ8QnhOtm5/5AHFvO/rV4liA8kqW/L4pU4NzcMAKviZc5
++CvDwVPrNpbtVhK9vx7ep2W9NBqf+QcSl2IZfG4uWtpmBBXOJG8xJmHotBpXMK62
+jy6pGiYnxX4ddE8JNmK6QL4R226H+sEqx7Hqnr8DsUVOeT6tkiKecM2KY4Gy+88J
+ssjXL5q5haXa/sP3NHeURSjLUnYLs9AgiAiz91o621gcVGYfsAG8N139oYs5YYAO
+wGXnGOYKqA==
+DEBUG	[2015-09-04 14:44:18:656] <2929> sessionkey:JBohZHSq/C35TZlWzJYQzg+pSigHmVe3smZpSFQs+7I8A8XI72knikbnaPcEMZkl
+DfmwozRAJpwZdE87E+JP4k7XjabcwdCUFL74T3VJ92mdTPeB/x5jkmnTl6ppnUWu
+z9MuLuTXi+IMf9Qhh1pE/ZKyoD2eod+TfE1kLSqrgZc=
+DEBUG	[2015-09-04 14:44:18:656] <2929> url:http://www.nsale.co.kr
+DEBUG	[2015-09-04 14:44:18:656] <2929> cardcode:04
+DEBUG	[2015-09-04 14:44:18:656] <2929> parentemail:
+DEBUG	[2015-09-04 14:44:18:656] <2929> recvname:서석종
+DEBUG	[2015-09-04 14:44:18:656] <2929> recvtel:01027983330
+DEBUG	[2015-09-04 14:44:18:656] <2929> recvaddr:경기 부천시 원미구 도약로 206 213동 303호
+DEBUG	[2015-09-04 14:44:18:656] <2929> recvpostnum:14535
+DEBUG	[2015-09-04 14:44:18:656] <2929> recvmsg:
+DEBUG	[2015-09-04 14:44:18:656] <2929> joincard:
+DEBUG	[2015-09-04 14:44:18:656] <2929> joinexpire:
+DEBUG	[2015-09-04 14:44:18:656] <2929> id_customer:
+INFO	[2015-09-04 14:44:18:656] <2929> Check Field OK
+INFO	[2015-09-04 14:44:18:656] <2929> Make TID OK INIphpCARDnsalecokr020150904144418563293
+INFO	[2015-09-04 14:44:18:656] <2929> PI PUB KEY LOAD OK [39]
+INFO	[2015-09-04 14:44:18:657] <2929> PG PUB KEY LOAD OK [30]
+INFO	[2015-09-04 14:44:18:657] <2929> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-09-04 14:44:18:657] <2929> MERCHANT PUB KEY LOAD OK [0]
+INFO	[2015-09-04 14:44:18:658] <2929> MAKE BODY OK
+INFO	[2015-09-04 14:44:18:658] <2929> SIGN OK
+INFO	[2015-09-04 14:44:18:658] <2929> MAKE HEAD OK
+INFO	[2015-09-04 14:44:18:658] <2929> MSG_TO_PG:[0301000175R SHA1                   0                  39                  300200nsalecokr0               39000INIphpCARDnsalecokr020150904144418563293<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+	  <GoodsInfo>
+	    <GoodsCnt>1</GoodsCnt>
+	    <MOID/>
+	    <Currency>WON</Currency>
+	    <Tax/>
+	    <TaxFree/>
+	    <Goods>
+	      <SMID>nsalecokr0</SMID>
+	      <GoodsName urlencode="1">%B9%D9%BF%EC%BE%EE+%BC%BC%B6%F3%B9%CD%C4%AE+6%C1%BE%BC%BC%C6%AE</GoodsName>
+	      <GoodsPrice>39000</GoodsPrice></Goods></GoodsInfo>
+	  <BuyerInfo>
+	    <BuyerName urlencode="1">%BC%AD%BC%AE%C1%BE</BuyerName>
+	    <BuyerTel>01027983330</BuyerTel>
+	    <BuyerEmail urlencode="1">seokjong78%40naver.com</BuyerEmail>
+	    <ParentEmail/>
+	    <RecvName urlencode="1">%BC%AD%BC%AE%C1%BE</RecvName>
+	    <RecvTel urlencode="1">01027983330</RecvTel>
+	    <RecvMsg/>
+	    <RecvAddr urlencode="1">%B0%E6%B1%E2+%BA%CE%C3%B5%BD%C3+%BF%F8%B9%CC%B1%B8+%B5%B5%BE%E0%B7%CE+206+213%B5%BF+303%C8%A3</RecvAddr>
+	    <RecvPostNum urlencode="1">14535</RecvPostNum></BuyerInfo>
+	  <PaymentInfo>
+	    <Payment>
+	      <PayMethod>Card</PayMethod>
+	      <JoinCard/>
+	      <JoinExpire/>
+	      <MailOrder/>
+	      <SessionKey>JBohZHSq/C35TZlWzJYQzg+pSigHmVe3smZpSFQs+7I8A8XI72knikbnaPcEMZkl
+DfmwozRAJpwZdE87E+JP4k7XjabcwdCUFL74T3VJ92mdTPeB/x5jkmnTl6ppnUWu
+z9MuLuTXi+IMf9Qhh1pE/ZKyoD2eod+TfE1kLSqrgZc=</SessionKey>
+	      <Encrypted urlencode="1">Version%3D4.1%26PayMethod%3DCard%26RsaKeyNum%3D1%26EncryptionAlgorithm%3DSEED-CBC%26SignAlgorithm%3DRSAwithSHA1%26CertVer%3D39%26moid%3D2015090414431707%26ver_trace%3Dmain%286097%2C6059%29card%286140%2C6123%29n%286009%29Cs%286025%29Dt%286002%29Pa%286002%29Cf%286024%29Fv%280000%29La%286155%29Re%286105%29Vr%286007%29P%286034%29en%286053%29nP%286006%29%26pg1%3D203.238.37.3%26pg2%3D211.219.96.180%26pg1ip%3D203.238.37.3%26pg2ip%3D211.219.96.180%26agreeflag%3D1111%26Data%3D9keF87uip7YS6gJxjn3gu59VpUstIO7crgzQMjzsFcj6VN3WDYUplteLH%2F7xHH3E%0D%0Akc60ZYnnd1pUcaC224bmCu%2Fdsa%2FSuiWfyjLJ95%2FHrGdNO0JyRAeqiCeU19GYAdOg%0D%0AZybwMxoKe%2FqTUV0TPh0iSs7Ii6y2EvwSciOS7UXobe8HxrMHFPIOQtcRWijkFNDn%0D%0ArIT8CFu%2BSzQ70cpiVgFphqVq7mafiMVmBZGUhn15c%2BPdQ7XQNa%2FSr3d%2BecHCLGL1%0D%0AtZitxm%2FgudAlMzmQmnS1DTRFJX0stIo5IfyReo3ryDXR9lS%2F2PKqKvHwq6p9Vavk%0D%0AeuYEenk7zOr1cjvw6IzgHoQCk14lokxbrDliRPslLa3Zr1lAfYRcu1zOZrPbZE25%0D%0ALyU6Xbj3yZHodop9QIBZoIvzzINmjkvEGUdbhpl2hsvMwSNDJ7%2BLPEwB5FwHP51t%0D%0AaS3r%2B7hR%2Bof6p%2FB5uEToZ8QnhOtm5%2F5AHFvO%2FrV4liA8kqW%2FL4pU4NzcMAKviZc5%0D%0A%2BCvDwVPrNpbtVhK9vx7ep2W9NBqf%2BQcSl2IZfG4uWtpmBBXOJG8xJmHotBpXMK62%0D%0Ajy6pGiYnxX4ddE8JNmK6QL4R226H%2BsEqx7Hqnr8DsUVOeT6tkiKecM2KY4Gy%2B88J%0D%0AssjXL5q5haXa%2FsP3NHeURSjLUnYLs9AgiAiz91o621gcVGYfsAG8N139oYs5YYAO%0D%0AwGXnGOYKqA%3D%3D</Encrypted></Payment></PaymentInfo>
+	  <ReservedInfo>
+	    <MReserved1/>
+	    <MReserved2/>
+	    <MReserved3/></ReservedInfo>
+	  <ManageInfo>
+	    <Language/>
+	    <URL urlencode="1">http%3A%2F%2Fwww.nsale.co.kr</URL>
+	    <TXVersion>5036B141209securLinux     PHPchkfake   3.14.44-32.39.amzn1.x86_64PHP:</TXVersion>
+	    <TXUserID/>
+	    <TXRegNum/>
+	    <Ack>1</Ack>
+	    <TXRN>MjAxNTA5MDQxNDQzMjM2MjY2ODcyNg==
+</TXRN></ManageInfo></INIpay>AEABMdJSFkv9goy94X/zK1tah4WUVzWS+IC96BLOXhhNSweBxDQpJ2HtP058GdDE
+DaYdMRifAphQzDGX8Ahe7qWTSofu/hYfJ+y6czfghS0VKtOP7lBKFZYvuOK0Nu/C
+D55UY20jGBMYiurMY7YSF0KUghf4X5P/A0zE7ldDUTPL
+]
+INFO	[2015-09-04 14:44:18:658] <2929> DNS LOOKUP OK(203.238.37.3:203.238.37.3:34049) laptime:0
+INFO	[2015-09-04 14:44:18:696] <2929> SOCKET CONNECT OK
+INFO	[2015-09-04 14:44:18:696] <2929> SEND OK
+INFO	[2015-09-04 14:44:19:405] <2929> RECV OK
+INFO	[2015-09-04 14:44:19:405] <2929> MSG_FROM_PG:[0314600175D SHA1                   0                  39                  300210nsalecokr0               39000INIphpCARDnsalecokr020150904144418563293<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+  <GoodsInfo>
+    <GoodsCnt>1</GoodsCnt>
+    <MOID urlencode="1">2015090414431707</MOID>
+    <Currency>WON</Currency>
+    <Goods no="1">
+      <SMID>nsalecokr0</SMID>
+      <GoodsName urlencode="1">%B9%D9%BF%EC%BE%EE+%BC%BC%B6%F3%B9%CD%C4%AE+6%C1%BE%BC%BC%C6%AE</GoodsName>
+      <GoodsCntS>1</GoodsCntS>
+      <GoodsPrice>39000</GoodsPrice>
+    </Goods>
+  </GoodsInfo>
+  <PaymentInfo>
+    <Payment>
+      <SessionKey>AQEkjLag/ky50ZywL3I64KFprXdNH3yvhKr8/N23z85K1Y2sTllPGYkk+KRLvEF+
+g3wArGBJF54O/rxTjikvxcaCmLs/DcHqhn2LDJDhxbm7JAf358+UhbCGI3x/yg4a
+//dy4dfqOj0Br8wSn89ROwyZZnZThgyzx43LEhv90bfZmiPSl5C8nko=
+</SessionKey>
+      <Encrypted>Ni4N6WiGaiVPcCizyphwrJCFtjWJu+CNYnM91hFP4SHUyzt7TCa1+RSoHBb12Xo+
+vPVpHrS59bCwPFXKrb4WwlKU+9vhrmFsS/qllVYTXFSag+pM+m+vi7upvdtTnnHe
+s0QKXoYc4+wd/etSHeE13zUGw3jdXVICP2EPiYx9cOcJYX31zztGHGEMODuQ/Y0L
+bUihE2d5sF7h0VVKZyDAK7AksmQPB/JwwBXOs3L2VJ7x1HTTuwuGSl2OuaWECoko
+KAvujfy/XvLwgBACE5fhjawBEgf8BRQsLkYSQ5KQkVL4xpY+LnNSoXWJMU2aYBQY
+LagXZihVw3YtB5Teu8TdDVxtio7rdMQNPFQJfat8M5ZBJRKgO1XA0R/nNtZyN9Vo
+wpfdNC4afRuSjKssSV8OkBBEF4jslbqx8vWHYvWC8v8s1TnCktRxPXDJoC/SRxuq
+WhLXQgCxQ5BmrAemn+SdhkbOR0ZfW1a75ck5gkZgzeO7SFb+KzLKAkedFAAi9T/b
+oBs31hlzdczOeRpQ/cG691KvDCH7ol3U8f10Q+qkNgXad4F2YIhB+Q18AGa505uW
+mkZt5JKhkuJRbEw/UKNDO1KrMESaggLLlz8ePVvInkrGTYFCxR58AtXkCAfXw5V3
+MtkhC7SX9x1rP5oyk3JDw7978T+2KOFf2lgac8RtKWr5Aox/1zy/PGTC0+tOR0kx
+c3VhsJzEV2mejr2tmz7o/f7UbGqtlSGi5BLDETCzzGt1N+ZcNpJM3Tv4UCTGyBdr
+4zTAqnUuaKFxZOalcEGPka7wnWFVttygweu4xgTRejv6Ew+LtO51FChto6zJXPHF
+ef1TmdtZgd9noENf0q5vu9ZIqrzB+341SL+x+KJ+w9z2GGwke6GGTbrAZ34MXpGS
+ct3l7xHP17YbexHvACr+W984Uq1UZr85Ilh9O6FbKZAEHrA4iq4Ws4/oj9doWroQ
+P+gQ1+hw6otG0Q3NQNHXpIbfkUsjD5qJy8Y/6mJK655DgMqVJdDP8KDGb+asqkP0
+hD+NwEDBlRciGYFWsoYjjb0VBwGIrTz4zwAxK3+HctRjAmN1gXKls3qJas5ISIvO
+TIFa5YsSpFkbenmh2btefF6EIovUlHoOguTlKhhfOr6MPA0hTV2uNYeMK235ytaC
+eoeLAwZXlet24QH7qBBMDZy7QLOu6/x0J+yIuvRyxO6WR8kKDnDk4kYlDZjmdQZJ
+03Rq3YwG3Qy5I5WFW2OoLA6VzMmxWJNEyGaEsWx+LxFLb+Wez6SMBf2LXI3dCIfK
+Hz+pmAuApWU5ehpRHbIWSM83mjG/wCDNPmwd+TR5RIwIMux5fWXYr9rp3JfpJCSG
+NGrgd4WFAC7tbLfmQ3G7yupSmBt0SBzmpg35BLLK6FeTUkSqadRkzzzRVMX090a+
+OGBRA1t3855Y480BCCnYC6C4KZnb/TclkPdM8NJ07jNqCKssAiQPgmTHlUbtt2jn
+g7/Pn9+boItYFE42/bCojcKNfPrhfMg0SAJ51X9p5aMFyPPI8KAfwqzqleMMB6ln
+BJ2KQF9B7jKdhObO//FOj4xqYa8AHu7hT7cbSQFjx36Fl6G/mgjuKZkOUb+KP/GZ
+qkIx422NuOB6rmnrET5ntieTD19veYQ2K+IoG03/du6LQDXwf9qQK8TpgshRLGte
+POqC2ZFtATc0W8n4R51yRunKfQ0EAtVQLVXsPOUbZQ6l9NTzBMwq/Jwmb3E8qqAQ
+hh4+5j8VqFh+3KuZpzjb2Q==
+</Encrypted>
+      <PayMethod>Card</PayMethod>
+      <ResultCode>120000</ResultCode>
+      <ResultMsg urlencode="1">%C1%A4%BB%F3%C3%B3%B8%AE%B5%C7%BE%FA%BD%C0%B4%CF%B4%D9.</ResultMsg>
+    </Payment>
+  </PaymentInfo>
+  <ManageInfo>
+    <EventCode></EventCode>
+    <OrgCurrency></OrgCurrency>
+    <ExchangeRate></ExchangeRate>
+    <OrgPrice></OrgPrice>
+  </ManageInfo>
+  <ReservedInfo>
+    <MReserved1 urlencode="1"></MReserved1>
+    <MReserved2 urlencode="1"></MReserved2>
+    <MReserved3 urlencode="1"></MReserved3>
+    <PGReserved1 urlencode="1"></PGReserved1>
+    <PGReserved2 urlencode="1"></PGReserved2>
+    <PGReserved3 urlencode="1"></PGReserved3>
+  </ReservedInfo>
+</INIpay>
+3Ey0BYHubJYSABLMWVjmqUnaU13wLzXo5jUMutMyzuyUS5Z5Gk2n6ugbW8pju7+f
+bBDtYR+H1CKvkVGS5dFjMJfHBkV8EKpjHTdvIoF9eRnVuUMwg/7jffPRRxe9NuiC
+6TppEyHVqADfdwfQ1igTud/Ci3DG/F3QHzRDS7v3h/c=
+]
+INFO	[2015-09-04 14:44:19:406] <2929> VERIFY OK
+INFO	[2015-09-04 14:44:19:406] <2929> PARSE HEAD OK
+INFO	[2015-09-04 14:44:19:406] <2929> PARSE BODY OK
+INFO	[2015-09-04 14:44:19:408] <2929> DECRYPT OK
+DEBUG	[2015-09-04 14:44:19:408] <2929> DECRYPT MSG:[<?xml version="1.0" encoding="UTF-8"?>
+<PaymentInfo>
+  <Payment>
+    <EASYPAY/>
+    <Card>
+      <CARD_ApplPrice>39000</CARD_ApplPrice>
+      <CARD_Num>949019129072</CARD_Num>
+      <CARD_Expire></CARD_Expire>
+      <CARD_Code>04</CARD_Code>
+      <CARD_BankCode>00</CARD_BankCode>
+      <CARD_Quota>00</CARD_Quota>
+      <CARD_Interest>0</CARD_Interest>
+      <CARD_Point></CARD_Point>
+      <CARD_AuthType>99</CARD_AuthType>
+      <CARD_RegNum></CARD_RegNum>
+      <CARD_ApplDate>20150904</CARD_ApplDate>
+      <CARD_ApplTime>144418</CARD_ApplTime>
+      <CARD_ApplNum>00270609</CARD_ApplNum>
+      <CARD_TerminalNum>0198732000</CARD_TerminalNum>
+      <CARD_MemberNum></CARD_MemberNum>
+      <CARD_PurchaseCode></CARD_PurchaseCode>
+      <CARD_ResultCode>120000</CARD_ResultCode>
+      <CARD_ResultMsg urlencode="1">%C1%A4%BB%F3%C3%B3%B8%AE%B5%C7%BE%FA%BD%C0%B4%CF%B4%D9.</CARD_ResultMsg>
+      <CARD_PrtcCode>1</CARD_PrtcCode>
+      <CARD_Quota_Point>00</CARD_Quota_Point>
+      <CARD_CheckFlag>0</CARD_CheckFlag>
+      <CARD_PurchaseName urlencode="1"></CARD_PurchaseName>
+      <CARD_IssuerName urlencode="1"></CARD_IssuerName>
+      <CARD_JoinUsePoint></CARD_JoinUsePoint>
+      <CARD_UsePoint></CARD_UsePoint>
+      <CARD_CouponOnlyMer></CARD_CouponOnlyMer>
+    </Card>
+  </Payment>
+</PaymentInfo>]
+INFO	[2015-09-04 14:44:19:409] <2929> DECRYPT PARSE OK
+INFO	[2015-09-04 14:44:19:409] <2929> WAIT ACK INVOKING
+DEBUG	[2015-09-04 14:44:19:409] <2929> MAKE HEAD OK
+INFO	[2015-09-04 14:44:19:447] <2929> SUCCESS ACK INVOKING
+INFO	[2015-09-04 14:44:19:447] <2929> END securepay 정상처리되었습니다. Laptime:[0.791sec]
+INFO	[2015-09-04 14:44:19:447] <2929> ===============================================================
+INFO	[2015-09-04 15:50:38:469] <11597> START INIPHP chkfake (V5036-141209)(OS:Linux3.14.44-32.39.amzn1.x86_64,PHP:5.3.29)
+DEBUG	[2015-09-04 15:50:38:469] <11597> inipayhome:/var/www/html/nsale/shop/inicis
+DEBUG	[2015-09-04 15:50:38:469] <11597> debug:false
+DEBUG	[2015-09-04 15:50:38:469] <11597> type:chkfake
+DEBUG	[2015-09-04 15:50:38:469] <11597> enctype:asym
+DEBUG	[2015-09-04 15:50:38:469] <11597> admin:1111
+DEBUG	[2015-09-04 15:50:38:469] <11597> checkopt:false
+DEBUG	[2015-09-04 15:50:38:469] <11597> mid:nsalecokr0
+DEBUG	[2015-09-04 15:50:38:469] <11597> price:45000
+DEBUG	[2015-09-04 15:50:38:469] <11597> nointerest:no
+DEBUG	[2015-09-04 15:50:38:469] <11597> quotabase:선택:일시불:2개월:3개월:4개월:5개월:6개월:7개월:8개월:9개월:10개월:11개월:12개월
+INFO	[2015-09-04 15:50:38:469] <11597> Check Field OK
+INFO	[2015-09-04 15:50:38:470] <11597> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-09-04 15:50:38:470] <11597> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-09-04 15:50:38:470] <11597> CHKFAKE KEY MAKE OK:MjAxNTA5MDQxNTUwMzg0NzA0OTY5Nw==
+
+INFO	[2015-09-04 15:50:38:471] <11597> END chkfake  Laptime:[0.001sec]
+INFO	[2015-09-04 15:50:38:471] <11597> ===============================================================
+INFO	[2015-09-04 15:53:59:277] <9740> START INIPHP securepay (V5036-141209)(OS:Linux3.14.44-32.39.amzn1.x86_64,PHP:5.3.29)
+DEBUG	[2015-09-04 15:53:59:277] <9740> inipayhome:/var/www/html/nsale/shop/inicis
+DEBUG	[2015-09-04 15:53:59:277] <9740> debug:false
+DEBUG	[2015-09-04 15:53:59:277] <9740> type:securepay
+DEBUG	[2015-09-04 15:53:59:277] <9740> pgid:INIphpCARD
+DEBUG	[2015-09-04 15:53:59:277] <9740> subpgip:203.238.3.10
+DEBUG	[2015-09-04 15:53:59:277] <9740> admin:1111
+DEBUG	[2015-09-04 15:53:59:277] <9740> uid:
+DEBUG	[2015-09-04 15:53:59:277] <9740> goodname:모리압력솥(3.2L) + 모리칼 3종세트
+DEBUG	[2015-09-04 15:53:59:277] <9740> currency:WON
+DEBUG	[2015-09-04 15:53:59:277] <9740> mid:nsalecokr0
+DEBUG	[2015-09-04 15:53:59:277] <9740> rn:MjAxNTA5MDQxNTUwMzg0NzA0OTY5Nw==
+
+DEBUG	[2015-09-04 15:53:59:277] <9740> price:45000
+DEBUG	[2015-09-04 15:53:59:277] <9740> enctype:
+DEBUG	[2015-09-04 15:53:59:277] <9740> buyername:최경해
+DEBUG	[2015-09-04 15:53:59:277] <9740> buyertel:01072794700
+DEBUG	[2015-09-04 15:53:59:277] <9740> buyeremail:bada8368@naver.com
+DEBUG	[2015-09-04 15:53:59:277] <9740> paymethod:Card
+DEBUG	[2015-09-04 15:53:59:277] <9740> encrypted:Version=4.1&PayMethod=Card&RsaKeyNum=1&EncryptionAlgorithm=SEED-CBC&SignAlgorithm=RSAwithSHA1&CertVer=39&moid=2015090415493596&ver_trace=main(6097,6059)card(6140,6123)n(6009)Cs(6025)Dt(6002)Pa(6002)Cf(6024)Fv(0000)La(6155)Re(6105)Vr(6007)P(6034)en(6053)nP(6006)&pg1=211.219.96.180&pg2=203.238.37.3&pg1ip=211.219.96.180&pg2ip=203.238.37.3&agreeflag=1111&Data=2X/LyUmx60EwkW6tgDgQEFXDTu0sE7JtmLmnqVp6rdxyA4fGqUB53mQVv1IlAz8o
+U73BY0pXnRXe8hjDv26MyJXtjBtmZFv2P/loZhjpMVQWeLOTfzqTQ85Gvz1dFO5c
+uyNtT8ysc6AV2l+IegnZOsKhoEUgCWCSvPc5a8U5XEoU1XU69SFBLxAXgcDspEvJ
+fReUP3BDJcoJhVRLJGp3RIgcdtgBqN63Ry6UNSUMxWgVMsAeh7cVQ38F54PYwLPo
+SiFXRRCsOuuw8gYRiK6S8Ay/JqVfjFFMHb11KinAn9JpRILQu5a0QGA8Sz2ihT4z
+NHGNAcriCbnW1CDBwAunmncaBk/B/DqBEoWWcp8b+fTE38y/jQGTpYFGHCOc1jx1
+znH3Eo7eL0w3qIvIfgK5JHuCHUiY8oGoZvc8XqV5GITQeyr7yaOkJoOB/jKacXWS
++GAzKM9KxweoF8RUcc7THNQD+73e32HP8ZwQRMKK0rmxZFdLwrGnpPmhrIuVwS1/
+DDjpI/sHEQj4VYueAFwiSdQDp/GXHruiewP+gmcttblBuCqZb/qK56EKJpESyRNK
+Y3S1ETAlr4dKiiI735xPD3ISABoxfiwHwIh2bTDTZTxYo7O85UHMo5PaT5tizCv2
+OILOR89mdi8JLvU/ffV5+ZwK7gCBpQzlK+s1YhktgRNo84keNfm4kb8R56WppoDM
+6+SMJLb1
+DEBUG	[2015-09-04 15:53:59:277] <9740> sessionkey:rizc41C2J8hjGrYjsLtc+eYmtF5OIYhZeNId0kmv3jDkj6StwNpK8/tRnIRj/NJu
+6XaaoSpR2Y8VyuNpxkcjX57F6iJhGKMjnWnAKPOstUasjs1qTo9XY4BAQcs7bZc1
+iLYoSyT5tg94c8G8Ejd9wW8XhDSU37+ou0kz+LkfVUI=
+DEBUG	[2015-09-04 15:53:59:277] <9740> url:http://www.nsale.co.kr
+DEBUG	[2015-09-04 15:53:59:277] <9740> cardcode:12
+DEBUG	[2015-09-04 15:53:59:277] <9740> parentemail:
+DEBUG	[2015-09-04 15:53:59:277] <9740> recvname:최경해
+DEBUG	[2015-09-04 15:53:59:277] <9740> recvtel:01072794700
+DEBUG	[2015-09-04 15:53:59:277] <9740> recvaddr:충북 청주시 상당구 중앙로 83 한신휴플러스 102동201호
+DEBUG	[2015-09-04 15:53:59:277] <9740> recvpostnum:28541
+DEBUG	[2015-09-04 15:53:59:277] <9740> recvmsg:
+DEBUG	[2015-09-04 15:53:59:277] <9740> joincard:
+DEBUG	[2015-09-04 15:53:59:277] <9740> joinexpire:
+DEBUG	[2015-09-04 15:53:59:277] <9740> id_customer:
+INFO	[2015-09-04 15:53:59:277] <9740> Check Field OK
+INFO	[2015-09-04 15:53:59:278] <9740> Make TID OK INIphpCARDnsalecokr020150904155359771289
+INFO	[2015-09-04 15:53:59:278] <9740> PI PUB KEY LOAD OK [39]
+INFO	[2015-09-04 15:53:59:278] <9740> PG PUB KEY LOAD OK [30]
+INFO	[2015-09-04 15:53:59:278] <9740> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-09-04 15:53:59:278] <9740> MERCHANT PUB KEY LOAD OK [0]
+INFO	[2015-09-04 15:53:59:279] <9740> MAKE BODY OK
+INFO	[2015-09-04 15:53:59:280] <9740> SIGN OK
+INFO	[2015-09-04 15:53:59:280] <9740> MAKE HEAD OK
+INFO	[2015-09-04 15:53:59:280] <9740> MSG_TO_PG:[0304900175R SHA1                   0                  39                  300200nsalecokr0               45000INIphpCARDnsalecokr020150904155359771289<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+	  <GoodsInfo>
+	    <GoodsCnt>1</GoodsCnt>
+	    <MOID/>
+	    <Currency>WON</Currency>
+	    <Tax/>
+	    <TaxFree/>
+	    <Goods>
+	      <SMID>nsalecokr0</SMID>
+	      <GoodsName urlencode="1">%B8%F0%B8%AE%BE%D0%B7%C2%BC%DC%283.2L%29+%2B+%B8%F0%B8%AE%C4%AE+3%C1%BE%BC%BC%C6%AE</GoodsName>
+	      <GoodsPrice>45000</GoodsPrice></Goods></GoodsInfo>
+	  <BuyerInfo>
+	    <BuyerName urlencode="1">%C3%D6%B0%E6%C7%D8</BuyerName>
+	    <BuyerTel>01072794700</BuyerTel>
+	    <BuyerEmail urlencode="1">bada8368%40naver.com</BuyerEmail>
+	    <ParentEmail/>
+	    <RecvName urlencode="1">%C3%D6%B0%E6%C7%D8</RecvName>
+	    <RecvTel urlencode="1">01072794700</RecvTel>
+	    <RecvMsg/>
+	    <RecvAddr urlencode="1">%C3%E6%BA%CF+%C3%BB%C1%D6%BD%C3+%BB%F3%B4%E7%B1%B8+%C1%DF%BE%D3%B7%CE+83+%C7%D1%BD%C5%C8%DE%C7%C3%B7%AF%BD%BA+102%B5%BF201%C8%A3</RecvAddr>
+	    <RecvPostNum urlencode="1">28541</RecvPostNum></BuyerInfo>
+	  <PaymentInfo>
+	    <Payment>
+	      <PayMethod>Card</PayMethod>
+	      <JoinCard/>
+	      <JoinExpire/>
+	      <MailOrder/>
+	      <SessionKey>rizc41C2J8hjGrYjsLtc+eYmtF5OIYhZeNId0kmv3jDkj6StwNpK8/tRnIRj/NJu
+6XaaoSpR2Y8VyuNpxkcjX57F6iJhGKMjnWnAKPOstUasjs1qTo9XY4BAQcs7bZc1
+iLYoSyT5tg94c8G8Ejd9wW8XhDSU37+ou0kz+LkfVUI=</SessionKey>
+	      <Encrypted urlencode="1">Version%3D4.1%26PayMethod%3DCard%26RsaKeyNum%3D1%26EncryptionAlgorithm%3DSEED-CBC%26SignAlgorithm%3DRSAwithSHA1%26CertVer%3D39%26moid%3D2015090415493596%26ver_trace%3Dmain%286097%2C6059%29card%286140%2C6123%29n%286009%29Cs%286025%29Dt%286002%29Pa%286002%29Cf%286024%29Fv%280000%29La%286155%29Re%286105%29Vr%286007%29P%286034%29en%286053%29nP%286006%29%26pg1%3D211.219.96.180%26pg2%3D203.238.37.3%26pg1ip%3D211.219.96.180%26pg2ip%3D203.238.37.3%26agreeflag%3D1111%26Data%3D2X%2FLyUmx60EwkW6tgDgQEFXDTu0sE7JtmLmnqVp6rdxyA4fGqUB53mQVv1IlAz8o%0D%0AU73BY0pXnRXe8hjDv26MyJXtjBtmZFv2P%2FloZhjpMVQWeLOTfzqTQ85Gvz1dFO5c%0D%0AuyNtT8ysc6AV2l%2BIegnZOsKhoEUgCWCSvPc5a8U5XEoU1XU69SFBLxAXgcDspEvJ%0D%0AfReUP3BDJcoJhVRLJGp3RIgcdtgBqN63Ry6UNSUMxWgVMsAeh7cVQ38F54PYwLPo%0D%0ASiFXRRCsOuuw8gYRiK6S8Ay%2FJqVfjFFMHb11KinAn9JpRILQu5a0QGA8Sz2ihT4z%0D%0ANHGNAcriCbnW1CDBwAunmncaBk%2FB%2FDqBEoWWcp8b%2BfTE38y%2FjQGTpYFGHCOc1jx1%0D%0AznH3Eo7eL0w3qIvIfgK5JHuCHUiY8oGoZvc8XqV5GITQeyr7yaOkJoOB%2FjKacXWS%0D%0A%2BGAzKM9KxweoF8RUcc7THNQD%2B73e32HP8ZwQRMKK0rmxZFdLwrGnpPmhrIuVwS1%2F%0D%0ADDjpI%2FsHEQj4VYueAFwiSdQDp%2FGXHruiewP%2BgmcttblBuCqZb%2FqK56EKJpESyRNK%0D%0AY3S1ETAlr4dKiiI735xPD3ISABoxfiwHwIh2bTDTZTxYo7O85UHMo5PaT5tizCv2%0D%0AOILOR89mdi8JLvU%2FffV5%2BZwK7gCBpQzlK%2Bs1YhktgRNo84keNfm4kb8R56WppoDM%0D%0A6%2BSMJLb1</Encrypted></Payment></PaymentInfo>
+	  <ReservedInfo>
+	    <MReserved1/>
+	    <MReserved2/>
+	    <MReserved3/></ReservedInfo>
+	  <ManageInfo>
+	    <Language/>
+	    <URL urlencode="1">http%3A%2F%2Fwww.nsale.co.kr</URL>
+	    <TXVersion>5036B141209securLinux     PHPchkfake   3.14.44-32.39.amzn1.x86_64PHP:</TXVersion>
+	    <TXUserID/>
+	    <TXRegNum/>
+	    <Ack>1</Ack>
+	    <TXRN>MjAxNTA5MDQxNTUwMzg0NzA0OTY5Nw==
+</TXRN></ManageInfo></INIpay>AOgvV4scanhE4XYOVUt/qxM+ItVdvZaRhg2FesL/Ya5YxIw68CQVcyL9Iz72CW2C
+5uT53B6dR7OfC+OUrXFKFm5asCSOnOR26wJM0meoi4UqLeYuIfvrb1W28ACRi0gI
+Nv2uAHx/9YqiZUp3tkF6qAP4k0ASTODcSDTK9YVjytBs
+]
+INFO	[2015-09-04 15:53:59:280] <9740> DNS LOOKUP OK(211.219.96.180:211.219.96.180:34049) laptime:0
+INFO	[2015-09-04 15:53:59:316] <9740> SOCKET CONNECT OK
+INFO	[2015-09-04 15:53:59:316] <9740> SEND OK
+INFO	[2015-09-04 15:54:00:127] <9740> RECV OK
+INFO	[2015-09-04 15:54:00:127] <9740> MSG_FROM_PG:[0316600175D SHA1                   0                  39                  300210nsalecokr0               45000INIphpCARDnsalecokr020150904155359771289<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+  <GoodsInfo>
+    <GoodsCnt>1</GoodsCnt>
+    <MOID urlencode="1">2015090415493596</MOID>
+    <Currency>WON</Currency>
+    <Goods no="1">
+      <SMID>nsalecokr0</SMID>
+      <GoodsName urlencode="1">%B8%F0%B8%AE%BE%D0%B7%C2%BC%DC%283.2L%29+%2B+%B8%F0%B8%AE%C4%AE+3%C1%BE%BC%BC%C6%AE</GoodsName>
+      <GoodsCntS>1</GoodsCntS>
+      <GoodsPrice>45000</GoodsPrice>
+    </Goods>
+  </GoodsInfo>
+  <PaymentInfo>
+    <Payment>
+      <SessionKey>ACaLjTJvo4BMBc4mkwyIT11gD8AhSBDc3+OwMmdPPKRFMkQMPBmLSUajeUVMRM6/
+gBc3ObFpwP4zGfH4QMWDRlV4j5laY9fTmu5MI4VrPRiFnmuAxajGSkOEW8wlODcC
+jUasnaQxiLCCbyQmwo86iuykVh1FBgh9DFq+qgSC37NQKD4B5s8upyQ=
+</SessionKey>
+      <Encrypted>4SOgYzP4JPVe9fvVr3/+tj6CE+8qqAvnl5Zuoe+SUZLByhCIQAQEMUnW76pknGMA
+NrboUisT3afpnfOA6y2VtgS0POV8YCQ3xvcSENYW4ro4b9uMis8NkZ2T6qGn4sl7
+faeM1QuoVBRyfBDLB8TfepvgKnyCxOQKBo0f9GJHBaWiI7AvJTSPBD7N4IuTh3gh
+wFRTdU3SOjpBv2SWevVJB1UZJ8KUuqlYXxf/03jaPh5jY5s7BkuUTu0hR2RUGWc+
+LQ+pfD6fzA6s6RwWgipAYvORR7iCoinv5eyVx3XWoQ8wezc+Id9Mpv1/j0gGyzIH
+aeOmw3q12GXXoCjXXOHWA5asJGw600Luq6sAplYXn06bIGFhN2CNqayeBG+mx/OM
+a31GzkLR59tYKfNfo1JBBB5RlZ9w2PSTbiTro7B5gl4MQbeHavcgbk5ePJrZ1ctK
+KLafs0B+f/74g3OCvZedmtWIOHc++U9+LNALxB3UIVaDOkihtz+TpPIC3OkA5fgB
+CwEzsfnWiC0YwXp5IZg+pkbsBuhBjQeKCUiSxYkkpuVFW6l86ES3UsVAXZcoUNtc
+IpNpCklrc9CJyRG5dYAmPNfmScg3brxfZYlBZBhV51W/7y99c+063Z6LhcvHm59V
++kjagAZHpnf73fejzUnx3GV8maCRGBsP0VXxrCmpQvcGvM6OOA0LBq2E8+r29Uqm
+QbtVGsSAtanYViP0Tqf1lynngWwJUs1USWgSxijyXGaKnHDGtgeUDZNmCl8oyZSR
+PNDKuyn7G18N7fSpKfT31Kd1Jh2d3ETDd5o0qXhz4K2XguqHmPCzKJi8DwmPpTnC
+r5Ed7WYzw9MBlzNw7G7xaAlLypGzd6Jru4J1sXhbn38PXNeOP/SKL2X+V4Nep9RA
+cIy2INrIugYXGRx/UW1uvuZf7/aUQw3d1NBRPnmQePmm3W0y7E+75ZNjJHyFrQTb
+wFB7sGbs2Ld5l4FU7zDOhHrYsRyADODjC80drRSN/Z4AVUMxlxKdbubJJ9FEWX+x
+ZTdsj0ri3NtqKClZWl4glCHzdGBVaJxyO8Zt3y9e7HSJyBLXjPdjQU/GbN/xJQi1
+CStO0nhRwKsQ48FYpbjESZRBEdiaSdqpLD1Jl51u8dhviPWPhaneJIOAKoMy3N/O
+y51YnaEWoonz96KVFXr3JGBtPIGBbVlamybdPabzX9A7DQRqmgPfP5VlAheM82qi
+VeTuSvAeNNx81nP/xEJGHb5UsZQ5vn1roCObKLZMiLcctzaKdYQTOGpYEYS2qZzF
+ctSChAssnOW2h9s2a6niG5fg5CUnaMEdUqE3CDwarCaNTpphz1z1KSfOFsN89cKK
+ygPPY2APkn9qLo8tW26RyagsH+wqpzuqjeFn4FbqGVhWZ6EmeKZPXCu62DX5keYx
++m7cftsccq1j6Zk4mR+EztAmpm8pNbt7tArUGJxQYN/5N9yDOCh+Vc+sRenhkai6
+PDHSZNETCedLqbDmb76VStu3UGdcpnMGnhrQtR1nIEfGzA4/tLAWKi/2+SjrItyL
+gbauiu12tyA2jl1hUm3fXeZ0UVC0e7si/G6A0PpEHVT4gZze4MspPAZiWqDaVZEg
+LfO2NL1No4N2eegvaKw8QKkWK5RJ/qFRn+mgGgyadxEyPsBJP/sVimjsWBEBL5Y3
+YCoSgM1bA9WSYq05BCF5cvF2Vw2hlAp4Utgpyfqe8HsVxiKrw1ZrYiVzydsqi3vj
+xAUEageouYwL8Dj+sZzxrA==
+</Encrypted>
+      <PayMethod>Card</PayMethod>
+      <ResultCode>120000</ResultCode>
+      <ResultMsg urlencode="1">%C1%A4%BB%F3%C3%B3%B8%AE%B5%C7%BE%FA%BD%C0%B4%CF%B4%D9.</ResultMsg>
+    </Payment>
+  </PaymentInfo>
+  <ManageInfo>
+    <EventCode></EventCode>
+    <OrgCurrency></OrgCurrency>
+    <ExchangeRate></ExchangeRate>
+    <OrgPrice></OrgPrice>
+  </ManageInfo>
+  <ReservedInfo>
+    <MReserved1 urlencode="1"></MReserved1>
+    <MReserved2 urlencode="1"></MReserved2>
+    <MReserved3 urlencode="1"></MReserved3>
+    <PGReserved1 urlencode="1"></PGReserved1>
+    <PGReserved2 urlencode="1"></PGReserved2>
+    <PGReserved3 urlencode="1"></PGReserved3>
+  </ReservedInfo>
+</INIpay>
+cE5UmvG6E5IVokipq22meQQhSLQlSMdkwAIfdJdXGiGMQ8QvKdOYavXOnIz3rODC
+R+zdhK4vl8lrVArUlzUF5/wRAjsD3wt02j9c8SD1cNW+OQo4Z/IYjHdHXboZGGAM
+DS3QlRfSDK2w6f3lwzGBcMbI95ioHUA2DFGVpx0fkXw=
+]
+INFO	[2015-09-04 15:54:00:127] <9740> VERIFY OK
+INFO	[2015-09-04 15:54:00:127] <9740> PARSE HEAD OK
+INFO	[2015-09-04 15:54:00:128] <9740> PARSE BODY OK
+INFO	[2015-09-04 15:54:00:129] <9740> DECRYPT OK
+DEBUG	[2015-09-04 15:54:00:129] <9740> DECRYPT MSG:[<?xml version="1.0" encoding="UTF-8"?>
+<PaymentInfo>
+  <Payment>
+    <EASYPAY/>
+    <Card>
+      <CARD_ApplPrice>45000</CARD_ApplPrice>
+      <CARD_Num>400913113359</CARD_Num>
+      <CARD_Expire></CARD_Expire>
+      <CARD_Code>12</CARD_Code>
+      <CARD_BankCode>00</CARD_BankCode>
+      <CARD_Quota>00</CARD_Quota>
+      <CARD_Interest>0</CARD_Interest>
+      <CARD_Point></CARD_Point>
+      <CARD_AuthType>99</CARD_AuthType>
+      <CARD_RegNum></CARD_RegNum>
+      <CARD_ApplDate>20150904</CARD_ApplDate>
+      <CARD_ApplTime>155359</CARD_ApplTime>
+      <CARD_ApplNum>87259024</CARD_ApplNum>
+      <CARD_TerminalNum>0198732000</CARD_TerminalNum>
+      <CARD_MemberNum></CARD_MemberNum>
+      <CARD_PurchaseCode></CARD_PurchaseCode>
+      <CARD_ResultCode>120000</CARD_ResultCode>
+      <CARD_ResultMsg urlencode="1">%C1%A4%BB%F3%C3%B3%B8%AE%B5%C7%BE%FA%BD%C0%B4%CF%B4%D9.</CARD_ResultMsg>
+      <CARD_PrtcCode>1</CARD_PrtcCode>
+      <CARD_Quota_Point>00</CARD_Quota_Point>
+      <CARD_CheckFlag>0</CARD_CheckFlag>
+      <CARD_PurchaseName urlencode="1"></CARD_PurchaseName>
+      <CARD_IssuerName urlencode="1"></CARD_IssuerName>
+      <CARD_JoinUsePoint></CARD_JoinUsePoint>
+      <CARD_UsePoint></CARD_UsePoint>
+      <CARD_CouponOnlyMer></CARD_CouponOnlyMer>
+    </Card>
+  </Payment>
+</PaymentInfo>]
+INFO	[2015-09-04 15:54:00:130] <9740> DECRYPT PARSE OK
+INFO	[2015-09-04 15:54:00:130] <9740> WAIT ACK INVOKING
+DEBUG	[2015-09-04 15:54:00:130] <9740> MAKE HEAD OK
+INFO	[2015-09-04 15:54:00:167] <9740> SUCCESS ACK INVOKING
+INFO	[2015-09-04 15:54:00:167] <9740> END securepay 정상처리되었습니다. Laptime:[0.89sec]
+INFO	[2015-09-04 15:54:00:168] <9740> ===============================================================
+INFO	[2015-09-04 17:12:21:261] <11439> START INIPHP chkfake (V5036-141209)(OS:Linux3.14.44-32.39.amzn1.x86_64,PHP:5.3.29)
+DEBUG	[2015-09-04 17:12:21:261] <11439> inipayhome:/var/www/html/nsale/shop/inicis
+DEBUG	[2015-09-04 17:12:21:261] <11439> debug:false
+DEBUG	[2015-09-04 17:12:21:261] <11439> type:chkfake
+DEBUG	[2015-09-04 17:12:21:261] <11439> enctype:asym
+DEBUG	[2015-09-04 17:12:21:261] <11439> admin:1111
+DEBUG	[2015-09-04 17:12:21:261] <11439> checkopt:false
+DEBUG	[2015-09-04 17:12:21:261] <11439> mid:nsalecokr0
+DEBUG	[2015-09-04 17:12:21:261] <11439> price:41400
+DEBUG	[2015-09-04 17:12:21:261] <11439> nointerest:no
+DEBUG	[2015-09-04 17:12:21:261] <11439> quotabase:선택:일시불:2개월:3개월:4개월:5개월:6개월:7개월:8개월:9개월:10개월:11개월:12개월
+INFO	[2015-09-04 17:12:21:261] <11439> Check Field OK
+INFO	[2015-09-04 17:12:21:261] <11439> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-09-04 17:12:21:261] <11439> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-09-04 17:12:21:262] <11439> CHKFAKE KEY MAKE OK:MjAxNTA5MDQxNzEyMjEyNjE4OTA1Mw==
+
+INFO	[2015-09-04 17:12:21:262] <11439> END chkfake  Laptime:[0.001sec]
+INFO	[2015-09-04 17:12:21:262] <11439> ===============================================================
+INFO	[2015-09-04 17:14:06:396] <3266> START INIPHP securepay (V5036-141209)(OS:Linux3.14.44-32.39.amzn1.x86_64,PHP:5.3.29)
+DEBUG	[2015-09-04 17:14:06:396] <3266> inipayhome:/var/www/html/nsale/shop/inicis
+DEBUG	[2015-09-04 17:14:06:396] <3266> debug:false
+DEBUG	[2015-09-04 17:14:06:396] <3266> type:securepay
+DEBUG	[2015-09-04 17:14:06:396] <3266> pgid:INIphpCARD
+DEBUG	[2015-09-04 17:14:06:396] <3266> subpgip:203.238.3.10
+DEBUG	[2015-09-04 17:14:06:396] <3266> admin:1111
+DEBUG	[2015-09-04 17:14:06:396] <3266> uid:
+DEBUG	[2015-09-04 17:14:06:396] <3266> goodname:더블유랩 달팽이 동안크림: 동안미백크림+만족도굿!
+DEBUG	[2015-09-04 17:14:06:396] <3266> currency:WON
+DEBUG	[2015-09-04 17:14:06:396] <3266> mid:nsalecokr0
+DEBUG	[2015-09-04 17:14:06:396] <3266> rn:MjAxNTA5MDQxNzEyMjEyNjE4OTA1Mw==
+
+DEBUG	[2015-09-04 17:14:06:396] <3266> price:41400
+DEBUG	[2015-09-04 17:14:06:396] <3266> enctype:
+DEBUG	[2015-09-04 17:14:06:396] <3266> buyername:황은경
+DEBUG	[2015-09-04 17:14:06:396] <3266> buyertel:01045628980
+DEBUG	[2015-09-04 17:14:06:396] <3266> buyeremail:chocopie1207@nate.com
+DEBUG	[2015-09-04 17:14:06:396] <3266> paymethod:Card
+DEBUG	[2015-09-04 17:14:06:396] <3266> encrypted:Version=4.1&PayMethod=Card&RsaKeyNum=1&EncryptionAlgorithm=SEED-CBC&SignAlgorithm=RSAwithSHA1&CertVer=39&moid=2015090417105584&ver_trace=main(6097,6059)card(6140,6123)n(6009)Cs(6025)Dt(6002)Pa(6002)Cf(6024)Fv(0000)La(6155)Re(6105)Vr(6007)P(6034)en(6053)nP(6006)&pg1=211.219.96.180&pg2=203.238.37.3&pg1ip=211.219.96.180&pg2ip=203.238.37.3&agreeflag=1111&Data=0ARV+omxkWbOJ2DIh2WUjtm47B8iK2eYiFFHniFkyMKHjb+zrqocxaWf/5day+hz
+Oo4zkqdlpdrSytvR9eaJT8LT2HM96C5n5qQg4nM+hNprxMJeRoHDeh75GUTyeD96
+iPTF5JqPntYG1I4jMvFne7oJUocvIJwR79z2TSQxgx0oKI/O0TU0gp9OD9F7kECK
+trzKkNJTEbAExtCGHmEmH7y1yTpkZWluuDh78Zd4ISU4QcmnBp9vAVIauGS9DJeZ
+Lc0oA9a+9rgDg3fnobdmWDt/UdSyJ4j+DFmxlcJM9GRESJjR9ynlmxKUJhQ2fGUJ
+N5EeUwSMLVt9EBsmA60lMH1Ws2ZZl2hx4RMV2zOe8XBmCkMZ1cZM//9iRvmHZtsG
+mZqrQNVx6qeqMv+E3ICZiXeDZNu1nz6KtXGOEo5ENjr7VTRXD6vG7SfY6KDhgxvN
+LJzNnTk2qL+TBo76SKzu2iMK1sCClZgNnru6PI8imo84V2QRHXmBLbcFXJRCNCEO
+iC5e5kqTM0U2lT1dB5dQbK9qe++Hc1DanIi4ChBEpIN1C7/CMhN7EUu67gsgQWFV
+YT8lPUnJ0+hD4E7SPsZnnblqzMjtrYYEOautsNjpdQA6qfoAjAUcvhGLdm36Jsxt
+0zMqN/XsCQbxSVmpF8dEKk5SSPOCI3OdTB63ZHsFhkSEIoYCyMJZFiCg7L8geQk=
+DEBUG	[2015-09-04 17:14:06:396] <3266> sessionkey:DnMX6q/unE6BMBrrBPFXEjO57HqmXomCnWR875Goj2FMPsyNt7ZcP5HB+cC6PyPY
+lYrzoQ/8prLiaonB+o+Q5zYUkgVcXR+8xMslxvSx9qgPOYuwQ/r37v2Rv32jWRrT
+kS4sNQ5yWUYo0b1knZcMtWg4CmqoAJo5SHhy1ACRRf0=
+DEBUG	[2015-09-04 17:14:06:396] <3266> url:http://www.nsale.co.kr
+DEBUG	[2015-09-04 17:14:06:396] <3266> cardcode:14
+DEBUG	[2015-09-04 17:14:06:396] <3266> parentemail:
+DEBUG	[2015-09-04 17:14:06:396] <3266> recvname:황은경
+DEBUG	[2015-09-04 17:14:06:396] <3266> recvtel:01045628980
+DEBUG	[2015-09-04 17:14:06:396] <3266> recvaddr:부산 금정구 서명로 9 
+DEBUG	[2015-09-04 17:14:06:396] <3266> recvpostnum:46327
+DEBUG	[2015-09-04 17:14:06:396] <3266> recvmsg:
+DEBUG	[2015-09-04 17:14:06:396] <3266> joincard:
+DEBUG	[2015-09-04 17:14:06:396] <3266> joinexpire:
+DEBUG	[2015-09-04 17:14:06:396] <3266> id_customer:
+INFO	[2015-09-04 17:14:06:396] <3266> Check Field OK
+INFO	[2015-09-04 17:14:06:396] <3266> Make TID OK INIphpCARDnsalecokr020150904171406963122
+INFO	[2015-09-04 17:14:06:396] <3266> PI PUB KEY LOAD OK [39]
+INFO	[2015-09-04 17:14:06:396] <3266> PG PUB KEY LOAD OK [30]
+INFO	[2015-09-04 17:14:06:396] <3266> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-09-04 17:14:06:396] <3266> MERCHANT PUB KEY LOAD OK [0]
+INFO	[2015-09-04 17:14:06:397] <3266> MAKE BODY OK
+INFO	[2015-09-04 17:14:06:398] <3266> SIGN OK
+INFO	[2015-09-04 17:14:06:398] <3266> MAKE HEAD OK
+INFO	[2015-09-04 17:14:06:398] <3266> MSG_TO_PG:[0301600175R SHA1                   0                  39                  300200nsalecokr0               41400INIphpCARDnsalecokr020150904171406963122<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+	  <GoodsInfo>
+	    <GoodsCnt>1</GoodsCnt>
+	    <MOID/>
+	    <Currency>WON</Currency>
+	    <Tax/>
+	    <TaxFree/>
+	    <Goods>
+	      <SMID>nsalecokr0</SMID>
+	      <GoodsName urlencode="1">%B4%F5%BA%ED%C0%AF%B7%A6+%B4%DE%C6%D8%C0%CC+%B5%BF%BE%C8%C5%A9%B8%B2%3A+%B5%BF%BE%C8%B9%CC%B9%E9%C5%A9%B8%B2%2B%B8%B8%C1%B7%B5%B5%B1%C2%21</GoodsName>
+	      <GoodsPrice>41400</GoodsPrice></Goods></GoodsInfo>
+	  <BuyerInfo>
+	    <BuyerName urlencode="1">%C8%B2%C0%BA%B0%E6</BuyerName>
+	    <BuyerTel>01045628980</BuyerTel>
+	    <BuyerEmail urlencode="1">chocopie1207%40nate.com</BuyerEmail>
+	    <ParentEmail/>
+	    <RecvName urlencode="1">%C8%B2%C0%BA%B0%E6</RecvName>
+	    <RecvTel urlencode="1">01045628980</RecvTel>
+	    <RecvMsg/>
+	    <RecvAddr urlencode="1">%BA%CE%BB%EA+%B1%DD%C1%A4%B1%B8+%BC%AD%B8%ED%B7%CE+9+</RecvAddr>
+	    <RecvPostNum urlencode="1">46327</RecvPostNum></BuyerInfo>
+	  <PaymentInfo>
+	    <Payment>
+	      <PayMethod>Card</PayMethod>
+	      <JoinCard/>
+	      <JoinExpire/>
+	      <MailOrder/>
+	      <SessionKey>DnMX6q/unE6BMBrrBPFXEjO57HqmXomCnWR875Goj2FMPsyNt7ZcP5HB+cC6PyPY
+lYrzoQ/8prLiaonB+o+Q5zYUkgVcXR+8xMslxvSx9qgPOYuwQ/r37v2Rv32jWRrT
+kS4sNQ5yWUYo0b1knZcMtWg4CmqoAJo5SHhy1ACRRf0=</SessionKey>
+	      <Encrypted urlencode="1">Version%3D4.1%26PayMethod%3DCard%26RsaKeyNum%3D1%26EncryptionAlgorithm%3DSEED-CBC%26SignAlgorithm%3DRSAwithSHA1%26CertVer%3D39%26moid%3D2015090417105584%26ver_trace%3Dmain%286097%2C6059%29card%286140%2C6123%29n%286009%29Cs%286025%29Dt%286002%29Pa%286002%29Cf%286024%29Fv%280000%29La%286155%29Re%286105%29Vr%286007%29P%286034%29en%286053%29nP%286006%29%26pg1%3D211.219.96.180%26pg2%3D203.238.37.3%26pg1ip%3D211.219.96.180%26pg2ip%3D203.238.37.3%26agreeflag%3D1111%26Data%3D0ARV%2BomxkWbOJ2DIh2WUjtm47B8iK2eYiFFHniFkyMKHjb%2BzrqocxaWf%2F5day%2Bhz%0D%0AOo4zkqdlpdrSytvR9eaJT8LT2HM96C5n5qQg4nM%2BhNprxMJeRoHDeh75GUTyeD96%0D%0AiPTF5JqPntYG1I4jMvFne7oJUocvIJwR79z2TSQxgx0oKI%2FO0TU0gp9OD9F7kECK%0D%0AtrzKkNJTEbAExtCGHmEmH7y1yTpkZWluuDh78Zd4ISU4QcmnBp9vAVIauGS9DJeZ%0D%0ALc0oA9a%2B9rgDg3fnobdmWDt%2FUdSyJ4j%2BDFmxlcJM9GRESJjR9ynlmxKUJhQ2fGUJ%0D%0AN5EeUwSMLVt9EBsmA60lMH1Ws2ZZl2hx4RMV2zOe8XBmCkMZ1cZM%2F%2F9iRvmHZtsG%0D%0AmZqrQNVx6qeqMv%2BE3ICZiXeDZNu1nz6KtXGOEo5ENjr7VTRXD6vG7SfY6KDhgxvN%0D%0ALJzNnTk2qL%2BTBo76SKzu2iMK1sCClZgNnru6PI8imo84V2QRHXmBLbcFXJRCNCEO%0D%0AiC5e5kqTM0U2lT1dB5dQbK9qe%2B%2BHc1DanIi4ChBEpIN1C7%2FCMhN7EUu67gsgQWFV%0D%0AYT8lPUnJ0%2BhD4E7SPsZnnblqzMjtrYYEOautsNjpdQA6qfoAjAUcvhGLdm36Jsxt%0D%0A0zMqN%2FXsCQbxSVmpF8dEKk5SSPOCI3OdTB63ZHsFhkSEIoYCyMJZFiCg7L8geQk%3D</Encrypted></Payment></PaymentInfo>
+	  <ReservedInfo>
+	    <MReserved1/>
+	    <MReserved2/>
+	    <MReserved3/></ReservedInfo>
+	  <ManageInfo>
+	    <Language/>
+	    <URL urlencode="1">http%3A%2F%2Fwww.nsale.co.kr</URL>
+	    <TXVersion>5036B141209securLinux     PHPchkfake   3.14.44-32.39.amzn1.x86_64PHP:</TXVersion>
+	    <TXUserID/>
+	    <TXRegNum/>
+	    <Ack>1</Ack>
+	    <TXRN>MjAxNTA5MDQxNzEyMjEyNjE4OTA1Mw==
+</TXRN></ManageInfo></INIpay>AErk1vyyQgh29G06hMKzUhDpAJ5qpt7guMFVaS0bWaSi36LLlmvUztgSU3cvXxkP
+JDjbij12yQ53gT39Snb5hrpOuUSsbL5KoApEiOptYssq59txAsmvN2025DHPCm+w
+4UFKrQm1CO1SVEQtf68SkpQyMjR77m8uALlPnNgDXgYc
+]
+INFO	[2015-09-04 17:14:06:398] <3266> DNS LOOKUP OK(211.219.96.180:211.219.96.180:34049) laptime:0
+INFO	[2015-09-04 17:14:06:435] <3266> SOCKET CONNECT OK
+INFO	[2015-09-04 17:14:06:435] <3266> SEND OK
+INFO	[2015-09-04 17:14:07:503] <3266> RECV OK
+INFO	[2015-09-04 17:14:07:503] <3266> MSG_FROM_PG:[0322900175D SHA1                   0                  39                  300210nsalecokr0               41400INIphpCARDnsalecokr020150904171406963122<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+  <GoodsInfo>
+    <GoodsCnt>1</GoodsCnt>
+    <MOID urlencode="1">2015090417105584</MOID>
+    <Currency>WON</Currency>
+    <Goods no="1">
+      <SMID>nsalecokr0</SMID>
+      <GoodsName urlencode="1">%B4%F5%BA%ED%C0%AF%B7%A6+%B4%DE%C6%D8%C0%CC+%B5%BF%BE%C8%C5%A9%B8%B2%3A+%B5%BF%BE%C8%B9%CC%B9%E9%C5%A9%B8%B2%2B%B8%B8%C1%B7%B5%B5%B1%C2%21</GoodsName>
+      <GoodsCntS>1</GoodsCntS>
+      <GoodsPrice>41400</GoodsPrice>
+    </Goods>
+  </GoodsInfo>
+  <PaymentInfo>
+    <Payment>
+      <SessionKey>ABABFV2CzjoVXyxd3vgCOfh4ErIAjJwcPOPlQbbsubR8FBMSQ/cNhgFhKRvvgAp/
+CQ8JKqYVKwkY2bzwicXoWGOQcKngsH9jgj6tyRdcZw162N83GJWrnTyMy1McDVzA
+VzeeSyDsZTrFCEz17/5CzXOH6Lh0wAQg8PtndyJxUSRKsufxzRvsIr8=
+</SessionKey>
+      <Encrypted>ItE+CTZtOK9lg9yKDJ1LZFLSvYyng5ekgsVzDS7YfnnudahOTz8Ugq4XScuco73D
+wcU27MZwPWZu1n1ectCa98Y0zdNeaJuC6hIl2giJ4DC4QOt0bHOBok2QpwhEEbsW
+uGfkyWhrPa1HhrB/DUXARcXUaO6X5rrv8XZA3c/vVKDm8EK6y5vdhmFysyC9jK5b
+Q8Hj1oMamchyyx+HNfkfWg/M0ZT7f3MJHuDzjdPcfsO3dYZ9Z5np8b98kT2D4KB4
+rONaXSsvI/ExeQtFCua1Uf8SjI8aI+3VbGy6Uj3OOL4WzzVQ/t2e+1Xt6hTszhYI
+pkJTCg7AL4tWbS0iNND9AHpbXizhM7QLP6Yu/tWxyEXxZIYpArdZFOluEi/WdKTs
+ok4UUl7hl3Dp2dt/Bu7oeG5mC8olXgRb0Eax5m28i47jYLpf1xMkTK/+Zy6VkQsL
+xuwu9Jbbu9du6c6JXoHxmeSNWyPcLKn3nQeceuVfH0mhA6kU+DXH7xHUkIA3k3uQ
+4GNFO1XKHIYmTRfI9txitX+1YXZ8OttRRjvL0YVM0ZaJahvQWEQD2l1u/uGRn8xv
+tm+Ktn8HFfZ0o9ewR5eu2vEVZooYbhmKsgoULtoQOAVu9/u/H6OFS7PKnTzuveak
+zYI35lCyA/+zw66KXMts7tjXVz2vamJDM3pwhWVweVEDlERnKy3kPPIIIco+2qab
+bbLiXe6mstuMbM8zU8IvdscmXv4iAaFXRGafvXAYv85Dls/FXmTCRS73ds2jH6Mi
+I5v8rw7A6CB6EPQ+CLp9FakY1fL24yBV8ibxoouE2nFjJcJU4eOG5UNR8gkOmnGz
++oa5k8FhNVbNs/Md1rCTDX1g3rySgfN2BIkwd4d+VBZq/uYaN18fp7I2eXQmgcI+
+gE4a6MVOeuioLeM+scDaQeF1ZwkZZr90aPWyd8FqPoO5SCm14KGHU4aZ6ugsan1R
+iRUIrOzdOPgOlyKT9uMSjnRIoTfJZVF3DSqMJFXXz1mKCwnihd5QHew1VpShZo1G
+F4ccX0473OU/mk6IossQflcpb3Q5hLpaHDHekguu+IUQ+FRpC4iMN5fK7xMsIMVb
+2EhJOXNXxV8+lsOv06+axUSq4LL1Ov+R95khImiHLwVlP+l65uoCJ1jTyXmjcinG
+sJZfB3m2s/XnnnWwpbCy7LUJkPcTch+QB25exmN4L2Qhdwg3Pp23xQRaon758G3X
+pez1lR4hzIMCOGH+W0n0QwtJsOB5/23qWL5W5CtAXZskayHmD7Ktxc7XP0wjiInn
+XPzmrGD/pgE3Qt/yLznfhImSOazOJGQK6mqn5HRYVsKJbMOvWbjAi/eQVHL5NWFw
+56QqcaRqRs79Y3r+yia9CNuR180NZqQnUeYyUSvNEsUAB0NgJf1OR6nw1+OxwbrB
+V+/wpn9fllyyeVOXhzl3VorMyp/dxMbtw5ZdHvLrQ+c1gjtJ0brSUumVOfUI6oDc
+KwMyB50WN5fViAl9cZJVCy7hc6mByOchaDZboRIC0QLosh/TM6c3/y3PviFQ2i+O
+BNF8ZicAu7cKb6qg25v7PNPSlJrMBCY2JDBeJIGR4yLJOLQTVKDAJs+nthko15hr
+yYNmAlInkZMf4JyzKFZB1LAkWrkK/Y61TpmNhFC9jKpX+Bqne802TMM9hK/dhGn1
+JWFPqiXQ20+cP2xuqcS6XLRgPutDo474XUTzWgh7BUoMJTRhmRWqChSVL0GUf1wH
+0n011FCf+W2P8pIQo3ohTNA6dPhfg2Uw
+</Encrypted>
+      <PayMethod>Card</PayMethod>
+      <ResultCode>120000</ResultCode>
+      <ResultMsg urlencode="1">%C1%A4%BB%F3%C3%B3%B8%AE%B5%C7%BE%FA%BD%C0%B4%CF%B4%D9.</ResultMsg>
+    </Payment>
+  </PaymentInfo>
+  <ManageInfo>
+    <EventCode></EventCode>
+    <OrgCurrency></OrgCurrency>
+    <ExchangeRate></ExchangeRate>
+    <OrgPrice></OrgPrice>
+  </ManageInfo>
+  <ReservedInfo>
+    <MReserved1 urlencode="1"></MReserved1>
+    <MReserved2 urlencode="1"></MReserved2>
+    <MReserved3 urlencode="1"></MReserved3>
+    <PGReserved1 urlencode="1"></PGReserved1>
+    <PGReserved2 urlencode="1"></PGReserved2>
+    <PGReserved3 urlencode="1"></PGReserved3>
+  </ReservedInfo>
+</INIpay>
+KHBOpj6T88L9i6MDH5hydgNjd6mSU2MuA9ZY6IZNP0sBNWV+NsvhGmIK2JUisUAL
+RPEEyCPeKNWeift0yJvc1OtDIGr9LyassiAaXkGkbYMmad94qfms9nGQc+zSrjDF
+GORh8Us931sevc/WpJcuqXzQSYJDHUGF9Ld9WVoRh4E=
+]
+INFO	[2015-09-04 17:14:07:503] <3266> VERIFY OK
+INFO	[2015-09-04 17:14:07:503] <3266> PARSE HEAD OK
+INFO	[2015-09-04 17:14:07:504] <3266> PARSE BODY OK
+INFO	[2015-09-04 17:14:07:505] <3266> DECRYPT OK
+DEBUG	[2015-09-04 17:14:07:505] <3266> DECRYPT MSG:[<?xml version="1.0" encoding="UTF-8"?>
+<PaymentInfo>
+  <Payment>
+    <EASYPAY/>
+    <Card>
+      <CARD_ApplPrice>41400</CARD_ApplPrice>
+      <CARD_Num>542879665173</CARD_Num>
+      <CARD_Expire></CARD_Expire>
+      <CARD_Code>14</CARD_Code>
+      <CARD_BankCode>26</CARD_BankCode>
+      <CARD_Quota>00</CARD_Quota>
+      <CARD_Interest>0</CARD_Interest>
+      <CARD_Point></CARD_Point>
+      <CARD_AuthType>99</CARD_AuthType>
+      <CARD_RegNum></CARD_RegNum>
+      <CARD_ApplDate>20150904</CARD_ApplDate>
+      <CARD_ApplTime>171406</CARD_ApplTime>
+      <CARD_ApplNum>36737455</CARD_ApplNum>
+      <CARD_TerminalNum>0198732000</CARD_TerminalNum>
+      <CARD_MemberNum></CARD_MemberNum>
+      <CARD_PurchaseCode></CARD_PurchaseCode>
+      <CARD_ResultCode>120000</CARD_ResultCode>
+      <CARD_ResultMsg urlencode="1">%C1%A4%BB%F3%C3%B3%B8%AE%B5%C7%BE%FA%BD%C0%B4%CF%B4%D9.</CARD_ResultMsg>
+      <CARD_PrtcCode>1</CARD_PrtcCode>
+      <CARD_Quota_Point>00</CARD_Quota_Point>
+      <CARD_CheckFlag>0</CARD_CheckFlag>
+      <CARD_PurchaseName urlencode="1"></CARD_PurchaseName>
+      <CARD_IssuerName urlencode="1"></CARD_IssuerName>
+      <CARD_JoinUsePoint></CARD_JoinUsePoint>
+      <CARD_UsePoint>000000000000</CARD_UsePoint>
+      <CARD_CouponOnlyMer></CARD_CouponOnlyMer>
+    </Card>
+  </Payment>
+</PaymentInfo>]
+INFO	[2015-09-04 17:14:07:506] <3266> DECRYPT PARSE OK
+INFO	[2015-09-04 17:14:07:506] <3266> WAIT ACK INVOKING
+DEBUG	[2015-09-04 17:14:07:507] <3266> MAKE HEAD OK
+INFO	[2015-09-04 17:14:07:544] <3266> SUCCESS ACK INVOKING
+INFO	[2015-09-04 17:14:07:544] <3266> END securepay 정상처리되었습니다. Laptime:[1.148sec]
+INFO	[2015-09-04 17:14:07:544] <3266> ===============================================================

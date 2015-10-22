@@ -1,0 +1,1522 @@
+INFO	[2015-08-08 18:21:45:303] <7292> START INIPHP chkfake (V5036-141209)(OS:Linux3.14.44-32.39.amzn1.x86_64,PHP:5.3.29)
+DEBUG	[2015-08-08 18:21:45:303] <7292> inipayhome:/var/www/html/nsale/shop/inicis
+DEBUG	[2015-08-08 18:21:45:303] <7292> debug:false
+DEBUG	[2015-08-08 18:21:45:303] <7292> type:chkfake
+DEBUG	[2015-08-08 18:21:45:303] <7292> enctype:asym
+DEBUG	[2015-08-08 18:21:45:303] <7292> admin:1111
+DEBUG	[2015-08-08 18:21:45:303] <7292> checkopt:false
+DEBUG	[2015-08-08 18:21:45:303] <7292> mid:nsalecokr0
+DEBUG	[2015-08-08 18:21:45:303] <7292> price:32000
+DEBUG	[2015-08-08 18:21:45:303] <7292> nointerest:no
+DEBUG	[2015-08-08 18:21:45:303] <7292> quotabase:ÏÑ†ÌÉù:ÏùºÏãúÎ∂à:2Í∞úÏõî:3Í∞úÏõî:4Í∞úÏõî:5Í∞úÏõî:6Í∞úÏõî:7Í∞úÏõî:8Í∞úÏõî:9Í∞úÏõî:10Í∞úÏõî:11Í∞úÏõî:12Í∞úÏõî
+INFO	[2015-08-08 18:21:45:303] <7292> Check Field OK
+INFO	[2015-08-08 18:21:45:303] <7292> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-08-08 18:21:45:303] <7292> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-08-08 18:21:45:304] <7292> CHKFAKE KEY MAKE OK:MjAxNTA4MDgxODIxNDUzMDMxNzYyMg==
+
+INFO	[2015-08-08 18:21:45:304] <7292> END chkfake  Laptime:[0.001sec]
+INFO	[2015-08-08 18:21:45:304] <7292> ===============================================================
+INFO	[2015-08-08 18:21:45:484] <7222> START INIPHP securepay (V5036-141209)(OS:Linux3.14.44-32.39.amzn1.x86_64,PHP:5.3.29)
+DEBUG	[2015-08-08 18:21:45:484] <7222> inipayhome:/var/www/html/nsale/shop/inicis
+DEBUG	[2015-08-08 18:21:45:484] <7222> debug:false
+DEBUG	[2015-08-08 18:21:45:484] <7222> type:securepay
+DEBUG	[2015-08-08 18:21:45:484] <7222> pgid:INIphp
+DEBUG	[2015-08-08 18:21:45:484] <7222> subpgip:203.238.3.10
+DEBUG	[2015-08-08 18:21:45:484] <7222> admin:1111
+DEBUG	[2015-08-08 18:21:45:484] <7222> uid:
+DEBUG	[2015-08-08 18:21:45:484] <7222> goodname:¥ı∫Ì¿Ø∑¶ CO2 ≈∫ªÍ ø√≈≥∆—: ≈∫ªÍ¿∏∑Œ ∏∞¯∞¸∏Æ
+DEBUG	[2015-08-08 18:21:45:484] <7222> currency:WON
+DEBUG	[2015-08-08 18:21:45:484] <7222> mid:nsalecokr0
+DEBUG	[2015-08-08 18:21:45:484] <7222> rn:MjAxNTA4MDgxODIxNDUzMDMxNzYyMg==
+
+DEBUG	[2015-08-08 18:21:45:484] <7222> price:32000
+DEBUG	[2015-08-08 18:21:45:484] <7222> enctype:
+DEBUG	[2015-08-08 18:21:45:484] <7222> buyername:√÷∞Ì∞¸∏Æ¿⁄
+DEBUG	[2015-08-08 18:21:45:484] <7222> buyertel:124
+DEBUG	[2015-08-08 18:21:45:484] <7222> buyeremail:ilse090@nate.com
+DEBUG	[2015-08-08 18:21:45:484] <7222> paymethod:
+DEBUG	[2015-08-08 18:21:45:484] <7222> encrypted:
+DEBUG	[2015-08-08 18:21:45:484] <7222> sessionkey:
+DEBUG	[2015-08-08 18:21:45:484] <7222> url:http://54.64.7.8
+DEBUG	[2015-08-08 18:21:45:484] <7222> cardcode:
+DEBUG	[2015-08-08 18:21:45:484] <7222> parentemail:
+DEBUG	[2015-08-08 18:21:45:484] <7222> recvname:√÷∞Ì∞¸∏Æ¿⁄
+DEBUG	[2015-08-08 18:21:45:484] <7222> recvtel:124
+DEBUG	[2015-08-08 18:21:45:484] <7222> recvaddr:º≠øÔ ∞≠µø±∏ µ–√Ãµø 218 
+DEBUG	[2015-08-08 18:21:45:484] <7222> recvpostnum:134823
+DEBUG	[2015-08-08 18:21:45:484] <7222> recvmsg:
+DEBUG	[2015-08-08 18:21:45:484] <7222> joincard:
+DEBUG	[2015-08-08 18:21:45:484] <7222> joinexpire:
+DEBUG	[2015-08-08 18:21:45:484] <7222> id_customer:
+ERROR	[2015-08-08 18:21:45:564] <7222> « ºˆ«◊∏Ò(paymethod)¿Ã ¥©∂Ùµ«æ˙Ω¿¥œ¥Ÿ.
+INFO	[2015-08-08 18:21:45:564] <7222> END securepay [TX9225|« ºˆ«◊∏Ò(paymethod)¿Ã ¥©∂Ùµ«æ˙Ω¿¥œ¥Ÿ.] Laptime:[0.08sec]
+INFO	[2015-08-08 18:21:45:564] <7222> ===============================================================
+INFO	[2015-08-08 18:22:02:626] <7296> START INIPHP chkfake (V5036-141209)(OS:Linux3.14.44-32.39.amzn1.x86_64,PHP:5.3.29)
+DEBUG	[2015-08-08 18:22:02:626] <7296> inipayhome:/var/www/html/nsale/shop/inicis
+DEBUG	[2015-08-08 18:22:02:626] <7296> debug:false
+DEBUG	[2015-08-08 18:22:02:626] <7296> type:chkfake
+DEBUG	[2015-08-08 18:22:02:626] <7296> enctype:asym
+DEBUG	[2015-08-08 18:22:02:626] <7296> admin:1111
+DEBUG	[2015-08-08 18:22:02:626] <7296> checkopt:false
+DEBUG	[2015-08-08 18:22:02:626] <7296> mid:nsalecokr0
+DEBUG	[2015-08-08 18:22:02:626] <7296> price:32000
+DEBUG	[2015-08-08 18:22:02:626] <7296> nointerest:no
+DEBUG	[2015-08-08 18:22:02:626] <7296> quotabase:ÏÑ†ÌÉù:ÏùºÏãúÎ∂à:2Í∞úÏõî:3Í∞úÏõî:4Í∞úÏõî:5Í∞úÏõî:6Í∞úÏõî:7Í∞úÏõî:8Í∞úÏõî:9Í∞úÏõî:10Í∞úÏõî:11Í∞úÏõî:12Í∞úÏõî
+INFO	[2015-08-08 18:22:02:627] <7296> Check Field OK
+INFO	[2015-08-08 18:22:02:627] <7296> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-08-08 18:22:02:627] <7296> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-08-08 18:22:02:628] <7296> CHKFAKE KEY MAKE OK:MjAxNTA4MDgxODIyMDI2Mjc2ODg3MA==
+
+INFO	[2015-08-08 18:22:02:628] <7296> END chkfake  Laptime:[0.001sec]
+INFO	[2015-08-08 18:22:02:628] <7296> ===============================================================
+INFO	[2015-08-08 18:22:02:806] <7212> START INIPHP securepay (V5036-141209)(OS:Linux3.14.44-32.39.amzn1.x86_64,PHP:5.3.29)
+DEBUG	[2015-08-08 18:22:02:806] <7212> inipayhome:/var/www/html/nsale/shop/inicis
+DEBUG	[2015-08-08 18:22:02:806] <7212> debug:false
+DEBUG	[2015-08-08 18:22:02:806] <7212> type:securepay
+DEBUG	[2015-08-08 18:22:02:806] <7212> pgid:INIphp
+DEBUG	[2015-08-08 18:22:02:806] <7212> subpgip:203.238.3.10
+DEBUG	[2015-08-08 18:22:02:806] <7212> admin:1111
+DEBUG	[2015-08-08 18:22:02:806] <7212> uid:
+DEBUG	[2015-08-08 18:22:02:806] <7212> goodname:¥ı∫Ì¿Ø∑¶ CO2 ≈∫ªÍ ø√≈≥∆—: ≈∫ªÍ¿∏∑Œ ∏∞¯∞¸∏Æ
+DEBUG	[2015-08-08 18:22:02:806] <7212> currency:WON
+DEBUG	[2015-08-08 18:22:02:806] <7212> mid:nsalecokr0
+DEBUG	[2015-08-08 18:22:02:806] <7212> rn:MjAxNTA4MDgxODIyMDI2Mjc2ODg3MA==
+
+DEBUG	[2015-08-08 18:22:02:806] <7212> price:32000
+DEBUG	[2015-08-08 18:22:02:806] <7212> enctype:
+DEBUG	[2015-08-08 18:22:02:806] <7212> buyername:√÷∞Ì∞¸∏Æ¿⁄
+DEBUG	[2015-08-08 18:22:02:806] <7212> buyertel:124
+DEBUG	[2015-08-08 18:22:02:806] <7212> buyeremail:ilse090@nate.com
+DEBUG	[2015-08-08 18:22:02:806] <7212> paymethod:
+DEBUG	[2015-08-08 18:22:02:806] <7212> encrypted:
+DEBUG	[2015-08-08 18:22:02:806] <7212> sessionkey:
+DEBUG	[2015-08-08 18:22:02:806] <7212> url:http://54.64.7.8
+DEBUG	[2015-08-08 18:22:02:806] <7212> cardcode:
+DEBUG	[2015-08-08 18:22:02:806] <7212> parentemail:
+DEBUG	[2015-08-08 18:22:02:806] <7212> recvname:√÷∞Ì∞¸∏Æ¿⁄
+DEBUG	[2015-08-08 18:22:02:806] <7212> recvtel:124
+DEBUG	[2015-08-08 18:22:02:806] <7212> recvaddr:º≠øÔ ∞≠µø±∏ µ–√Ãµø 218 
+DEBUG	[2015-08-08 18:22:02:806] <7212> recvpostnum:134823
+DEBUG	[2015-08-08 18:22:02:806] <7212> recvmsg:
+DEBUG	[2015-08-08 18:22:02:806] <7212> joincard:
+DEBUG	[2015-08-08 18:22:02:806] <7212> joinexpire:
+DEBUG	[2015-08-08 18:22:02:806] <7212> id_customer:
+ERROR	[2015-08-08 18:22:02:844] <7212> « ºˆ«◊∏Ò(paymethod)¿Ã ¥©∂Ùµ«æ˙Ω¿¥œ¥Ÿ.
+INFO	[2015-08-08 18:22:02:844] <7212> END securepay [TX9225|« ºˆ«◊∏Ò(paymethod)¿Ã ¥©∂Ùµ«æ˙Ω¿¥œ¥Ÿ.] Laptime:[0.038sec]
+INFO	[2015-08-08 18:22:02:844] <7212> ===============================================================
+INFO	[2015-08-08 18:23:19:722] <7229> START INIPHP chkfake (V5036-141209)(OS:Linux3.14.44-32.39.amzn1.x86_64,PHP:5.3.29)
+DEBUG	[2015-08-08 18:23:19:722] <7229> inipayhome:/var/www/html/nsale/shop/inicis
+DEBUG	[2015-08-08 18:23:19:722] <7229> debug:false
+DEBUG	[2015-08-08 18:23:19:722] <7229> type:chkfake
+DEBUG	[2015-08-08 18:23:19:722] <7229> enctype:asym
+DEBUG	[2015-08-08 18:23:19:722] <7229> admin:1111
+DEBUG	[2015-08-08 18:23:19:722] <7229> checkopt:false
+DEBUG	[2015-08-08 18:23:19:722] <7229> mid:nsalecokr0
+DEBUG	[2015-08-08 18:23:19:722] <7229> price:32000
+DEBUG	[2015-08-08 18:23:19:722] <7229> nointerest:no
+DEBUG	[2015-08-08 18:23:19:722] <7229> quotabase:ÏÑ†ÌÉù:ÏùºÏãúÎ∂à:2Í∞úÏõî:3Í∞úÏõî:4Í∞úÏõî:5Í∞úÏõî:6Í∞úÏõî:7Í∞úÏõî:8Í∞úÏõî:9Í∞úÏõî:10Í∞úÏõî:11Í∞úÏõî:12Í∞úÏõî
+INFO	[2015-08-08 18:23:19:722] <7229> Check Field OK
+INFO	[2015-08-08 18:23:19:723] <7229> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-08-08 18:23:19:723] <7229> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-08-08 18:23:19:723] <7229> CHKFAKE KEY MAKE OK:MjAxNTA4MDgxODIzMTk3MjM4OTIwOA==
+
+INFO	[2015-08-08 18:23:19:723] <7229> END chkfake  Laptime:[0.001sec]
+INFO	[2015-08-08 18:23:19:723] <7229> ===============================================================
+INFO	[2015-08-08 18:23:19:897] <7292> START INIPHP securepay (V5036-141209)(OS:Linux3.14.44-32.39.amzn1.x86_64,PHP:5.3.29)
+DEBUG	[2015-08-08 18:23:19:897] <7292> inipayhome:/var/www/html/nsale/shop/inicis
+DEBUG	[2015-08-08 18:23:19:897] <7292> debug:false
+DEBUG	[2015-08-08 18:23:19:897] <7292> type:securepay
+DEBUG	[2015-08-08 18:23:19:897] <7292> pgid:INIphp
+DEBUG	[2015-08-08 18:23:19:897] <7292> subpgip:203.238.3.10
+DEBUG	[2015-08-08 18:23:19:897] <7292> admin:1111
+DEBUG	[2015-08-08 18:23:19:897] <7292> uid:
+DEBUG	[2015-08-08 18:23:19:897] <7292> goodname:¥ı∫Ì¿Ø∑¶ CO2 ≈∫ªÍ ø√≈≥∆—: ≈∫ªÍ¿∏∑Œ ∏∞¯∞¸∏Æ
+DEBUG	[2015-08-08 18:23:19:897] <7292> currency:WON
+DEBUG	[2015-08-08 18:23:19:897] <7292> mid:nsalecokr0
+DEBUG	[2015-08-08 18:23:19:897] <7292> rn:MjAxNTA4MDgxODIzMTk3MjM4OTIwOA==
+
+DEBUG	[2015-08-08 18:23:19:897] <7292> price:32000
+DEBUG	[2015-08-08 18:23:19:897] <7292> enctype:
+DEBUG	[2015-08-08 18:23:19:897] <7292> buyername:√÷∞Ì∞¸∏Æ¿⁄
+DEBUG	[2015-08-08 18:23:19:897] <7292> buyertel:124
+DEBUG	[2015-08-08 18:23:19:897] <7292> buyeremail:ilse090@nate.com
+DEBUG	[2015-08-08 18:23:19:897] <7292> paymethod:
+DEBUG	[2015-08-08 18:23:19:897] <7292> encrypted:
+DEBUG	[2015-08-08 18:23:19:897] <7292> sessionkey:
+DEBUG	[2015-08-08 18:23:19:897] <7292> url:http://54.64.7.8
+DEBUG	[2015-08-08 18:23:19:897] <7292> cardcode:
+DEBUG	[2015-08-08 18:23:19:897] <7292> parentemail:
+DEBUG	[2015-08-08 18:23:19:897] <7292> recvname:√÷∞Ì∞¸∏Æ¿⁄
+DEBUG	[2015-08-08 18:23:19:897] <7292> recvtel:124
+DEBUG	[2015-08-08 18:23:19:897] <7292> recvaddr:º≠øÔ ∞≠µø±∏ µ–√Ãµø 218 
+DEBUG	[2015-08-08 18:23:19:897] <7292> recvpostnum:134823
+DEBUG	[2015-08-08 18:23:19:897] <7292> recvmsg:
+DEBUG	[2015-08-08 18:23:19:897] <7292> joincard:
+DEBUG	[2015-08-08 18:23:19:897] <7292> joinexpire:
+DEBUG	[2015-08-08 18:23:19:897] <7292> id_customer:
+ERROR	[2015-08-08 18:23:19:938] <7292> « ºˆ«◊∏Ò(paymethod)¿Ã ¥©∂Ùµ«æ˙Ω¿¥œ¥Ÿ.
+INFO	[2015-08-08 18:23:19:939] <7292> END securepay [TX9225|« ºˆ«◊∏Ò(paymethod)¿Ã ¥©∂Ùµ«æ˙Ω¿¥œ¥Ÿ.] Laptime:[0.041sec]
+INFO	[2015-08-08 18:23:19:939] <7292> ===============================================================
+INFO	[2015-08-08 18:29:57:507] <7276> START INIPHP chkfake (V5036-141209)(OS:Linux3.14.44-32.39.amzn1.x86_64,PHP:5.3.29)
+DEBUG	[2015-08-08 18:29:57:507] <7276> inipayhome:/var/www/html/nsale/shop/inicis
+DEBUG	[2015-08-08 18:29:57:507] <7276> debug:false
+DEBUG	[2015-08-08 18:29:57:507] <7276> type:chkfake
+DEBUG	[2015-08-08 18:29:57:507] <7276> enctype:asym
+DEBUG	[2015-08-08 18:29:57:507] <7276> admin:1111
+DEBUG	[2015-08-08 18:29:57:507] <7276> checkopt:false
+DEBUG	[2015-08-08 18:29:57:507] <7276> mid:nsalecokr0
+DEBUG	[2015-08-08 18:29:57:507] <7276> price:32000
+DEBUG	[2015-08-08 18:29:57:507] <7276> nointerest:no
+DEBUG	[2015-08-08 18:29:57:507] <7276> quotabase:ÏÑ†ÌÉù:ÏùºÏãúÎ∂à:2Í∞úÏõî:3Í∞úÏõî:4Í∞úÏõî:5Í∞úÏõî:6Í∞úÏõî:7Í∞úÏõî:8Í∞úÏõî:9Í∞úÏõî:10Í∞úÏõî:11Í∞úÏõî:12Í∞úÏõî
+INFO	[2015-08-08 18:29:57:507] <7276> Check Field OK
+INFO	[2015-08-08 18:29:57:507] <7276> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-08-08 18:29:57:507] <7276> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-08-08 18:29:57:508] <7276> CHKFAKE KEY MAKE OK:MjAxNTA4MDgxODI5NTc1MDg0NzUxNg==
+
+INFO	[2015-08-08 18:29:57:508] <7276> END chkfake  Laptime:[0.001sec]
+INFO	[2015-08-08 18:29:57:508] <7276> ===============================================================
+INFO	[2015-08-08 18:29:57:683] <7287> START INIPHP securepay (V5036-141209)(OS:Linux3.14.44-32.39.amzn1.x86_64,PHP:5.3.29)
+DEBUG	[2015-08-08 18:29:57:683] <7287> inipayhome:/var/www/html/nsale/shop/inicis
+DEBUG	[2015-08-08 18:29:57:683] <7287> debug:false
+DEBUG	[2015-08-08 18:29:57:683] <7287> type:securepay
+DEBUG	[2015-08-08 18:29:57:683] <7287> pgid:INIphp
+DEBUG	[2015-08-08 18:29:57:683] <7287> subpgip:203.238.3.10
+DEBUG	[2015-08-08 18:29:57:683] <7287> admin:1111
+DEBUG	[2015-08-08 18:29:57:683] <7287> uid:
+DEBUG	[2015-08-08 18:29:57:683] <7287> goodname:¥ı∫Ì¿Ø∑¶ CO2 ≈∫ªÍ ø√≈≥∆—: ≈∫ªÍ¿∏∑Œ ∏∞¯∞¸∏Æ
+DEBUG	[2015-08-08 18:29:57:683] <7287> currency:WON
+DEBUG	[2015-08-08 18:29:57:683] <7287> mid:nsalecokr0
+DEBUG	[2015-08-08 18:29:57:683] <7287> rn:MjAxNTA4MDgxODI5NTc1MDg0NzUxNg==
+
+DEBUG	[2015-08-08 18:29:57:683] <7287> price:32000
+DEBUG	[2015-08-08 18:29:57:683] <7287> enctype:
+DEBUG	[2015-08-08 18:29:57:683] <7287> buyername:√÷∞Ì∞¸∏Æ¿⁄
+DEBUG	[2015-08-08 18:29:57:683] <7287> buyertel:124
+DEBUG	[2015-08-08 18:29:57:683] <7287> buyeremail:ilse090@nate.com
+DEBUG	[2015-08-08 18:29:57:683] <7287> paymethod:
+DEBUG	[2015-08-08 18:29:57:683] <7287> encrypted:
+DEBUG	[2015-08-08 18:29:57:683] <7287> sessionkey:
+DEBUG	[2015-08-08 18:29:57:683] <7287> url:http://54.64.7.8
+DEBUG	[2015-08-08 18:29:57:683] <7287> cardcode:
+DEBUG	[2015-08-08 18:29:57:683] <7287> parentemail:
+DEBUG	[2015-08-08 18:29:57:683] <7287> recvname:√÷∞Ì∞¸∏Æ¿⁄
+DEBUG	[2015-08-08 18:29:57:683] <7287> recvtel:124
+DEBUG	[2015-08-08 18:29:57:683] <7287> recvaddr:º≠øÔ ∞≠µø±∏ µ–√Ãµø 218 
+DEBUG	[2015-08-08 18:29:57:683] <7287> recvpostnum:134823
+DEBUG	[2015-08-08 18:29:57:683] <7287> recvmsg:
+DEBUG	[2015-08-08 18:29:57:683] <7287> joincard:
+DEBUG	[2015-08-08 18:29:57:683] <7287> joinexpire:
+DEBUG	[2015-08-08 18:29:57:683] <7287> id_customer:
+ERROR	[2015-08-08 18:29:57:722] <7287> « ºˆ«◊∏Ò(paymethod)¿Ã ¥©∂Ùµ«æ˙Ω¿¥œ¥Ÿ.
+INFO	[2015-08-08 18:29:57:722] <7287> END securepay [TX9225|« ºˆ«◊∏Ò(paymethod)¿Ã ¥©∂Ùµ«æ˙Ω¿¥œ¥Ÿ.] Laptime:[0.038sec]
+INFO	[2015-08-08 18:29:57:722] <7287> ===============================================================
+INFO	[2015-08-08 18:30:02:727] <7287> START INIPHP chkfake (V5036-141209)(OS:Linux3.14.44-32.39.amzn1.x86_64,PHP:5.3.29)
+DEBUG	[2015-08-08 18:30:02:727] <7287> inipayhome:/var/www/html/nsale/shop/inicis
+DEBUG	[2015-08-08 18:30:02:727] <7287> debug:false
+DEBUG	[2015-08-08 18:30:02:727] <7287> type:chkfake
+DEBUG	[2015-08-08 18:30:02:727] <7287> enctype:asym
+DEBUG	[2015-08-08 18:30:02:727] <7287> admin:1111
+DEBUG	[2015-08-08 18:30:02:727] <7287> checkopt:false
+DEBUG	[2015-08-08 18:30:02:727] <7287> mid:nsalecokr0
+DEBUG	[2015-08-08 18:30:02:727] <7287> price:32000
+DEBUG	[2015-08-08 18:30:02:727] <7287> nointerest:no
+DEBUG	[2015-08-08 18:30:02:727] <7287> quotabase:ÏÑ†ÌÉù:ÏùºÏãúÎ∂à:2Í∞úÏõî:3Í∞úÏõî:4Í∞úÏõî:5Í∞úÏõî:6Í∞úÏõî:7Í∞úÏõî:8Í∞úÏõî:9Í∞úÏõî:10Í∞úÏõî:11Í∞úÏõî:12Í∞úÏõî
+INFO	[2015-08-08 18:30:02:727] <7287> Check Field OK
+INFO	[2015-08-08 18:30:02:727] <7287> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-08-08 18:30:02:727] <7287> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-08-08 18:30:02:728] <7287> CHKFAKE KEY MAKE OK:MjAxNTA4MDgxODMwMDI3MjcxODIzNA==
+
+INFO	[2015-08-08 18:30:02:728] <7287> END chkfake  Laptime:[0.001sec]
+INFO	[2015-08-08 18:30:02:728] <7287> ===============================================================
+INFO	[2015-08-08 18:30:02:901] <7280> START INIPHP securepay (V5036-141209)(OS:Linux3.14.44-32.39.amzn1.x86_64,PHP:5.3.29)
+DEBUG	[2015-08-08 18:30:02:901] <7280> inipayhome:/var/www/html/nsale/shop/inicis
+DEBUG	[2015-08-08 18:30:02:901] <7280> debug:false
+DEBUG	[2015-08-08 18:30:02:901] <7280> type:securepay
+DEBUG	[2015-08-08 18:30:02:901] <7280> pgid:INIphp
+DEBUG	[2015-08-08 18:30:02:901] <7280> subpgip:203.238.3.10
+DEBUG	[2015-08-08 18:30:02:901] <7280> admin:1111
+DEBUG	[2015-08-08 18:30:02:901] <7280> uid:
+DEBUG	[2015-08-08 18:30:02:901] <7280> goodname:¥ı∫Ì¿Ø∑¶ CO2 ≈∫ªÍ ø√≈≥∆—: ≈∫ªÍ¿∏∑Œ ∏∞¯∞¸∏Æ
+DEBUG	[2015-08-08 18:30:02:901] <7280> currency:WON
+DEBUG	[2015-08-08 18:30:02:901] <7280> mid:nsalecokr0
+DEBUG	[2015-08-08 18:30:02:901] <7280> rn:MjAxNTA4MDgxODMwMDI3MjcxODIzNA==
+
+DEBUG	[2015-08-08 18:30:02:901] <7280> price:32000
+DEBUG	[2015-08-08 18:30:02:901] <7280> enctype:
+DEBUG	[2015-08-08 18:30:02:901] <7280> buyername:√÷∞Ì∞¸∏Æ¿⁄
+DEBUG	[2015-08-08 18:30:02:901] <7280> buyertel:124
+DEBUG	[2015-08-08 18:30:02:901] <7280> buyeremail:ilse090@nate.com
+DEBUG	[2015-08-08 18:30:02:901] <7280> paymethod:
+DEBUG	[2015-08-08 18:30:02:901] <7280> encrypted:
+DEBUG	[2015-08-08 18:30:02:901] <7280> sessionkey:
+DEBUG	[2015-08-08 18:30:02:901] <7280> url:http://54.64.7.8
+DEBUG	[2015-08-08 18:30:02:901] <7280> cardcode:
+DEBUG	[2015-08-08 18:30:02:901] <7280> parentemail:
+DEBUG	[2015-08-08 18:30:02:901] <7280> recvname:√÷∞Ì∞¸∏Æ¿⁄
+DEBUG	[2015-08-08 18:30:02:901] <7280> recvtel:124
+DEBUG	[2015-08-08 18:30:02:901] <7280> recvaddr:º≠øÔ ∞≠µø±∏ µ–√Ãµø 218 
+DEBUG	[2015-08-08 18:30:02:901] <7280> recvpostnum:134823
+DEBUG	[2015-08-08 18:30:02:901] <7280> recvmsg:
+DEBUG	[2015-08-08 18:30:02:901] <7280> joincard:
+DEBUG	[2015-08-08 18:30:02:901] <7280> joinexpire:
+DEBUG	[2015-08-08 18:30:02:901] <7280> id_customer:
+ERROR	[2015-08-08 18:30:02:941] <7280> « ºˆ«◊∏Ò(paymethod)¿Ã ¥©∂Ùµ«æ˙Ω¿¥œ¥Ÿ.
+INFO	[2015-08-08 18:30:02:942] <7280> END securepay [TX9225|« ºˆ«◊∏Ò(paymethod)¿Ã ¥©∂Ùµ«æ˙Ω¿¥œ¥Ÿ.] Laptime:[0.041sec]
+INFO	[2015-08-08 18:30:02:942] <7280> ===============================================================
+INFO	[2015-08-08 18:30:18:655] <7288> START INIPHP chkfake (V5036-141209)(OS:Linux3.14.44-32.39.amzn1.x86_64,PHP:5.3.29)
+DEBUG	[2015-08-08 18:30:18:655] <7288> inipayhome:/var/www/html/nsale/shop/inicis
+DEBUG	[2015-08-08 18:30:18:655] <7288> debug:false
+DEBUG	[2015-08-08 18:30:18:655] <7288> type:chkfake
+DEBUG	[2015-08-08 18:30:18:655] <7288> enctype:asym
+DEBUG	[2015-08-08 18:30:18:655] <7288> admin:1111
+DEBUG	[2015-08-08 18:30:18:655] <7288> checkopt:false
+DEBUG	[2015-08-08 18:30:18:655] <7288> mid:nsalecokr0
+DEBUG	[2015-08-08 18:30:18:655] <7288> price:32000
+DEBUG	[2015-08-08 18:30:18:655] <7288> nointerest:no
+DEBUG	[2015-08-08 18:30:18:655] <7288> quotabase:ÏÑ†ÌÉù:ÏùºÏãúÎ∂à:2Í∞úÏõî:3Í∞úÏõî:4Í∞úÏõî:5Í∞úÏõî:6Í∞úÏõî:7Í∞úÏõî:8Í∞úÏõî:9Í∞úÏõî:10Í∞úÏõî:11Í∞úÏõî:12Í∞úÏõî
+INFO	[2015-08-08 18:30:18:655] <7288> Check Field OK
+INFO	[2015-08-08 18:30:18:655] <7288> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-08-08 18:30:18:655] <7288> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-08-08 18:30:18:656] <7288> CHKFAKE KEY MAKE OK:MjAxNTA4MDgxODMwMTg2NTU4MzA4OQ==
+
+INFO	[2015-08-08 18:30:18:656] <7288> END chkfake  Laptime:[0.001sec]
+INFO	[2015-08-08 18:30:18:656] <7288> ===============================================================
+INFO	[2015-08-08 18:30:18:833] <7195> START INIPHP securepay (V5036-141209)(OS:Linux3.14.44-32.39.amzn1.x86_64,PHP:5.3.29)
+DEBUG	[2015-08-08 18:30:18:833] <7195> inipayhome:/var/www/html/nsale/shop/inicis
+DEBUG	[2015-08-08 18:30:18:833] <7195> debug:false
+DEBUG	[2015-08-08 18:30:18:833] <7195> type:securepay
+DEBUG	[2015-08-08 18:30:18:833] <7195> pgid:INIphp
+DEBUG	[2015-08-08 18:30:18:833] <7195> subpgip:203.238.3.10
+DEBUG	[2015-08-08 18:30:18:833] <7195> admin:1111
+DEBUG	[2015-08-08 18:30:18:833] <7195> uid:
+DEBUG	[2015-08-08 18:30:18:833] <7195> goodname:¥ı∫Ì¿Ø∑¶ CO2 ≈∫ªÍ ø√≈≥∆—: ≈∫ªÍ¿∏∑Œ ∏∞¯∞¸∏Æ
+DEBUG	[2015-08-08 18:30:18:833] <7195> currency:WON
+DEBUG	[2015-08-08 18:30:18:833] <7195> mid:nsalecokr0
+DEBUG	[2015-08-08 18:30:18:833] <7195> rn:MjAxNTA4MDgxODMwMTg2NTU4MzA4OQ==
+
+DEBUG	[2015-08-08 18:30:18:833] <7195> price:32000
+DEBUG	[2015-08-08 18:30:18:833] <7195> enctype:
+DEBUG	[2015-08-08 18:30:18:833] <7195> buyername:√÷∞Ì∞¸∏Æ¿⁄
+DEBUG	[2015-08-08 18:30:18:833] <7195> buyertel:124
+DEBUG	[2015-08-08 18:30:18:833] <7195> buyeremail:ilse090@nate.com
+DEBUG	[2015-08-08 18:30:18:833] <7195> paymethod:
+DEBUG	[2015-08-08 18:30:18:833] <7195> encrypted:
+DEBUG	[2015-08-08 18:30:18:833] <7195> sessionkey:
+DEBUG	[2015-08-08 18:30:18:833] <7195> url:http://54.64.7.8
+DEBUG	[2015-08-08 18:30:18:833] <7195> cardcode:
+DEBUG	[2015-08-08 18:30:18:833] <7195> parentemail:
+DEBUG	[2015-08-08 18:30:18:833] <7195> recvname:√÷∞Ì∞¸∏Æ¿⁄
+DEBUG	[2015-08-08 18:30:18:833] <7195> recvtel:124
+DEBUG	[2015-08-08 18:30:18:833] <7195> recvaddr:º≠øÔ ∞≠µø±∏ µ–√Ãµø 218 
+DEBUG	[2015-08-08 18:30:18:833] <7195> recvpostnum:134823
+DEBUG	[2015-08-08 18:30:18:833] <7195> recvmsg:
+DEBUG	[2015-08-08 18:30:18:833] <7195> joincard:
+DEBUG	[2015-08-08 18:30:18:833] <7195> joinexpire:
+DEBUG	[2015-08-08 18:30:18:833] <7195> id_customer:
+ERROR	[2015-08-08 18:30:18:872] <7195> « ºˆ«◊∏Ò(paymethod)¿Ã ¥©∂Ùµ«æ˙Ω¿¥œ¥Ÿ.
+INFO	[2015-08-08 18:30:18:872] <7195> END securepay [TX9225|« ºˆ«◊∏Ò(paymethod)¿Ã ¥©∂Ùµ«æ˙Ω¿¥œ¥Ÿ.] Laptime:[0.038sec]
+INFO	[2015-08-08 18:30:18:872] <7195> ===============================================================
+INFO	[2015-08-08 18:30:43:429] <7208> START INIPHP chkfake (V5036-141209)(OS:Linux3.14.44-32.39.amzn1.x86_64,PHP:5.3.29)
+DEBUG	[2015-08-08 18:30:43:429] <7208> inipayhome:/var/www/html/nsale/shop/inicis
+DEBUG	[2015-08-08 18:30:43:429] <7208> debug:false
+DEBUG	[2015-08-08 18:30:43:429] <7208> type:chkfake
+DEBUG	[2015-08-08 18:30:43:429] <7208> enctype:asym
+DEBUG	[2015-08-08 18:30:43:429] <7208> admin:1111
+DEBUG	[2015-08-08 18:30:43:429] <7208> checkopt:false
+DEBUG	[2015-08-08 18:30:43:429] <7208> mid:nsalecokr0
+DEBUG	[2015-08-08 18:30:43:429] <7208> price:32000
+DEBUG	[2015-08-08 18:30:43:429] <7208> nointerest:no
+DEBUG	[2015-08-08 18:30:43:429] <7208> quotabase:ÏÑ†ÌÉù:ÏùºÏãúÎ∂à:2Í∞úÏõî:3Í∞úÏõî:4Í∞úÏõî:5Í∞úÏõî:6Í∞úÏõî:7Í∞úÏõî:8Í∞úÏõî:9Í∞úÏõî:10Í∞úÏõî:11Í∞úÏõî:12Í∞úÏõî
+INFO	[2015-08-08 18:30:43:429] <7208> Check Field OK
+INFO	[2015-08-08 18:30:43:429] <7208> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-08-08 18:30:43:429] <7208> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-08-08 18:30:43:430] <7208> CHKFAKE KEY MAKE OK:MjAxNTA4MDgxODMwNDM0Mjk5NjEzNg==
+
+INFO	[2015-08-08 18:30:43:430] <7208> END chkfake  Laptime:[0.001sec]
+INFO	[2015-08-08 18:30:43:430] <7208> ===============================================================
+INFO	[2015-08-08 18:30:52:908] <7284> START INIPHP chkfake (V5036-141209)(OS:Linux3.14.44-32.39.amzn1.x86_64,PHP:5.3.29)
+DEBUG	[2015-08-08 18:30:52:908] <7284> inipayhome:/var/www/html/nsale/shop/inicis
+DEBUG	[2015-08-08 18:30:52:908] <7284> debug:false
+DEBUG	[2015-08-08 18:30:52:908] <7284> type:chkfake
+DEBUG	[2015-08-08 18:30:52:908] <7284> enctype:asym
+DEBUG	[2015-08-08 18:30:52:908] <7284> admin:1111
+DEBUG	[2015-08-08 18:30:52:908] <7284> checkopt:false
+DEBUG	[2015-08-08 18:30:52:908] <7284> mid:nsalecokr0
+DEBUG	[2015-08-08 18:30:52:908] <7284> price:32000
+DEBUG	[2015-08-08 18:30:52:908] <7284> nointerest:no
+DEBUG	[2015-08-08 18:30:52:908] <7284> quotabase:ÏÑ†ÌÉù:ÏùºÏãúÎ∂à:2Í∞úÏõî:3Í∞úÏõî:4Í∞úÏõî:5Í∞úÏõî:6Í∞úÏõî:7Í∞úÏõî:8Í∞úÏõî:9Í∞úÏõî:10Í∞úÏõî:11Í∞úÏõî:12Í∞úÏõî
+INFO	[2015-08-08 18:30:52:908] <7284> Check Field OK
+INFO	[2015-08-08 18:30:52:908] <7284> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-08-08 18:30:52:909] <7284> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-08-08 18:30:52:909] <7284> CHKFAKE KEY MAKE OK:MjAxNTA4MDgxODMwNTI5MDk0NjQyNw==
+
+INFO	[2015-08-08 18:30:52:909] <7284> END chkfake  Laptime:[0.001sec]
+INFO	[2015-08-08 18:30:52:909] <7284> ===============================================================
+INFO	[2015-08-08 18:31:05:864] <7280> START INIPHP chkfake (V5036-141209)(OS:Linux3.14.44-32.39.amzn1.x86_64,PHP:5.3.29)
+DEBUG	[2015-08-08 18:31:05:864] <7280> inipayhome:/var/www/html/nsale/shop/inicis
+DEBUG	[2015-08-08 18:31:05:864] <7280> debug:false
+DEBUG	[2015-08-08 18:31:05:864] <7280> type:chkfake
+DEBUG	[2015-08-08 18:31:05:864] <7280> enctype:asym
+DEBUG	[2015-08-08 18:31:05:864] <7280> admin:1111
+DEBUG	[2015-08-08 18:31:05:864] <7280> checkopt:false
+DEBUG	[2015-08-08 18:31:05:864] <7280> mid:nsalecokr0
+DEBUG	[2015-08-08 18:31:05:864] <7280> price:32000
+DEBUG	[2015-08-08 18:31:05:864] <7280> nointerest:no
+DEBUG	[2015-08-08 18:31:05:864] <7280> quotabase:ÏÑ†ÌÉù:ÏùºÏãúÎ∂à:2Í∞úÏõî:3Í∞úÏõî:4Í∞úÏõî:5Í∞úÏõî:6Í∞úÏõî:7Í∞úÏõî:8Í∞úÏõî:9Í∞úÏõî:10Í∞úÏõî:11Í∞úÏõî:12Í∞úÏõî
+INFO	[2015-08-08 18:31:05:864] <7280> Check Field OK
+INFO	[2015-08-08 18:31:05:864] <7280> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-08-08 18:31:05:864] <7280> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-08-08 18:31:05:865] <7280> CHKFAKE KEY MAKE OK:MjAxNTA4MDgxODMxMDU4NjQxOTM4Mg==
+
+INFO	[2015-08-08 18:31:05:865] <7280> END chkfake  Laptime:[0.001sec]
+INFO	[2015-08-08 18:31:05:865] <7280> ===============================================================
+INFO	[2015-08-08 18:31:06:46] <7222> START INIPHP securepay (V5036-141209)(OS:Linux3.14.44-32.39.amzn1.x86_64,PHP:5.3.29)
+DEBUG	[2015-08-08 18:31:06:46] <7222> inipayhome:/var/www/html/nsale/shop/inicis
+DEBUG	[2015-08-08 18:31:06:46] <7222> debug:false
+DEBUG	[2015-08-08 18:31:06:46] <7222> type:securepay
+DEBUG	[2015-08-08 18:31:06:46] <7222> pgid:INIphp
+DEBUG	[2015-08-08 18:31:06:46] <7222> subpgip:203.238.3.10
+DEBUG	[2015-08-08 18:31:06:46] <7222> admin:1111
+DEBUG	[2015-08-08 18:31:06:46] <7222> uid:
+DEBUG	[2015-08-08 18:31:06:46] <7222> goodname:¥ı∫Ì¿Ø∑¶ CO2 ≈∫ªÍ ø√≈≥∆—: ≈∫ªÍ¿∏∑Œ ∏∞¯∞¸∏Æ
+DEBUG	[2015-08-08 18:31:06:46] <7222> currency:WON
+DEBUG	[2015-08-08 18:31:06:46] <7222> mid:nsalecokr0
+DEBUG	[2015-08-08 18:31:06:46] <7222> rn:MjAxNTA4MDgxODMxMDU4NjQxOTM4Mg==
+
+DEBUG	[2015-08-08 18:31:06:46] <7222> price:32000
+DEBUG	[2015-08-08 18:31:06:46] <7222> enctype:
+DEBUG	[2015-08-08 18:31:06:46] <7222> buyername:√÷∞Ì∞¸∏Æ¿⁄
+DEBUG	[2015-08-08 18:31:06:46] <7222> buyertel:124
+DEBUG	[2015-08-08 18:31:06:46] <7222> buyeremail:ilse090@nate.com
+DEBUG	[2015-08-08 18:31:06:46] <7222> paymethod:
+DEBUG	[2015-08-08 18:31:06:46] <7222> encrypted:
+DEBUG	[2015-08-08 18:31:06:46] <7222> sessionkey:
+DEBUG	[2015-08-08 18:31:06:46] <7222> url:http://54.64.7.8
+DEBUG	[2015-08-08 18:31:06:46] <7222> cardcode:
+DEBUG	[2015-08-08 18:31:06:46] <7222> parentemail:
+DEBUG	[2015-08-08 18:31:06:46] <7222> recvname:√÷∞Ì∞¸∏Æ¿⁄
+DEBUG	[2015-08-08 18:31:06:46] <7222> recvtel:124
+DEBUG	[2015-08-08 18:31:06:46] <7222> recvaddr:º≠øÔ ∞≠µø±∏ µ–√Ãµø 218 
+DEBUG	[2015-08-08 18:31:06:46] <7222> recvpostnum:134823
+DEBUG	[2015-08-08 18:31:06:46] <7222> recvmsg:
+DEBUG	[2015-08-08 18:31:06:46] <7222> joincard:
+DEBUG	[2015-08-08 18:31:06:46] <7222> joinexpire:
+DEBUG	[2015-08-08 18:31:06:46] <7222> id_customer:
+ERROR	[2015-08-08 18:31:06:84] <7222> « ºˆ«◊∏Ò(paymethod)¿Ã ¥©∂Ùµ«æ˙Ω¿¥œ¥Ÿ.
+INFO	[2015-08-08 18:31:06:84] <7222> END securepay [TX9225|« ºˆ«◊∏Ò(paymethod)¿Ã ¥©∂Ùµ«æ˙Ω¿¥œ¥Ÿ.] Laptime:[0.038sec]
+INFO	[2015-08-08 18:31:06:84] <7222> ===============================================================
+INFO	[2015-08-08 18:31:13:63] <7288> START INIPHP chkfake (V5036-141209)(OS:Linux3.14.44-32.39.amzn1.x86_64,PHP:5.3.29)
+DEBUG	[2015-08-08 18:31:13:63] <7288> inipayhome:/var/www/html/nsale/shop/inicis
+DEBUG	[2015-08-08 18:31:13:63] <7288> debug:false
+DEBUG	[2015-08-08 18:31:13:63] <7288> type:chkfake
+DEBUG	[2015-08-08 18:31:13:63] <7288> enctype:asym
+DEBUG	[2015-08-08 18:31:13:63] <7288> admin:1111
+DEBUG	[2015-08-08 18:31:13:63] <7288> checkopt:false
+DEBUG	[2015-08-08 18:31:13:63] <7288> mid:nsalecokr0
+DEBUG	[2015-08-08 18:31:13:63] <7288> price:32000
+DEBUG	[2015-08-08 18:31:13:63] <7288> nointerest:no
+DEBUG	[2015-08-08 18:31:13:63] <7288> quotabase:ÏÑ†ÌÉù:ÏùºÏãúÎ∂à:2Í∞úÏõî:3Í∞úÏõî:4Í∞úÏõî:5Í∞úÏõî:6Í∞úÏõî:7Í∞úÏõî:8Í∞úÏõî:9Í∞úÏõî:10Í∞úÏõî:11Í∞úÏõî:12Í∞úÏõî
+INFO	[2015-08-08 18:31:13:63] <7288> Check Field OK
+INFO	[2015-08-08 18:31:13:63] <7288> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-08-08 18:31:13:64] <7288> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-08-08 18:31:13:64] <7288> CHKFAKE KEY MAKE OK:MjAxNTA4MDgxODMxMTMwNjQ1NDkwNw==
+
+INFO	[2015-08-08 18:31:13:64] <7288> END chkfake  Laptime:[0.001sec]
+INFO	[2015-08-08 18:31:13:64] <7288> ===============================================================
+INFO	[2015-08-08 18:31:13:246] <7277> START INIPHP securepay (V5036-141209)(OS:Linux3.14.44-32.39.amzn1.x86_64,PHP:5.3.29)
+DEBUG	[2015-08-08 18:31:13:246] <7277> inipayhome:/var/www/html/nsale/shop/inicis
+DEBUG	[2015-08-08 18:31:13:246] <7277> debug:false
+DEBUG	[2015-08-08 18:31:13:246] <7277> type:securepay
+DEBUG	[2015-08-08 18:31:13:246] <7277> pgid:INIphp
+DEBUG	[2015-08-08 18:31:13:246] <7277> subpgip:203.238.3.10
+DEBUG	[2015-08-08 18:31:13:246] <7277> admin:1111
+DEBUG	[2015-08-08 18:31:13:246] <7277> uid:
+DEBUG	[2015-08-08 18:31:13:246] <7277> goodname:¥ı∫Ì¿Ø∑¶ CO2 ≈∫ªÍ ø√≈≥∆—: ≈∫ªÍ¿∏∑Œ ∏∞¯∞¸∏Æ
+DEBUG	[2015-08-08 18:31:13:246] <7277> currency:WON
+DEBUG	[2015-08-08 18:31:13:246] <7277> mid:nsalecokr0
+DEBUG	[2015-08-08 18:31:13:246] <7277> rn:MjAxNTA4MDgxODMxMTMwNjQ1NDkwNw==
+
+DEBUG	[2015-08-08 18:31:13:246] <7277> price:32000
+DEBUG	[2015-08-08 18:31:13:246] <7277> enctype:
+DEBUG	[2015-08-08 18:31:13:246] <7277> buyername:√÷∞Ì∞¸∏Æ¿⁄
+DEBUG	[2015-08-08 18:31:13:246] <7277> buyertel:124
+DEBUG	[2015-08-08 18:31:13:246] <7277> buyeremail:ilse090@nate.com
+DEBUG	[2015-08-08 18:31:13:246] <7277> paymethod:
+DEBUG	[2015-08-08 18:31:13:246] <7277> encrypted:
+DEBUG	[2015-08-08 18:31:13:246] <7277> sessionkey:
+DEBUG	[2015-08-08 18:31:13:246] <7277> url:http://54.64.7.8
+DEBUG	[2015-08-08 18:31:13:246] <7277> cardcode:
+DEBUG	[2015-08-08 18:31:13:246] <7277> parentemail:
+DEBUG	[2015-08-08 18:31:13:246] <7277> recvname:√÷∞Ì∞¸∏Æ¿⁄
+DEBUG	[2015-08-08 18:31:13:246] <7277> recvtel:124
+DEBUG	[2015-08-08 18:31:13:246] <7277> recvaddr:º≠øÔ ∞≠µø±∏ µ–√Ãµø 218 
+DEBUG	[2015-08-08 18:31:13:246] <7277> recvpostnum:134823
+DEBUG	[2015-08-08 18:31:13:246] <7277> recvmsg:
+DEBUG	[2015-08-08 18:31:13:246] <7277> joincard:
+DEBUG	[2015-08-08 18:31:13:246] <7277> joinexpire:
+DEBUG	[2015-08-08 18:31:13:246] <7277> id_customer:
+ERROR	[2015-08-08 18:31:13:287] <7277> « ºˆ«◊∏Ò(paymethod)¿Ã ¥©∂Ùµ«æ˙Ω¿¥œ¥Ÿ.
+INFO	[2015-08-08 18:31:13:287] <7277> END securepay [TX9225|« ºˆ«◊∏Ò(paymethod)¿Ã ¥©∂Ùµ«æ˙Ω¿¥œ¥Ÿ.] Laptime:[0.041sec]
+INFO	[2015-08-08 18:31:13:287] <7277> ===============================================================
+INFO	[2015-08-08 18:31:30:254] <7274> START INIPHP chkfake (V5036-141209)(OS:Linux3.14.44-32.39.amzn1.x86_64,PHP:5.3.29)
+DEBUG	[2015-08-08 18:31:30:254] <7274> inipayhome:/var/www/html/nsale/shop/inicis
+DEBUG	[2015-08-08 18:31:30:254] <7274> debug:false
+DEBUG	[2015-08-08 18:31:30:254] <7274> type:chkfake
+DEBUG	[2015-08-08 18:31:30:254] <7274> enctype:asym
+DEBUG	[2015-08-08 18:31:30:254] <7274> admin:1111
+DEBUG	[2015-08-08 18:31:30:254] <7274> checkopt:false
+DEBUG	[2015-08-08 18:31:30:254] <7274> mid:nsalecokr0
+DEBUG	[2015-08-08 18:31:30:254] <7274> price:4000
+DEBUG	[2015-08-08 18:31:30:254] <7274> nointerest:no
+DEBUG	[2015-08-08 18:31:30:254] <7274> quotabase:ÏÑ†ÌÉù:ÏùºÏãúÎ∂à:2Í∞úÏõî:3Í∞úÏõî:4Í∞úÏõî:5Í∞úÏõî:6Í∞úÏõî:7Í∞úÏõî:8Í∞úÏõî:9Í∞úÏõî:10Í∞úÏõî:11Í∞úÏõî:12Í∞úÏõî
+INFO	[2015-08-08 18:31:30:255] <7274> Check Field OK
+INFO	[2015-08-08 18:31:30:255] <7274> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-08-08 18:31:30:255] <7274> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-08-08 18:31:30:256] <7274> CHKFAKE KEY MAKE OK:MjAxNTA4MDgxODMxMzAyNTU5OTc4NQ==
+
+INFO	[2015-08-08 18:31:30:256] <7274> END chkfake  Laptime:[0.001sec]
+INFO	[2015-08-08 18:31:30:256] <7274> ===============================================================
+INFO	[2015-08-08 18:32:03:237] <7274> START INIPHP chkfake (V5036-141209)(OS:Linux3.14.44-32.39.amzn1.x86_64,PHP:5.3.29)
+DEBUG	[2015-08-08 18:32:03:237] <7274> inipayhome:/var/www/html/nsale/shop/inicis
+DEBUG	[2015-08-08 18:32:03:237] <7274> debug:false
+DEBUG	[2015-08-08 18:32:03:237] <7274> type:chkfake
+DEBUG	[2015-08-08 18:32:03:237] <7274> enctype:asym
+DEBUG	[2015-08-08 18:32:03:237] <7274> admin:1111
+DEBUG	[2015-08-08 18:32:03:237] <7274> checkopt:false
+DEBUG	[2015-08-08 18:32:03:237] <7274> mid:nsalecokr0
+DEBUG	[2015-08-08 18:32:03:237] <7274> price:32000
+DEBUG	[2015-08-08 18:32:03:237] <7274> nointerest:no
+DEBUG	[2015-08-08 18:32:03:237] <7274> quotabase:ÏÑ†ÌÉù:ÏùºÏãúÎ∂à:2Í∞úÏõî:3Í∞úÏõî:4Í∞úÏõî:5Í∞úÏõî:6Í∞úÏõî:7Í∞úÏõî:8Í∞úÏõî:9Í∞úÏõî:10Í∞úÏõî:11Í∞úÏõî:12Í∞úÏõî
+INFO	[2015-08-08 18:32:03:237] <7274> Check Field OK
+INFO	[2015-08-08 18:32:03:237] <7274> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-08-08 18:32:03:238] <7274> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-08-08 18:32:03:238] <7274> CHKFAKE KEY MAKE OK:MjAxNTA4MDgxODMyMDMyMzg4MjMzNA==
+
+INFO	[2015-08-08 18:32:03:238] <7274> END chkfake  Laptime:[0.001sec]
+INFO	[2015-08-08 18:32:03:238] <7274> ===============================================================
+INFO	[2015-08-08 18:32:38:956] <7280> START INIPHP chkfake (V5036-141209)(OS:Linux3.14.44-32.39.amzn1.x86_64,PHP:5.3.29)
+DEBUG	[2015-08-08 18:32:38:956] <7280> inipayhome:/var/www/html/nsale/shop/inicis
+DEBUG	[2015-08-08 18:32:38:956] <7280> debug:false
+DEBUG	[2015-08-08 18:32:38:956] <7280> type:chkfake
+DEBUG	[2015-08-08 18:32:38:956] <7280> enctype:asym
+DEBUG	[2015-08-08 18:32:38:956] <7280> admin:1111
+DEBUG	[2015-08-08 18:32:38:956] <7280> checkopt:false
+DEBUG	[2015-08-08 18:32:38:956] <7280> mid:nsalecokr0
+DEBUG	[2015-08-08 18:32:38:956] <7280> price:4000
+DEBUG	[2015-08-08 18:32:38:956] <7280> nointerest:no
+DEBUG	[2015-08-08 18:32:38:956] <7280> quotabase:ÏÑ†ÌÉù:ÏùºÏãúÎ∂à:2Í∞úÏõî:3Í∞úÏõî:4Í∞úÏõî:5Í∞úÏõî:6Í∞úÏõî:7Í∞úÏõî:8Í∞úÏõî:9Í∞úÏõî:10Í∞úÏõî:11Í∞úÏõî:12Í∞úÏõî
+INFO	[2015-08-08 18:32:38:956] <7280> Check Field OK
+INFO	[2015-08-08 18:32:38:956] <7280> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-08-08 18:32:38:956] <7280> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-08-08 18:32:38:957] <7280> CHKFAKE KEY MAKE OK:MjAxNTA4MDgxODMyMzg5NTYyNjcyMw==
+
+INFO	[2015-08-08 18:32:38:957] <7280> END chkfake  Laptime:[0.001sec]
+INFO	[2015-08-08 18:32:38:957] <7280> ===============================================================
+INFO	[2015-08-08 18:32:44:973] <7200> START INIPHP chkfake (V5036-141209)(OS:Linux3.14.44-32.39.amzn1.x86_64,PHP:5.3.29)
+DEBUG	[2015-08-08 18:32:44:973] <7200> inipayhome:/var/www/html/nsale/shop/inicis
+DEBUG	[2015-08-08 18:32:44:973] <7200> debug:false
+DEBUG	[2015-08-08 18:32:44:973] <7200> type:chkfake
+DEBUG	[2015-08-08 18:32:44:973] <7200> enctype:asym
+DEBUG	[2015-08-08 18:32:44:973] <7200> admin:1111
+DEBUG	[2015-08-08 18:32:44:973] <7200> checkopt:false
+DEBUG	[2015-08-08 18:32:44:973] <7200> mid:nsalecokr0
+DEBUG	[2015-08-08 18:32:44:973] <7200> price:4000
+DEBUG	[2015-08-08 18:32:44:973] <7200> nointerest:no
+DEBUG	[2015-08-08 18:32:44:973] <7200> quotabase:ÏÑ†ÌÉù:ÏùºÏãúÎ∂à:2Í∞úÏõî:3Í∞úÏõî:4Í∞úÏõî:5Í∞úÏõî:6Í∞úÏõî:7Í∞úÏõî:8Í∞úÏõî:9Í∞úÏõî:10Í∞úÏõî:11Í∞úÏõî:12Í∞úÏõî
+INFO	[2015-08-08 18:32:44:973] <7200> Check Field OK
+INFO	[2015-08-08 18:32:44:973] <7200> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-08-08 18:32:44:973] <7200> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-08-08 18:32:44:974] <7200> CHKFAKE KEY MAKE OK:MjAxNTA4MDgxODMyNDQ5NzM4MTEwMQ==
+
+INFO	[2015-08-08 18:32:44:974] <7200> END chkfake  Laptime:[0.001sec]
+INFO	[2015-08-08 18:32:44:974] <7200> ===============================================================
+INFO	[2015-08-08 18:43:37:862] <7222> START INIPHP chkfake (V5036-141209)(OS:Linux3.14.44-32.39.amzn1.x86_64,PHP:5.3.29)
+DEBUG	[2015-08-08 18:43:37:862] <7222> inipayhome:/var/www/html/nsale/shop/inicis
+DEBUG	[2015-08-08 18:43:37:862] <7222> debug:false
+DEBUG	[2015-08-08 18:43:37:862] <7222> type:chkfake
+DEBUG	[2015-08-08 18:43:37:862] <7222> enctype:asym
+DEBUG	[2015-08-08 18:43:37:862] <7222> admin:1111
+DEBUG	[2015-08-08 18:43:37:862] <7222> checkopt:false
+DEBUG	[2015-08-08 18:43:37:862] <7222> mid:nsalecokr0
+DEBUG	[2015-08-08 18:43:37:862] <7222> price:60000
+DEBUG	[2015-08-08 18:43:37:862] <7222> nointerest:no
+DEBUG	[2015-08-08 18:43:37:862] <7222> quotabase:ÏÑ†ÌÉù:ÏùºÏãúÎ∂à:2Í∞úÏõî:3Í∞úÏõî:4Í∞úÏõî:5Í∞úÏõî:6Í∞úÏõî:7Í∞úÏõî:8Í∞úÏõî:9Í∞úÏõî:10Í∞úÏõî:11Í∞úÏõî:12Í∞úÏõî
+INFO	[2015-08-08 18:43:37:862] <7222> Check Field OK
+INFO	[2015-08-08 18:43:37:863] <7222> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-08-08 18:43:37:863] <7222> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-08-08 18:43:37:863] <7222> CHKFAKE KEY MAKE OK:MjAxNTA4MDgxODQzMzc4NjMzMzg0OQ==
+
+INFO	[2015-08-08 18:43:37:863] <7222> END chkfake  Laptime:[0.001sec]
+INFO	[2015-08-08 18:43:37:863] <7222> ===============================================================
+INFO	[2015-08-08 19:00:39:530] <7279> START INIPHP chkfake (V5036-141209)(OS:Linux3.14.44-32.39.amzn1.x86_64,PHP:5.3.29)
+DEBUG	[2015-08-08 19:00:39:531] <7279> inipayhome:/var/www/html/nsale/shop/inicis
+DEBUG	[2015-08-08 19:00:39:531] <7279> debug:false
+DEBUG	[2015-08-08 19:00:39:531] <7279> type:chkfake
+DEBUG	[2015-08-08 19:00:39:531] <7279> enctype:asym
+DEBUG	[2015-08-08 19:00:39:531] <7279> admin:1111
+DEBUG	[2015-08-08 19:00:39:531] <7279> checkopt:false
+DEBUG	[2015-08-08 19:00:39:531] <7279> mid:nsalecokr0
+DEBUG	[2015-08-08 19:00:39:531] <7279> price:4000
+DEBUG	[2015-08-08 19:00:39:531] <7279> nointerest:no
+DEBUG	[2015-08-08 19:00:39:531] <7279> quotabase:ÏÑ†ÌÉù:ÏùºÏãúÎ∂à:2Í∞úÏõî:3Í∞úÏõî:4Í∞úÏõî:5Í∞úÏõî:6Í∞úÏõî:7Í∞úÏõî:8Í∞úÏõî:9Í∞úÏõî:10Í∞úÏõî:11Í∞úÏõî:12Í∞úÏõî
+INFO	[2015-08-08 19:00:39:531] <7279> Check Field OK
+INFO	[2015-08-08 19:00:39:531] <7279> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-08-08 19:00:39:531] <7279> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-08-08 19:00:39:532] <7279> CHKFAKE KEY MAKE OK:MjAxNTA4MDgxOTAwMzk1MzE0MTM3NA==
+
+INFO	[2015-08-08 19:00:39:532] <7279> END chkfake  Laptime:[0.001sec]
+INFO	[2015-08-08 19:00:39:532] <7279> ===============================================================
+INFO	[2015-08-08 19:07:59:576] <7229> START INIPHP chkfake (V5036-141209)(OS:Linux3.14.44-32.39.amzn1.x86_64,PHP:5.3.29)
+DEBUG	[2015-08-08 19:07:59:576] <7229> inipayhome:/var/www/html/nsale/shop/inicis
+DEBUG	[2015-08-08 19:07:59:576] <7229> debug:false
+DEBUG	[2015-08-08 19:07:59:576] <7229> type:chkfake
+DEBUG	[2015-08-08 19:07:59:576] <7229> enctype:asym
+DEBUG	[2015-08-08 19:07:59:576] <7229> admin:1111
+DEBUG	[2015-08-08 19:07:59:576] <7229> checkopt:false
+DEBUG	[2015-08-08 19:07:59:576] <7229> mid:nsalecokr0
+DEBUG	[2015-08-08 19:07:59:576] <7229> price:4000
+DEBUG	[2015-08-08 19:07:59:576] <7229> nointerest:no
+DEBUG	[2015-08-08 19:07:59:576] <7229> quotabase:ÏÑ†ÌÉù:ÏùºÏãúÎ∂à:2Í∞úÏõî:3Í∞úÏõî:4Í∞úÏõî:5Í∞úÏõî:6Í∞úÏõî:7Í∞úÏõî:8Í∞úÏõî:9Í∞úÏõî:10Í∞úÏõî:11Í∞úÏõî:12Í∞úÏõî
+INFO	[2015-08-08 19:07:59:576] <7229> Check Field OK
+INFO	[2015-08-08 19:07:59:576] <7229> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-08-08 19:07:59:576] <7229> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-08-08 19:07:59:577] <7229> CHKFAKE KEY MAKE OK:MjAxNTA4MDgxOTA3NTk1NzY0MjcwMg==
+
+INFO	[2015-08-08 19:07:59:577] <7229> END chkfake  Laptime:[0.001sec]
+INFO	[2015-08-08 19:07:59:577] <7229> ===============================================================
+INFO	[2015-08-08 19:10:52:638] <7325> START INIPHP chkfake (V5036-141209)(OS:Linux3.14.44-32.39.amzn1.x86_64,PHP:5.3.29)
+DEBUG	[2015-08-08 19:10:52:638] <7325> inipayhome:/var/www/html/nsale/shop/inicis
+DEBUG	[2015-08-08 19:10:52:638] <7325> debug:false
+DEBUG	[2015-08-08 19:10:52:638] <7325> type:chkfake
+DEBUG	[2015-08-08 19:10:52:638] <7325> enctype:asym
+DEBUG	[2015-08-08 19:10:52:638] <7325> admin:1111
+DEBUG	[2015-08-08 19:10:52:638] <7325> checkopt:false
+DEBUG	[2015-08-08 19:10:52:638] <7325> mid:nsalecokr0
+DEBUG	[2015-08-08 19:10:52:638] <7325> price:4000
+DEBUG	[2015-08-08 19:10:52:638] <7325> nointerest:no
+DEBUG	[2015-08-08 19:10:52:638] <7325> quotabase:ÏÑ†ÌÉù:ÏùºÏãúÎ∂à:2Í∞úÏõî:3Í∞úÏõî:4Í∞úÏõî:5Í∞úÏõî:6Í∞úÏõî:7Í∞úÏõî:8Í∞úÏõî:9Í∞úÏõî:10Í∞úÏõî:11Í∞úÏõî:12Í∞úÏõî
+INFO	[2015-08-08 19:10:52:638] <7325> Check Field OK
+INFO	[2015-08-08 19:10:52:638] <7325> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-08-08 19:10:52:638] <7325> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-08-08 19:10:52:639] <7325> CHKFAKE KEY MAKE OK:MjAxNTA4MDgxOTEwNTI2Mzg4ODkyMA==
+
+INFO	[2015-08-08 19:10:52:639] <7325> END chkfake  Laptime:[0.001sec]
+INFO	[2015-08-08 19:10:52:639] <7325> ===============================================================
+INFO	[2015-08-08 19:13:56:16] <7285> START INIPHP securepay (V5036-141209)(OS:Linux3.14.44-32.39.amzn1.x86_64,PHP:5.3.29)
+DEBUG	[2015-08-08 19:13:56:16] <7285> inipayhome:/var/www/html/nsale/shop/inicis
+DEBUG	[2015-08-08 19:13:56:16] <7285> debug:false
+DEBUG	[2015-08-08 19:13:56:16] <7285> type:securepay
+DEBUG	[2015-08-08 19:13:56:16] <7285> pgid:INIphp
+DEBUG	[2015-08-08 19:13:56:16] <7285> subpgip:203.238.3.10
+DEBUG	[2015-08-08 19:13:56:16] <7285> admin:1111
+DEBUG	[2015-08-08 19:13:56:16] <7285> uid:
+DEBUG	[2015-08-08 19:13:56:16] <7285> goodname:¥ı∫Ì¿Ø∑¶ CO2 ≈∫ªÍ ø√≈≥∆—: ≈∫ªÍ¿∏∑Œ ∏∞¯∞¸∏Æ
+DEBUG	[2015-08-08 19:13:56:16] <7285> currency:WON
+DEBUG	[2015-08-08 19:13:56:16] <7285> mid:nsalecokr0
+DEBUG	[2015-08-08 19:13:56:16] <7285> rn:MjAxNTA4MDgxOTEwNTI2Mzg4ODkyMA==
+
+DEBUG	[2015-08-08 19:13:56:16] <7285> price:4000
+DEBUG	[2015-08-08 19:13:56:16] <7285> enctype:
+DEBUG	[2015-08-08 19:13:56:16] <7285> buyername:
+DEBUG	[2015-08-08 19:13:56:16] <7285> buyertel:
+DEBUG	[2015-08-08 19:13:56:16] <7285> buyeremail:
+DEBUG	[2015-08-08 19:13:56:16] <7285> paymethod:
+DEBUG	[2015-08-08 19:13:56:16] <7285> encrypted:
+DEBUG	[2015-08-08 19:13:56:16] <7285> sessionkey:
+DEBUG	[2015-08-08 19:13:56:16] <7285> url:http://54.64.7.8
+DEBUG	[2015-08-08 19:13:56:16] <7285> cardcode:
+DEBUG	[2015-08-08 19:13:56:16] <7285> parentemail:
+DEBUG	[2015-08-08 19:13:56:16] <7285> recvname:
+DEBUG	[2015-08-08 19:13:56:16] <7285> recvtel:
+DEBUG	[2015-08-08 19:13:56:16] <7285> recvaddr:
+DEBUG	[2015-08-08 19:13:56:16] <7285> recvpostnum:
+DEBUG	[2015-08-08 19:13:56:16] <7285> recvmsg:
+DEBUG	[2015-08-08 19:13:56:16] <7285> joincard:
+DEBUG	[2015-08-08 19:13:56:16] <7285> joinexpire:
+DEBUG	[2015-08-08 19:13:56:16] <7285> id_customer:
+ERROR	[2015-08-08 19:13:56:55] <7285> « ºˆ«◊∏Ò(paymethod)¿Ã ¥©∂Ùµ«æ˙Ω¿¥œ¥Ÿ.
+INFO	[2015-08-08 19:13:56:55] <7285> END securepay [TX9225|« ºˆ«◊∏Ò(paymethod)¿Ã ¥©∂Ùµ«æ˙Ω¿¥œ¥Ÿ.] Laptime:[0.039sec]
+INFO	[2015-08-08 19:13:56:55] <7285> ===============================================================
+INFO	[2015-08-08 19:21:09:487] <7222> START INIPHP securepay (V5036-141209)(OS:Linux3.14.44-32.39.amzn1.x86_64,PHP:5.3.29)
+DEBUG	[2015-08-08 19:21:09:487] <7222> inipayhome:/var/www/html/nsale/shop/inicis
+DEBUG	[2015-08-08 19:21:09:487] <7222> debug:false
+DEBUG	[2015-08-08 19:21:09:487] <7222> type:securepay
+DEBUG	[2015-08-08 19:21:09:487] <7222> pgid:INIphp
+DEBUG	[2015-08-08 19:21:09:487] <7222> subpgip:203.238.3.10
+DEBUG	[2015-08-08 19:21:09:487] <7222> admin:1111
+DEBUG	[2015-08-08 19:21:09:487] <7222> uid:
+DEBUG	[2015-08-08 19:21:09:487] <7222> goodname:¥ı∫Ì¿Ø∑¶ CO2 ≈∫ªÍ ø√≈≥∆—: ≈∫ªÍ¿∏∑Œ ∏∞¯∞¸∏Æ
+DEBUG	[2015-08-08 19:21:09:487] <7222> currency:WON
+DEBUG	[2015-08-08 19:21:09:487] <7222> mid:nsalecokr0
+DEBUG	[2015-08-08 19:21:09:487] <7222> rn:MjAxNTA4MDgxOTEwNTI2Mzg4ODkyMA==
+
+DEBUG	[2015-08-08 19:21:09:487] <7222> price:4000
+DEBUG	[2015-08-08 19:21:09:487] <7222> enctype:
+DEBUG	[2015-08-08 19:21:09:487] <7222> buyername:
+DEBUG	[2015-08-08 19:21:09:487] <7222> buyertel:
+DEBUG	[2015-08-08 19:21:09:487] <7222> buyeremail:
+DEBUG	[2015-08-08 19:21:09:487] <7222> paymethod:
+DEBUG	[2015-08-08 19:21:09:487] <7222> encrypted:
+DEBUG	[2015-08-08 19:21:09:487] <7222> sessionkey:
+DEBUG	[2015-08-08 19:21:09:487] <7222> url:http://54.64.7.8
+DEBUG	[2015-08-08 19:21:09:487] <7222> cardcode:
+DEBUG	[2015-08-08 19:21:09:487] <7222> parentemail:
+DEBUG	[2015-08-08 19:21:09:487] <7222> recvname:
+DEBUG	[2015-08-08 19:21:09:487] <7222> recvtel:
+DEBUG	[2015-08-08 19:21:09:487] <7222> recvaddr:
+DEBUG	[2015-08-08 19:21:09:487] <7222> recvpostnum:
+DEBUG	[2015-08-08 19:21:09:487] <7222> recvmsg:
+DEBUG	[2015-08-08 19:21:09:487] <7222> joincard:
+DEBUG	[2015-08-08 19:21:09:487] <7222> joinexpire:
+DEBUG	[2015-08-08 19:21:09:487] <7222> id_customer:
+ERROR	[2015-08-08 19:21:09:526] <7222> « ºˆ«◊∏Ò(paymethod)¿Ã ¥©∂Ùµ«æ˙Ω¿¥œ¥Ÿ.
+INFO	[2015-08-08 19:21:09:526] <7222> END securepay [TX9225|« ºˆ«◊∏Ò(paymethod)¿Ã ¥©∂Ùµ«æ˙Ω¿¥œ¥Ÿ.] Laptime:[0.039sec]
+INFO	[2015-08-08 19:21:09:526] <7222> ===============================================================
+INFO	[2015-08-08 19:23:45:765] <7284> START INIPHP securepay (V5036-141209)(OS:Linux3.14.44-32.39.amzn1.x86_64,PHP:5.3.29)
+DEBUG	[2015-08-08 19:23:45:765] <7284> inipayhome:/var/www/html/nsale/shop/inicis
+DEBUG	[2015-08-08 19:23:45:765] <7284> debug:false
+DEBUG	[2015-08-08 19:23:45:765] <7284> type:securepay
+DEBUG	[2015-08-08 19:23:45:765] <7284> pgid:INIphp
+DEBUG	[2015-08-08 19:23:45:765] <7284> subpgip:203.238.3.10
+DEBUG	[2015-08-08 19:23:45:765] <7284> admin:1111
+DEBUG	[2015-08-08 19:23:45:765] <7284> uid:
+DEBUG	[2015-08-08 19:23:45:765] <7284> goodname:¥ı∫Ì¿Ø∑¶ CO2 ≈∫ªÍ ø√≈≥∆—: ≈∫ªÍ¿∏∑Œ ∏∞¯∞¸∏Æ
+DEBUG	[2015-08-08 19:23:45:765] <7284> currency:WON
+DEBUG	[2015-08-08 19:23:45:765] <7284> mid:nsalecokr0
+DEBUG	[2015-08-08 19:23:45:765] <7284> rn:MjAxNTA4MDgxOTEwNTI2Mzg4ODkyMA==
+
+DEBUG	[2015-08-08 19:23:45:765] <7284> price:4000
+DEBUG	[2015-08-08 19:23:45:765] <7284> enctype:
+DEBUG	[2015-08-08 19:23:45:765] <7284> buyername:
+DEBUG	[2015-08-08 19:23:45:765] <7284> buyertel:
+DEBUG	[2015-08-08 19:23:45:765] <7284> buyeremail:
+DEBUG	[2015-08-08 19:23:45:765] <7284> paymethod:
+DEBUG	[2015-08-08 19:23:45:765] <7284> encrypted:
+DEBUG	[2015-08-08 19:23:45:765] <7284> sessionkey:
+DEBUG	[2015-08-08 19:23:45:765] <7284> url:http://54.64.7.8
+DEBUG	[2015-08-08 19:23:45:765] <7284> cardcode:
+DEBUG	[2015-08-08 19:23:45:765] <7284> parentemail:
+DEBUG	[2015-08-08 19:23:45:765] <7284> recvname:
+DEBUG	[2015-08-08 19:23:45:765] <7284> recvtel:
+DEBUG	[2015-08-08 19:23:45:765] <7284> recvaddr:
+DEBUG	[2015-08-08 19:23:45:765] <7284> recvpostnum:
+DEBUG	[2015-08-08 19:23:45:765] <7284> recvmsg:
+DEBUG	[2015-08-08 19:23:45:765] <7284> joincard:
+DEBUG	[2015-08-08 19:23:45:765] <7284> joinexpire:
+DEBUG	[2015-08-08 19:23:45:765] <7284> id_customer:
+ERROR	[2015-08-08 19:23:45:848] <7284> « ºˆ«◊∏Ò(paymethod)¿Ã ¥©∂Ùµ«æ˙Ω¿¥œ¥Ÿ.
+INFO	[2015-08-08 19:23:45:848] <7284> END securepay [TX9225|« ºˆ«◊∏Ò(paymethod)¿Ã ¥©∂Ùµ«æ˙Ω¿¥œ¥Ÿ.] Laptime:[0.083sec]
+INFO	[2015-08-08 19:23:45:848] <7284> ===============================================================
+INFO	[2015-08-08 19:25:05:342] <7327> START INIPHP securepay (V5036-141209)(OS:Linux3.14.44-32.39.amzn1.x86_64,PHP:5.3.29)
+DEBUG	[2015-08-08 19:25:05:342] <7327> inipayhome:/var/www/html/nsale/shop/inicis
+DEBUG	[2015-08-08 19:25:05:342] <7327> debug:false
+DEBUG	[2015-08-08 19:25:05:342] <7327> type:securepay
+DEBUG	[2015-08-08 19:25:05:342] <7327> pgid:INIphp
+DEBUG	[2015-08-08 19:25:05:342] <7327> subpgip:203.238.3.10
+DEBUG	[2015-08-08 19:25:05:342] <7327> admin:1111
+DEBUG	[2015-08-08 19:25:05:342] <7327> uid:
+DEBUG	[2015-08-08 19:25:05:342] <7327> goodname:¥ı∫Ì¿Ø∑¶ CO2 ≈∫ªÍ ø√≈≥∆—: ≈∫ªÍ¿∏∑Œ ∏∞¯∞¸∏Æ
+DEBUG	[2015-08-08 19:25:05:342] <7327> currency:WON
+DEBUG	[2015-08-08 19:25:05:342] <7327> mid:nsalecokr0
+DEBUG	[2015-08-08 19:25:05:342] <7327> rn:MjAxNTA4MDgxOTEwNTI2Mzg4ODkyMA==
+
+DEBUG	[2015-08-08 19:25:05:342] <7327> price:4000
+DEBUG	[2015-08-08 19:25:05:342] <7327> enctype:
+DEBUG	[2015-08-08 19:25:05:342] <7327> buyername:
+DEBUG	[2015-08-08 19:25:05:342] <7327> buyertel:
+DEBUG	[2015-08-08 19:25:05:342] <7327> buyeremail:
+DEBUG	[2015-08-08 19:25:05:342] <7327> paymethod:
+DEBUG	[2015-08-08 19:25:05:342] <7327> encrypted:
+DEBUG	[2015-08-08 19:25:05:342] <7327> sessionkey:
+DEBUG	[2015-08-08 19:25:05:342] <7327> url:http://54.64.7.8
+DEBUG	[2015-08-08 19:25:05:342] <7327> cardcode:
+DEBUG	[2015-08-08 19:25:05:342] <7327> parentemail:
+DEBUG	[2015-08-08 19:25:05:342] <7327> recvname:
+DEBUG	[2015-08-08 19:25:05:342] <7327> recvtel:
+DEBUG	[2015-08-08 19:25:05:342] <7327> recvaddr:
+DEBUG	[2015-08-08 19:25:05:342] <7327> recvpostnum:
+DEBUG	[2015-08-08 19:25:05:342] <7327> recvmsg:
+DEBUG	[2015-08-08 19:25:05:342] <7327> joincard:
+DEBUG	[2015-08-08 19:25:05:342] <7327> joinexpire:
+DEBUG	[2015-08-08 19:25:05:342] <7327> id_customer:
+ERROR	[2015-08-08 19:25:05:380] <7327> « ºˆ«◊∏Ò(paymethod)¿Ã ¥©∂Ùµ«æ˙Ω¿¥œ¥Ÿ.
+INFO	[2015-08-08 19:25:05:380] <7327> END securepay [TX9225|« ºˆ«◊∏Ò(paymethod)¿Ã ¥©∂Ùµ«æ˙Ω¿¥œ¥Ÿ.] Laptime:[0.038sec]
+INFO	[2015-08-08 19:25:05:380] <7327> ===============================================================
+INFO	[2015-08-08 19:28:49:339] <7279> START INIPHP securepay (V5036-141209)(OS:Linux3.14.44-32.39.amzn1.x86_64,PHP:5.3.29)
+DEBUG	[2015-08-08 19:28:49:339] <7279> inipayhome:/var/www/html/nsale/shop/inicis
+DEBUG	[2015-08-08 19:28:49:339] <7279> debug:false
+DEBUG	[2015-08-08 19:28:49:339] <7279> type:securepay
+DEBUG	[2015-08-08 19:28:49:339] <7279> pgid:INIphp
+DEBUG	[2015-08-08 19:28:49:339] <7279> subpgip:203.238.3.10
+DEBUG	[2015-08-08 19:28:49:339] <7279> admin:1111
+DEBUG	[2015-08-08 19:28:49:339] <7279> uid:
+DEBUG	[2015-08-08 19:28:49:339] <7279> goodname:¥ı∫Ì¿Ø∑¶ CO2 ≈∫ªÍ ø√≈≥∆—: ≈∫ªÍ¿∏∑Œ ∏∞¯∞¸∏Æ
+DEBUG	[2015-08-08 19:28:49:339] <7279> currency:WON
+DEBUG	[2015-08-08 19:28:49:339] <7279> mid:nsalecokr0
+DEBUG	[2015-08-08 19:28:49:339] <7279> rn:MjAxNTA4MDgxOTEwNTI2Mzg4ODkyMA==
+
+DEBUG	[2015-08-08 19:28:49:339] <7279> price:4000
+DEBUG	[2015-08-08 19:28:49:339] <7279> enctype:
+DEBUG	[2015-08-08 19:28:49:339] <7279> buyername:
+DEBUG	[2015-08-08 19:28:49:339] <7279> buyertel:
+DEBUG	[2015-08-08 19:28:49:339] <7279> buyeremail:
+DEBUG	[2015-08-08 19:28:49:339] <7279> paymethod:
+DEBUG	[2015-08-08 19:28:49:339] <7279> encrypted:
+DEBUG	[2015-08-08 19:28:49:339] <7279> sessionkey:
+DEBUG	[2015-08-08 19:28:49:339] <7279> url:http://54.64.7.8
+DEBUG	[2015-08-08 19:28:49:339] <7279> cardcode:
+DEBUG	[2015-08-08 19:28:49:339] <7279> parentemail:
+DEBUG	[2015-08-08 19:28:49:339] <7279> recvname:
+DEBUG	[2015-08-08 19:28:49:339] <7279> recvtel:
+DEBUG	[2015-08-08 19:28:49:339] <7279> recvaddr:
+DEBUG	[2015-08-08 19:28:49:339] <7279> recvpostnum:
+DEBUG	[2015-08-08 19:28:49:339] <7279> recvmsg:
+DEBUG	[2015-08-08 19:28:49:339] <7279> joincard:
+DEBUG	[2015-08-08 19:28:49:339] <7279> joinexpire:
+DEBUG	[2015-08-08 19:28:49:339] <7279> id_customer:
+ERROR	[2015-08-08 19:28:49:378] <7279> « ºˆ«◊∏Ò(paymethod)¿Ã ¥©∂Ùµ«æ˙Ω¿¥œ¥Ÿ.
+INFO	[2015-08-08 19:28:49:379] <7279> END securepay [TX9225|« ºˆ«◊∏Ò(paymethod)¿Ã ¥©∂Ùµ«æ˙Ω¿¥œ¥Ÿ.] Laptime:[0.04sec]
+INFO	[2015-08-08 19:28:49:379] <7279> ===============================================================
+INFO	[2015-08-08 19:29:50:737] <7212> START INIPHP securepay (V5036-141209)(OS:Linux3.14.44-32.39.amzn1.x86_64,PHP:5.3.29)
+DEBUG	[2015-08-08 19:29:50:737] <7212> inipayhome:/var/www/html/nsale/shop/inicis
+DEBUG	[2015-08-08 19:29:50:737] <7212> debug:false
+DEBUG	[2015-08-08 19:29:50:737] <7212> type:securepay
+DEBUG	[2015-08-08 19:29:50:737] <7212> pgid:INIphp
+DEBUG	[2015-08-08 19:29:50:737] <7212> subpgip:203.238.3.10
+DEBUG	[2015-08-08 19:29:50:737] <7212> admin:1111
+DEBUG	[2015-08-08 19:29:50:737] <7212> uid:
+DEBUG	[2015-08-08 19:29:50:737] <7212> goodname:¥ı∫Ì¿Ø∑¶ CO2 ≈∫ªÍ ø√≈≥∆—: ≈∫ªÍ¿∏∑Œ ∏∞¯∞¸∏Æ
+DEBUG	[2015-08-08 19:29:50:737] <7212> currency:WON
+DEBUG	[2015-08-08 19:29:50:737] <7212> mid:nsalecokr0
+DEBUG	[2015-08-08 19:29:50:737] <7212> rn:MjAxNTA4MDgxOTEwNTI2Mzg4ODkyMA==
+
+DEBUG	[2015-08-08 19:29:50:737] <7212> price:4000
+DEBUG	[2015-08-08 19:29:50:737] <7212> enctype:
+DEBUG	[2015-08-08 19:29:50:737] <7212> buyername:
+DEBUG	[2015-08-08 19:29:50:737] <7212> buyertel:
+DEBUG	[2015-08-08 19:29:50:737] <7212> buyeremail:
+DEBUG	[2015-08-08 19:29:50:737] <7212> paymethod:
+DEBUG	[2015-08-08 19:29:50:737] <7212> encrypted:
+DEBUG	[2015-08-08 19:29:50:737] <7212> sessionkey:
+DEBUG	[2015-08-08 19:29:50:737] <7212> url:http://54.64.7.8
+DEBUG	[2015-08-08 19:29:50:737] <7212> cardcode:
+DEBUG	[2015-08-08 19:29:50:737] <7212> parentemail:
+DEBUG	[2015-08-08 19:29:50:737] <7212> recvname:
+DEBUG	[2015-08-08 19:29:50:737] <7212> recvtel:
+DEBUG	[2015-08-08 19:29:50:737] <7212> recvaddr:
+DEBUG	[2015-08-08 19:29:50:737] <7212> recvpostnum:
+DEBUG	[2015-08-08 19:29:50:737] <7212> recvmsg:
+DEBUG	[2015-08-08 19:29:50:737] <7212> joincard:
+DEBUG	[2015-08-08 19:29:50:737] <7212> joinexpire:
+DEBUG	[2015-08-08 19:29:50:737] <7212> id_customer:
+ERROR	[2015-08-08 19:29:50:775] <7212> « ºˆ«◊∏Ò(paymethod)¿Ã ¥©∂Ùµ«æ˙Ω¿¥œ¥Ÿ.
+INFO	[2015-08-08 19:29:50:775] <7212> END securepay [TX9225|« ºˆ«◊∏Ò(paymethod)¿Ã ¥©∂Ùµ«æ˙Ω¿¥œ¥Ÿ.] Laptime:[0.038sec]
+INFO	[2015-08-08 19:29:50:775] <7212> ===============================================================
+INFO	[2015-08-08 19:31:17:546] <7332> START INIPHP securepay (V5036-141209)(OS:Linux3.14.44-32.39.amzn1.x86_64,PHP:5.3.29)
+DEBUG	[2015-08-08 19:31:17:546] <7332> inipayhome:/var/www/html/nsale/shop/inicis
+DEBUG	[2015-08-08 19:31:17:546] <7332> debug:false
+DEBUG	[2015-08-08 19:31:17:546] <7332> type:securepay
+DEBUG	[2015-08-08 19:31:17:546] <7332> pgid:INIphp
+DEBUG	[2015-08-08 19:31:17:546] <7332> subpgip:203.238.3.10
+DEBUG	[2015-08-08 19:31:17:546] <7332> admin:1111
+DEBUG	[2015-08-08 19:31:17:546] <7332> uid:
+DEBUG	[2015-08-08 19:31:17:546] <7332> goodname:¥ı∫Ì¿Ø∑¶ CO2 ≈∫ªÍ ø√≈≥∆—: ≈∫ªÍ¿∏∑Œ ∏∞¯∞¸∏Æ
+DEBUG	[2015-08-08 19:31:17:546] <7332> currency:WON
+DEBUG	[2015-08-08 19:31:17:546] <7332> mid:nsalecokr0
+DEBUG	[2015-08-08 19:31:17:546] <7332> rn:MjAxNTA4MDgxOTEwNTI2Mzg4ODkyMA==
+
+DEBUG	[2015-08-08 19:31:17:546] <7332> price:4000
+DEBUG	[2015-08-08 19:31:17:546] <7332> enctype:
+DEBUG	[2015-08-08 19:31:17:546] <7332> buyername:
+DEBUG	[2015-08-08 19:31:17:546] <7332> buyertel:
+DEBUG	[2015-08-08 19:31:17:546] <7332> buyeremail:
+DEBUG	[2015-08-08 19:31:17:546] <7332> paymethod:
+DEBUG	[2015-08-08 19:31:17:546] <7332> encrypted:
+DEBUG	[2015-08-08 19:31:17:546] <7332> sessionkey:
+DEBUG	[2015-08-08 19:31:17:546] <7332> url:http://54.64.7.8
+DEBUG	[2015-08-08 19:31:17:546] <7332> cardcode:
+DEBUG	[2015-08-08 19:31:17:546] <7332> parentemail:
+DEBUG	[2015-08-08 19:31:17:546] <7332> recvname:
+DEBUG	[2015-08-08 19:31:17:546] <7332> recvtel:
+DEBUG	[2015-08-08 19:31:17:546] <7332> recvaddr:
+DEBUG	[2015-08-08 19:31:17:546] <7332> recvpostnum:
+DEBUG	[2015-08-08 19:31:17:546] <7332> recvmsg:
+DEBUG	[2015-08-08 19:31:17:546] <7332> joincard:
+DEBUG	[2015-08-08 19:31:17:546] <7332> joinexpire:
+DEBUG	[2015-08-08 19:31:17:546] <7332> id_customer:
+ERROR	[2015-08-08 19:31:17:585] <7332> « ºˆ«◊∏Ò(paymethod)¿Ã ¥©∂Ùµ«æ˙Ω¿¥œ¥Ÿ.
+INFO	[2015-08-08 19:31:17:585] <7332> END securepay [TX9225|« ºˆ«◊∏Ò(paymethod)¿Ã ¥©∂Ùµ«æ˙Ω¿¥œ¥Ÿ.] Laptime:[0.039sec]
+INFO	[2015-08-08 19:31:17:585] <7332> ===============================================================
+INFO	[2015-08-08 19:33:40:585] <7328> START INIPHP chkfake (V5036-141209)(OS:Linux3.14.44-32.39.amzn1.x86_64,PHP:5.3.29)
+DEBUG	[2015-08-08 19:33:40:585] <7328> inipayhome:/var/www/html/nsale/shop/inicis
+DEBUG	[2015-08-08 19:33:40:585] <7328> debug:false
+DEBUG	[2015-08-08 19:33:40:585] <7328> type:chkfake
+DEBUG	[2015-08-08 19:33:40:585] <7328> enctype:asym
+DEBUG	[2015-08-08 19:33:40:585] <7328> admin:1111
+DEBUG	[2015-08-08 19:33:40:585] <7328> checkopt:false
+DEBUG	[2015-08-08 19:33:40:585] <7328> mid:nsalecokr0
+DEBUG	[2015-08-08 19:33:40:585] <7328> price:4000
+DEBUG	[2015-08-08 19:33:40:585] <7328> nointerest:no
+DEBUG	[2015-08-08 19:33:40:585] <7328> quotabase:ÏÑ†ÌÉù:ÏùºÏãúÎ∂à:2Í∞úÏõî:3Í∞úÏõî:4Í∞úÏõî:5Í∞úÏõî:6Í∞úÏõî:7Í∞úÏõî:8Í∞úÏõî:9Í∞úÏõî:10Í∞úÏõî:11Í∞úÏõî:12Í∞úÏõî
+INFO	[2015-08-08 19:33:40:585] <7328> Check Field OK
+INFO	[2015-08-08 19:33:40:585] <7328> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-08-08 19:33:40:586] <7328> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-08-08 19:33:40:586] <7328> CHKFAKE KEY MAKE OK:MjAxNTA4MDgxOTMzNDA1ODYxMzUwNQ==
+
+INFO	[2015-08-08 19:33:40:586] <7328> END chkfake  Laptime:[0.001sec]
+INFO	[2015-08-08 19:33:40:586] <7328> ===============================================================
+INFO	[2015-08-08 19:35:44:994] <7326> START INIPHP chkfake (V5036-141209)(OS:Linux3.14.44-32.39.amzn1.x86_64,PHP:5.3.29)
+DEBUG	[2015-08-08 19:35:44:994] <7326> inipayhome:/var/www/html/nsale/shop/inicis
+DEBUG	[2015-08-08 19:35:44:994] <7326> debug:false
+DEBUG	[2015-08-08 19:35:44:994] <7326> type:chkfake
+DEBUG	[2015-08-08 19:35:44:994] <7326> enctype:asym
+DEBUG	[2015-08-08 19:35:44:994] <7326> admin:1111
+DEBUG	[2015-08-08 19:35:44:994] <7326> checkopt:false
+DEBUG	[2015-08-08 19:35:44:994] <7326> mid:nsalecokr0
+DEBUG	[2015-08-08 19:35:44:994] <7326> price:4000
+DEBUG	[2015-08-08 19:35:44:994] <7326> nointerest:no
+DEBUG	[2015-08-08 19:35:44:994] <7326> quotabase:ÏÑ†ÌÉù:ÏùºÏãúÎ∂à:2Í∞úÏõî:3Í∞úÏõî:4Í∞úÏõî:5Í∞úÏõî:6Í∞úÏõî:7Í∞úÏõî:8Í∞úÏõî:9Í∞úÏõî:10Í∞úÏõî:11Í∞úÏõî:12Í∞úÏõî
+INFO	[2015-08-08 19:35:44:995] <7326> Check Field OK
+INFO	[2015-08-08 19:35:44:995] <7326> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-08-08 19:35:44:995] <7326> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-08-08 19:35:44:996] <7326> CHKFAKE KEY MAKE OK:MjAxNTA4MDgxOTM1NDQ5OTUzNzkwMg==
+
+INFO	[2015-08-08 19:35:44:996] <7326> END chkfake  Laptime:[0.001sec]
+INFO	[2015-08-08 19:35:44:996] <7326> ===============================================================
+INFO	[2015-08-08 19:39:19:660] <7292> START INIPHP securepay (V5036-141209)(OS:Linux3.14.44-32.39.amzn1.x86_64,PHP:5.3.29)
+DEBUG	[2015-08-08 19:39:19:660] <7292> inipayhome:/var/www/html/nsale/shop/inicis
+DEBUG	[2015-08-08 19:39:19:660] <7292> debug:false
+DEBUG	[2015-08-08 19:39:19:660] <7292> type:securepay
+DEBUG	[2015-08-08 19:39:19:660] <7292> pgid:INIphp
+DEBUG	[2015-08-08 19:39:19:660] <7292> subpgip:203.238.3.10
+DEBUG	[2015-08-08 19:39:19:660] <7292> admin:1111
+DEBUG	[2015-08-08 19:39:19:660] <7292> uid:
+DEBUG	[2015-08-08 19:39:19:660] <7292> goodname:¥ı∫Ì¿Ø∑¶ CO2 ≈∫ªÍ ø√≈≥∆—: ≈∫ªÍ¿∏∑Œ ∏∞¯∞¸∏Æ
+DEBUG	[2015-08-08 19:39:19:660] <7292> currency:WON
+DEBUG	[2015-08-08 19:39:19:660] <7292> mid:nsalecokr0
+DEBUG	[2015-08-08 19:39:19:660] <7292> rn:MjAxNTA4MDgxOTM1NDQ5OTUzNzkwMg==
+
+DEBUG	[2015-08-08 19:39:19:660] <7292> price:4000
+DEBUG	[2015-08-08 19:39:19:660] <7292> enctype:
+DEBUG	[2015-08-08 19:39:19:660] <7292> buyername:
+DEBUG	[2015-08-08 19:39:19:660] <7292> buyertel:
+DEBUG	[2015-08-08 19:39:19:660] <7292> buyeremail:
+DEBUG	[2015-08-08 19:39:19:660] <7292> paymethod:
+DEBUG	[2015-08-08 19:39:19:660] <7292> encrypted:
+DEBUG	[2015-08-08 19:39:19:660] <7292> sessionkey:
+DEBUG	[2015-08-08 19:39:19:660] <7292> url:http://54.64.7.8
+DEBUG	[2015-08-08 19:39:19:660] <7292> cardcode:
+DEBUG	[2015-08-08 19:39:19:660] <7292> parentemail:
+DEBUG	[2015-08-08 19:39:19:660] <7292> recvname:
+DEBUG	[2015-08-08 19:39:19:660] <7292> recvtel:
+DEBUG	[2015-08-08 19:39:19:660] <7292> recvaddr:
+DEBUG	[2015-08-08 19:39:19:660] <7292> recvpostnum:
+DEBUG	[2015-08-08 19:39:19:660] <7292> recvmsg:
+DEBUG	[2015-08-08 19:39:19:660] <7292> joincard:
+DEBUG	[2015-08-08 19:39:19:660] <7292> joinexpire:
+DEBUG	[2015-08-08 19:39:19:660] <7292> id_customer:
+ERROR	[2015-08-08 19:39:19:699] <7292> « ºˆ«◊∏Ò(paymethod)¿Ã ¥©∂Ùµ«æ˙Ω¿¥œ¥Ÿ.
+INFO	[2015-08-08 19:39:19:699] <7292> END securepay [TX9225|« ºˆ«◊∏Ò(paymethod)¿Ã ¥©∂Ùµ«æ˙Ω¿¥œ¥Ÿ.] Laptime:[0.039sec]
+INFO	[2015-08-08 19:39:19:699] <7292> ===============================================================
+INFO	[2015-08-08 19:40:52:619] <7325> START INIPHP chkfake (V5036-141209)(OS:Linux3.14.44-32.39.amzn1.x86_64,PHP:5.3.29)
+DEBUG	[2015-08-08 19:40:52:619] <7325> inipayhome:/var/www/html/nsale/shop/inicis
+DEBUG	[2015-08-08 19:40:52:619] <7325> debug:false
+DEBUG	[2015-08-08 19:40:52:619] <7325> type:chkfake
+DEBUG	[2015-08-08 19:40:52:619] <7325> enctype:asym
+DEBUG	[2015-08-08 19:40:52:619] <7325> admin:1111
+DEBUG	[2015-08-08 19:40:52:619] <7325> checkopt:false
+DEBUG	[2015-08-08 19:40:52:619] <7325> mid:nsalecokr0
+DEBUG	[2015-08-08 19:40:52:619] <7325> price:4000
+DEBUG	[2015-08-08 19:40:52:619] <7325> nointerest:no
+DEBUG	[2015-08-08 19:40:52:619] <7325> quotabase:ÏÑ†ÌÉù:ÏùºÏãúÎ∂à:2Í∞úÏõî:3Í∞úÏõî:4Í∞úÏõî:5Í∞úÏõî:6Í∞úÏõî:7Í∞úÏõî:8Í∞úÏõî:9Í∞úÏõî:10Í∞úÏõî:11Í∞úÏõî:12Í∞úÏõî
+INFO	[2015-08-08 19:40:52:619] <7325> Check Field OK
+INFO	[2015-08-08 19:40:52:619] <7325> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-08-08 19:40:52:620] <7325> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-08-08 19:40:52:620] <7325> CHKFAKE KEY MAKE OK:MjAxNTA4MDgxOTQwNTI2MjAxODUyOA==
+
+INFO	[2015-08-08 19:40:52:620] <7325> END chkfake  Laptime:[0.001sec]
+INFO	[2015-08-08 19:40:52:620] <7325> ===============================================================
+INFO	[2015-08-08 19:42:26:122] <7229> START INIPHP securepay (V5036-141209)(OS:Linux3.14.44-32.39.amzn1.x86_64,PHP:5.3.29)
+DEBUG	[2015-08-08 19:42:26:122] <7229> inipayhome:/var/www/html/nsale/shop/inicis
+DEBUG	[2015-08-08 19:42:26:122] <7229> debug:false
+DEBUG	[2015-08-08 19:42:26:122] <7229> type:securepay
+DEBUG	[2015-08-08 19:42:26:122] <7229> pgid:INIphp
+DEBUG	[2015-08-08 19:42:26:122] <7229> subpgip:203.238.3.10
+DEBUG	[2015-08-08 19:42:26:122] <7229> admin:1111
+DEBUG	[2015-08-08 19:42:26:122] <7229> uid:
+DEBUG	[2015-08-08 19:42:26:122] <7229> goodname:¥ı∫Ì¿Ø∑¶ CO2 ≈∫ªÍ ø√≈≥∆—: ≈∫ªÍ¿∏∑Œ ∏∞¯∞¸∏Æ
+DEBUG	[2015-08-08 19:42:26:122] <7229> currency:WON
+DEBUG	[2015-08-08 19:42:26:122] <7229> mid:nsalecokr0
+DEBUG	[2015-08-08 19:42:26:122] <7229> rn:MjAxNTA4MDgxOTQwNTI2MjAxODUyOA==
+
+DEBUG	[2015-08-08 19:42:26:122] <7229> price:4000
+DEBUG	[2015-08-08 19:42:26:122] <7229> enctype:
+DEBUG	[2015-08-08 19:42:26:122] <7229> buyername:
+DEBUG	[2015-08-08 19:42:26:122] <7229> buyertel:
+DEBUG	[2015-08-08 19:42:26:122] <7229> buyeremail:
+DEBUG	[2015-08-08 19:42:26:122] <7229> paymethod:
+DEBUG	[2015-08-08 19:42:26:122] <7229> encrypted:
+DEBUG	[2015-08-08 19:42:26:122] <7229> sessionkey:
+DEBUG	[2015-08-08 19:42:26:122] <7229> url:http://54.64.7.8
+DEBUG	[2015-08-08 19:42:26:122] <7229> cardcode:
+DEBUG	[2015-08-08 19:42:26:122] <7229> parentemail:
+DEBUG	[2015-08-08 19:42:26:122] <7229> recvname:
+DEBUG	[2015-08-08 19:42:26:122] <7229> recvtel:
+DEBUG	[2015-08-08 19:42:26:122] <7229> recvaddr:
+DEBUG	[2015-08-08 19:42:26:122] <7229> recvpostnum:
+DEBUG	[2015-08-08 19:42:26:122] <7229> recvmsg:
+DEBUG	[2015-08-08 19:42:26:122] <7229> joincard:
+DEBUG	[2015-08-08 19:42:26:122] <7229> joinexpire:
+DEBUG	[2015-08-08 19:42:26:122] <7229> id_customer:
+ERROR	[2015-08-08 19:42:26:163] <7229> « ºˆ«◊∏Ò(paymethod)¿Ã ¥©∂Ùµ«æ˙Ω¿¥œ¥Ÿ.
+INFO	[2015-08-08 19:42:26:163] <7229> END securepay [TX9225|« ºˆ«◊∏Ò(paymethod)¿Ã ¥©∂Ùµ«æ˙Ω¿¥œ¥Ÿ.] Laptime:[0.041sec]
+INFO	[2015-08-08 19:42:26:163] <7229> ===============================================================
+INFO	[2015-08-08 19:44:37:350] <7327> START INIPHP chkfake (V5036-141209)(OS:Linux3.14.44-32.39.amzn1.x86_64,PHP:5.3.29)
+DEBUG	[2015-08-08 19:44:37:350] <7327> inipayhome:/var/www/html/nsale/shop/inicis
+DEBUG	[2015-08-08 19:44:37:350] <7327> debug:false
+DEBUG	[2015-08-08 19:44:37:350] <7327> type:chkfake
+DEBUG	[2015-08-08 19:44:37:350] <7327> enctype:asym
+DEBUG	[2015-08-08 19:44:37:350] <7327> admin:1111
+DEBUG	[2015-08-08 19:44:37:350] <7327> checkopt:false
+DEBUG	[2015-08-08 19:44:37:350] <7327> mid:nsalecokr0
+DEBUG	[2015-08-08 19:44:37:350] <7327> price:4000
+DEBUG	[2015-08-08 19:44:37:350] <7327> nointerest:no
+DEBUG	[2015-08-08 19:44:37:350] <7327> quotabase:ÏÑ†ÌÉù:ÏùºÏãúÎ∂à:2Í∞úÏõî:3Í∞úÏõî:4Í∞úÏõî:5Í∞úÏõî:6Í∞úÏõî:7Í∞úÏõî:8Í∞úÏõî:9Í∞úÏõî:10Í∞úÏõî:11Í∞úÏõî:12Í∞úÏõî
+INFO	[2015-08-08 19:44:37:350] <7327> Check Field OK
+INFO	[2015-08-08 19:44:37:350] <7327> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-08-08 19:44:37:350] <7327> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-08-08 19:44:37:351] <7327> CHKFAKE KEY MAKE OK:MjAxNTA4MDgxOTQ0MzczNTE1OTE4OQ==
+
+INFO	[2015-08-08 19:44:37:351] <7327> END chkfake  Laptime:[0.001sec]
+INFO	[2015-08-08 19:44:37:351] <7327> ===============================================================
+INFO	[2015-08-08 19:45:30:328] <7285> START INIPHP chkfake (V5036-141209)(OS:Linux3.14.44-32.39.amzn1.x86_64,PHP:5.3.29)
+DEBUG	[2015-08-08 19:45:30:328] <7285> inipayhome:/var/www/html/nsale/shop/inicis
+DEBUG	[2015-08-08 19:45:30:328] <7285> debug:false
+DEBUG	[2015-08-08 19:45:30:328] <7285> type:chkfake
+DEBUG	[2015-08-08 19:45:30:328] <7285> enctype:asym
+DEBUG	[2015-08-08 19:45:30:328] <7285> admin:1111
+DEBUG	[2015-08-08 19:45:30:328] <7285> checkopt:false
+DEBUG	[2015-08-08 19:45:30:328] <7285> mid:nsalecokr0
+DEBUG	[2015-08-08 19:45:30:328] <7285> price:4000
+DEBUG	[2015-08-08 19:45:30:328] <7285> nointerest:no
+DEBUG	[2015-08-08 19:45:30:328] <7285> quotabase:ÏÑ†ÌÉù:ÏùºÏãúÎ∂à:2Í∞úÏõî:3Í∞úÏõî:4Í∞úÏõî:5Í∞úÏõî:6Í∞úÏõî:7Í∞úÏõî:8Í∞úÏõî:9Í∞úÏõî:10Í∞úÏõî:11Í∞úÏõî:12Í∞úÏõî
+INFO	[2015-08-08 19:45:30:329] <7285> Check Field OK
+INFO	[2015-08-08 19:45:30:329] <7285> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-08-08 19:45:30:329] <7285> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-08-08 19:45:30:330] <7285> CHKFAKE KEY MAKE OK:MjAxNTA4MDgxOTQ1MzAzMjk0NTkzMg==
+
+INFO	[2015-08-08 19:45:30:330] <7285> END chkfake  Laptime:[0.001sec]
+INFO	[2015-08-08 19:45:30:330] <7285> ===============================================================
+INFO	[2015-08-08 19:45:59:1] <7372> START INIPHP chkfake (V5036-141209)(OS:Linux3.14.44-32.39.amzn1.x86_64,PHP:5.3.29)
+DEBUG	[2015-08-08 19:45:59:1] <7372> inipayhome:/var/www/html/nsale/shop/inicis
+DEBUG	[2015-08-08 19:45:59:1] <7372> debug:false
+DEBUG	[2015-08-08 19:45:59:1] <7372> type:chkfake
+DEBUG	[2015-08-08 19:45:59:1] <7372> enctype:asym
+DEBUG	[2015-08-08 19:45:59:1] <7372> admin:1111
+DEBUG	[2015-08-08 19:45:59:1] <7372> checkopt:false
+DEBUG	[2015-08-08 19:45:59:1] <7372> mid:nsalecokr0
+DEBUG	[2015-08-08 19:45:59:1] <7372> price:4000
+DEBUG	[2015-08-08 19:45:59:1] <7372> nointerest:no
+DEBUG	[2015-08-08 19:45:59:1] <7372> quotabase:ÏÑ†ÌÉù:ÏùºÏãúÎ∂à:2Í∞úÏõî:3Í∞úÏõî:4Í∞úÏõî:5Í∞úÏõî:6Í∞úÏõî:7Í∞úÏõî:8Í∞úÏõî:9Í∞úÏõî:10Í∞úÏõî:11Í∞úÏõî:12Í∞úÏõî
+INFO	[2015-08-08 19:45:59:1] <7372> Check Field OK
+INFO	[2015-08-08 19:45:59:1] <7372> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-08-08 19:45:59:1] <7372> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-08-08 19:45:59:2] <7372> CHKFAKE KEY MAKE OK:MjAxNTA4MDgxOTQ1NTkwMDExNTUxNA==
+
+INFO	[2015-08-08 19:45:59:2] <7372> END chkfake  Laptime:[0.001sec]
+INFO	[2015-08-08 19:45:59:2] <7372> ===============================================================
+INFO	[2015-08-08 22:34:43:750] <7882> START INIPHP chkfake (V5036-141209)(OS:Linux3.14.44-32.39.amzn1.x86_64,PHP:5.3.29)
+DEBUG	[2015-08-08 22:34:43:750] <7882> inipayhome:/var/www/html/nsale/shop/inicis
+DEBUG	[2015-08-08 22:34:43:750] <7882> debug:false
+DEBUG	[2015-08-08 22:34:43:750] <7882> type:chkfake
+DEBUG	[2015-08-08 22:34:43:750] <7882> enctype:asym
+DEBUG	[2015-08-08 22:34:43:750] <7882> admin:1111
+DEBUG	[2015-08-08 22:34:43:750] <7882> checkopt:false
+DEBUG	[2015-08-08 22:34:43:750] <7882> mid:nsalecokr0
+DEBUG	[2015-08-08 22:34:43:750] <7882> price:41500
+DEBUG	[2015-08-08 22:34:43:750] <7882> nointerest:no
+DEBUG	[2015-08-08 22:34:43:750] <7882> quotabase:ÏÑ†ÌÉù:ÏùºÏãúÎ∂à:2Í∞úÏõî:3Í∞úÏõî:4Í∞úÏõî:5Í∞úÏõî:6Í∞úÏõî:7Í∞úÏõî:8Í∞úÏõî:9Í∞úÏõî:10Í∞úÏõî:11Í∞úÏõî:12Í∞úÏõî
+INFO	[2015-08-08 22:34:43:751] <7882> Check Field OK
+INFO	[2015-08-08 22:34:43:751] <7882> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-08-08 22:34:43:751] <7882> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-08-08 22:34:43:752] <7882> CHKFAKE KEY MAKE OK:MjAxNTA4MDgyMjM0NDM3NTE5NjA1Mw==
+
+INFO	[2015-08-08 22:34:43:752] <7882> END chkfake  Laptime:[0.001sec]
+INFO	[2015-08-08 22:34:43:752] <7882> ===============================================================
+INFO	[2015-08-08 22:34:43:968] <7857> START INIPHP securepay (V5036-141209)(OS:Linux3.14.44-32.39.amzn1.x86_64,PHP:5.3.29)
+DEBUG	[2015-08-08 22:34:43:968] <7857> inipayhome:/var/www/html/nsale/shop/inicis
+DEBUG	[2015-08-08 22:34:43:968] <7857> debug:false
+DEBUG	[2015-08-08 22:34:43:968] <7857> type:securepay
+DEBUG	[2015-08-08 22:34:43:968] <7857> pgid:INIphp
+DEBUG	[2015-08-08 22:34:43:968] <7857> subpgip:203.238.3.10
+DEBUG	[2015-08-08 22:34:43:968] <7857> admin:1111
+DEBUG	[2015-08-08 22:34:43:968] <7857> uid:
+DEBUG	[2015-08-08 22:34:43:968] <7857> goodname:¥ı∫Ì¿Ø∑¶ CO2 ≈∫ªÍ ø√≈≥∆—: ≈∫ªÍ¿∏∑Œ ∏∞¯∞¸∏Æ
+DEBUG	[2015-08-08 22:34:43:968] <7857> currency:WON
+DEBUG	[2015-08-08 22:34:43:968] <7857> mid:nsalecokr0
+DEBUG	[2015-08-08 22:34:43:968] <7857> rn:MjAxNTA4MDgyMjM0NDM3NTE5NjA1Mw==
+
+DEBUG	[2015-08-08 22:34:43:968] <7857> price:41500
+DEBUG	[2015-08-08 22:34:43:968] <7857> enctype:
+DEBUG	[2015-08-08 22:34:43:968] <7857> buyername:√÷∞Ì∞¸∏Æ¿⁄
+DEBUG	[2015-08-08 22:34:43:968] <7857> buyertel:124
+DEBUG	[2015-08-08 22:34:43:968] <7857> buyeremail:ilse090@nate.com
+DEBUG	[2015-08-08 22:34:43:968] <7857> paymethod:
+DEBUG	[2015-08-08 22:34:43:968] <7857> encrypted:
+DEBUG	[2015-08-08 22:34:43:968] <7857> sessionkey:
+DEBUG	[2015-08-08 22:34:43:968] <7857> url:http://54.64.7.8
+DEBUG	[2015-08-08 22:34:43:968] <7857> cardcode:
+DEBUG	[2015-08-08 22:34:43:968] <7857> parentemail:
+DEBUG	[2015-08-08 22:34:43:968] <7857> recvname:√÷∞Ì∞¸∏Æ¿⁄
+DEBUG	[2015-08-08 22:34:43:968] <7857> recvtel:124
+DEBUG	[2015-08-08 22:34:43:968] <7857> recvaddr:º≠øÔ ∞≠µø±∏ µ–√Ãµø 218 
+DEBUG	[2015-08-08 22:34:43:968] <7857> recvpostnum:134823
+DEBUG	[2015-08-08 22:34:43:968] <7857> recvmsg:
+DEBUG	[2015-08-08 22:34:43:968] <7857> joincard:
+DEBUG	[2015-08-08 22:34:43:968] <7857> joinexpire:
+DEBUG	[2015-08-08 22:34:43:968] <7857> id_customer:
+ERROR	[2015-08-08 22:34:44:48] <7857> « ºˆ«◊∏Ò(paymethod)¿Ã ¥©∂Ùµ«æ˙Ω¿¥œ¥Ÿ.
+INFO	[2015-08-08 22:34:44:49] <7857> END securepay [TX9225|« ºˆ«◊∏Ò(paymethod)¿Ã ¥©∂Ùµ«æ˙Ω¿¥œ¥Ÿ.] Laptime:[0.081sec]
+INFO	[2015-08-08 22:34:44:49] <7857> ===============================================================
+INFO	[2015-08-08 22:34:59:987] <7878> START INIPHP chkfake (V5036-141209)(OS:Linux3.14.44-32.39.amzn1.x86_64,PHP:5.3.29)
+DEBUG	[2015-08-08 22:34:59:987] <7878> inipayhome:/var/www/html/nsale/shop/inicis
+DEBUG	[2015-08-08 22:34:59:987] <7878> debug:false
+DEBUG	[2015-08-08 22:34:59:987] <7878> type:chkfake
+DEBUG	[2015-08-08 22:34:59:987] <7878> enctype:asym
+DEBUG	[2015-08-08 22:34:59:987] <7878> admin:1111
+DEBUG	[2015-08-08 22:34:59:987] <7878> checkopt:false
+DEBUG	[2015-08-08 22:34:59:987] <7878> mid:nsalecokr0
+DEBUG	[2015-08-08 22:34:59:987] <7878> price:41500
+DEBUG	[2015-08-08 22:34:59:987] <7878> nointerest:no
+DEBUG	[2015-08-08 22:34:59:987] <7878> quotabase:ÏÑ†ÌÉù:ÏùºÏãúÎ∂à:2Í∞úÏõî:3Í∞úÏõî:4Í∞úÏõî:5Í∞úÏõî:6Í∞úÏõî:7Í∞úÏõî:8Í∞úÏõî:9Í∞úÏõî:10Í∞úÏõî:11Í∞úÏõî:12Í∞úÏõî
+INFO	[2015-08-08 22:34:59:987] <7878> Check Field OK
+INFO	[2015-08-08 22:34:59:987] <7878> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-08-08 22:34:59:987] <7878> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-08-08 22:34:59:988] <7878> CHKFAKE KEY MAKE OK:MjAxNTA4MDgyMjM0NTk5ODcxMDczNA==
+
+INFO	[2015-08-08 22:34:59:988] <7878> END chkfake  Laptime:[0.001sec]
+INFO	[2015-08-08 22:34:59:988] <7878> ===============================================================
+INFO	[2015-08-08 22:35:00:174] <7877> START INIPHP securepay (V5036-141209)(OS:Linux3.14.44-32.39.amzn1.x86_64,PHP:5.3.29)
+DEBUG	[2015-08-08 22:35:00:174] <7877> inipayhome:/var/www/html/nsale/shop/inicis
+DEBUG	[2015-08-08 22:35:00:174] <7877> debug:false
+DEBUG	[2015-08-08 22:35:00:174] <7877> type:securepay
+DEBUG	[2015-08-08 22:35:00:174] <7877> pgid:INIphp
+DEBUG	[2015-08-08 22:35:00:174] <7877> subpgip:203.238.3.10
+DEBUG	[2015-08-08 22:35:00:174] <7877> admin:1111
+DEBUG	[2015-08-08 22:35:00:174] <7877> uid:
+DEBUG	[2015-08-08 22:35:00:174] <7877> goodname:¥ı∫Ì¿Ø∑¶ CO2 ≈∫ªÍ ø√≈≥∆—: ≈∫ªÍ¿∏∑Œ ∏∞¯∞¸∏Æ
+DEBUG	[2015-08-08 22:35:00:174] <7877> currency:WON
+DEBUG	[2015-08-08 22:35:00:174] <7877> mid:nsalecokr0
+DEBUG	[2015-08-08 22:35:00:174] <7877> rn:MjAxNTA4MDgyMjM0NTk5ODcxMDczNA==
+
+DEBUG	[2015-08-08 22:35:00:174] <7877> price:41500
+DEBUG	[2015-08-08 22:35:00:174] <7877> enctype:
+DEBUG	[2015-08-08 22:35:00:174] <7877> buyername:√÷∞Ì∞¸∏Æ¿⁄
+DEBUG	[2015-08-08 22:35:00:174] <7877> buyertel:124
+DEBUG	[2015-08-08 22:35:00:174] <7877> buyeremail:ilse090@nate.com
+DEBUG	[2015-08-08 22:35:00:174] <7877> paymethod:
+DEBUG	[2015-08-08 22:35:00:174] <7877> encrypted:
+DEBUG	[2015-08-08 22:35:00:174] <7877> sessionkey:
+DEBUG	[2015-08-08 22:35:00:174] <7877> url:http://54.64.7.8
+DEBUG	[2015-08-08 22:35:00:174] <7877> cardcode:
+DEBUG	[2015-08-08 22:35:00:174] <7877> parentemail:
+DEBUG	[2015-08-08 22:35:00:174] <7877> recvname:√÷∞Ì∞¸∏Æ¿⁄
+DEBUG	[2015-08-08 22:35:00:174] <7877> recvtel:124
+DEBUG	[2015-08-08 22:35:00:174] <7877> recvaddr:º≠øÔ ∞≠µø±∏ µ–√Ãµø 218 
+DEBUG	[2015-08-08 22:35:00:174] <7877> recvpostnum:134823
+DEBUG	[2015-08-08 22:35:00:174] <7877> recvmsg:
+DEBUG	[2015-08-08 22:35:00:174] <7877> joincard:
+DEBUG	[2015-08-08 22:35:00:174] <7877> joinexpire:
+DEBUG	[2015-08-08 22:35:00:174] <7877> id_customer:
+ERROR	[2015-08-08 22:35:00:217] <7877> « ºˆ«◊∏Ò(paymethod)¿Ã ¥©∂Ùµ«æ˙Ω¿¥œ¥Ÿ.
+INFO	[2015-08-08 22:35:00:217] <7877> END securepay [TX9225|« ºˆ«◊∏Ò(paymethod)¿Ã ¥©∂Ùµ«æ˙Ω¿¥œ¥Ÿ.] Laptime:[0.043sec]
+INFO	[2015-08-08 22:35:00:217] <7877> ===============================================================
+INFO	[2015-08-08 22:35:21:33] <7854> START INIPHP chkfake (V5036-141209)(OS:Linux3.14.44-32.39.amzn1.x86_64,PHP:5.3.29)
+DEBUG	[2015-08-08 22:35:21:33] <7854> inipayhome:/var/www/html/nsale/shop/inicis
+DEBUG	[2015-08-08 22:35:21:33] <7854> debug:false
+DEBUG	[2015-08-08 22:35:21:33] <7854> type:chkfake
+DEBUG	[2015-08-08 22:35:21:33] <7854> enctype:asym
+DEBUG	[2015-08-08 22:35:21:33] <7854> admin:1111
+DEBUG	[2015-08-08 22:35:21:33] <7854> checkopt:false
+DEBUG	[2015-08-08 22:35:21:33] <7854> mid:nsalecokr0
+DEBUG	[2015-08-08 22:35:21:33] <7854> price:4000
+DEBUG	[2015-08-08 22:35:21:33] <7854> nointerest:no
+DEBUG	[2015-08-08 22:35:21:33] <7854> quotabase:ÏÑ†ÌÉù:ÏùºÏãúÎ∂à:2Í∞úÏõî:3Í∞úÏõî:4Í∞úÏõî:5Í∞úÏõî:6Í∞úÏõî:7Í∞úÏõî:8Í∞úÏõî:9Í∞úÏõî:10Í∞úÏõî:11Í∞úÏõî:12Í∞úÏõî
+INFO	[2015-08-08 22:35:21:33] <7854> Check Field OK
+INFO	[2015-08-08 22:35:21:33] <7854> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-08-08 22:35:21:33] <7854> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-08-08 22:35:21:34] <7854> CHKFAKE KEY MAKE OK:MjAxNTA4MDgyMjM1MjEwMzMxNDYxOQ==
+
+INFO	[2015-08-08 22:35:21:34] <7854> END chkfake  Laptime:[0.001sec]
+INFO	[2015-08-08 22:35:21:34] <7854> ===============================================================
+INFO	[2015-08-08 22:36:49:130] <7758> START INIPHP chkfake (V5036-141209)(OS:Linux3.14.44-32.39.amzn1.x86_64,PHP:5.3.29)
+DEBUG	[2015-08-08 22:36:49:130] <7758> inipayhome:/var/www/html/nsale/shop/inicis
+DEBUG	[2015-08-08 22:36:49:130] <7758> debug:false
+DEBUG	[2015-08-08 22:36:49:130] <7758> type:chkfake
+DEBUG	[2015-08-08 22:36:49:130] <7758> enctype:asym
+DEBUG	[2015-08-08 22:36:49:130] <7758> admin:1111
+DEBUG	[2015-08-08 22:36:49:130] <7758> checkopt:false
+DEBUG	[2015-08-08 22:36:49:130] <7758> mid:nsalecokr0
+DEBUG	[2015-08-08 22:36:49:130] <7758> price:32000
+DEBUG	[2015-08-08 22:36:49:130] <7758> nointerest:no
+DEBUG	[2015-08-08 22:36:49:130] <7758> quotabase:ÏÑ†ÌÉù:ÏùºÏãúÎ∂à:2Í∞úÏõî:3Í∞úÏõî:4Í∞úÏõî:5Í∞úÏõî:6Í∞úÏõî:7Í∞úÏõî:8Í∞úÏõî:9Í∞úÏõî:10Í∞úÏõî:11Í∞úÏõî:12Í∞úÏõî
+INFO	[2015-08-08 22:36:49:130] <7758> Check Field OK
+INFO	[2015-08-08 22:36:49:130] <7758> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-08-08 22:36:49:130] <7758> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-08-08 22:36:49:131] <7758> CHKFAKE KEY MAKE OK:MjAxNTA4MDgyMjM2NDkxMzAyNDEzOQ==
+
+INFO	[2015-08-08 22:36:49:131] <7758> END chkfake  Laptime:[0.001sec]
+INFO	[2015-08-08 22:36:49:131] <7758> ===============================================================
+INFO	[2015-08-08 22:36:49:340] <7885> START INIPHP securepay (V5036-141209)(OS:Linux3.14.44-32.39.amzn1.x86_64,PHP:5.3.29)
+DEBUG	[2015-08-08 22:36:49:340] <7885> inipayhome:/var/www/html/nsale/shop/inicis
+DEBUG	[2015-08-08 22:36:49:340] <7885> debug:false
+DEBUG	[2015-08-08 22:36:49:340] <7885> type:securepay
+DEBUG	[2015-08-08 22:36:49:340] <7885> pgid:INIphp
+DEBUG	[2015-08-08 22:36:49:340] <7885> subpgip:203.238.3.10
+DEBUG	[2015-08-08 22:36:49:340] <7885> admin:1111
+DEBUG	[2015-08-08 22:36:49:340] <7885> uid:
+DEBUG	[2015-08-08 22:36:49:340] <7885> goodname:¥ı∫Ì¿Ø∑¶ CO2 ≈∫ªÍ ø√≈≥∆—: ≈∫ªÍ¿∏∑Œ ∏∞¯∞¸∏Æ
+DEBUG	[2015-08-08 22:36:49:340] <7885> currency:WON
+DEBUG	[2015-08-08 22:36:49:340] <7885> mid:nsalecokr0
+DEBUG	[2015-08-08 22:36:49:340] <7885> rn:MjAxNTA4MDgyMjM2NDkxMzAyNDEzOQ==
+
+DEBUG	[2015-08-08 22:36:49:340] <7885> price:32000
+DEBUG	[2015-08-08 22:36:49:340] <7885> enctype:
+DEBUG	[2015-08-08 22:36:49:340] <7885> buyername:º’ºº∏Ì
+DEBUG	[2015-08-08 22:36:49:340] <7885> buyertel:01087442558
+DEBUG	[2015-08-08 22:36:49:340] <7885> buyeremail:seaud@naver.com
+DEBUG	[2015-08-08 22:36:49:340] <7885> paymethod:
+DEBUG	[2015-08-08 22:36:49:340] <7885> encrypted:
+DEBUG	[2015-08-08 22:36:49:340] <7885> sessionkey:
+DEBUG	[2015-08-08 22:36:49:340] <7885> url:http://54.64.7.8
+DEBUG	[2015-08-08 22:36:49:340] <7885> cardcode:
+DEBUG	[2015-08-08 22:36:49:340] <7885> parentemail:
+DEBUG	[2015-08-08 22:36:49:340] <7885> recvname:º’ºº∏Ì
+DEBUG	[2015-08-08 22:36:49:340] <7885> recvtel:01087442558
+DEBUG	[2015-08-08 22:36:49:340] <7885> recvaddr:º≠øÔ ∞¸æ«±∏ √ª∏≤3∏∂±Ê 28-8 1232131
+DEBUG	[2015-08-08 22:36:49:340] <7885> recvpostnum:08732
+DEBUG	[2015-08-08 22:36:49:340] <7885> recvmsg:
+DEBUG	[2015-08-08 22:36:49:340] <7885> joincard:
+DEBUG	[2015-08-08 22:36:49:340] <7885> joinexpire:
+DEBUG	[2015-08-08 22:36:49:340] <7885> id_customer:
+ERROR	[2015-08-08 22:36:49:377] <7885> « ºˆ«◊∏Ò(paymethod)¿Ã ¥©∂Ùµ«æ˙Ω¿¥œ¥Ÿ.
+INFO	[2015-08-08 22:36:49:377] <7885> END securepay [TX9225|« ºˆ«◊∏Ò(paymethod)¿Ã ¥©∂Ùµ«æ˙Ω¿¥œ¥Ÿ.] Laptime:[0.037sec]
+INFO	[2015-08-08 22:36:49:377] <7885> ===============================================================
+INFO	[2015-08-08 23:08:05:606] <8032> START INIPHP chkfake (V5036-141209)(OS:Linux3.14.44-32.39.amzn1.x86_64,PHP:5.3.29)
+DEBUG	[2015-08-08 23:08:05:606] <8032> inipayhome:/var/www/html/nsale/shop/inicis
+DEBUG	[2015-08-08 23:08:05:606] <8032> debug:false
+DEBUG	[2015-08-08 23:08:05:606] <8032> type:chkfake
+DEBUG	[2015-08-08 23:08:05:606] <8032> enctype:asym
+DEBUG	[2015-08-08 23:08:05:606] <8032> admin:1111
+DEBUG	[2015-08-08 23:08:05:606] <8032> checkopt:false
+DEBUG	[2015-08-08 23:08:05:606] <8032> mid:nsalecokr0
+DEBUG	[2015-08-08 23:08:05:606] <8032> price:32300
+DEBUG	[2015-08-08 23:08:05:606] <8032> nointerest:no
+DEBUG	[2015-08-08 23:08:05:606] <8032> quotabase:ÏÑ†ÌÉù:ÏùºÏãúÎ∂à:2Í∞úÏõî:3Í∞úÏõî:4Í∞úÏõî:5Í∞úÏõî:6Í∞úÏõî:7Í∞úÏõî:8Í∞úÏõî:9Í∞úÏõî:10Í∞úÏõî:11Í∞úÏõî:12Í∞úÏõî
+INFO	[2015-08-08 23:08:05:606] <8032> Check Field OK
+INFO	[2015-08-08 23:08:05:606] <8032> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-08-08 23:08:05:606] <8032> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-08-08 23:08:05:607] <8032> CHKFAKE KEY MAKE OK:MjAxNTA4MDgyMzA4MDU2MDY3MDU3MQ==
+
+INFO	[2015-08-08 23:08:05:607] <8032> END chkfake  Laptime:[0.001sec]
+INFO	[2015-08-08 23:08:05:607] <8032> ===============================================================
+INFO	[2015-08-08 23:08:05:788] <8048> START INIPHP securepay (V5036-141209)(OS:Linux3.14.44-32.39.amzn1.x86_64,PHP:5.3.29)
+DEBUG	[2015-08-08 23:08:05:788] <8048> inipayhome:/var/www/html/nsale/shop/inicis
+DEBUG	[2015-08-08 23:08:05:788] <8048> debug:false
+DEBUG	[2015-08-08 23:08:05:788] <8048> type:securepay
+DEBUG	[2015-08-08 23:08:05:788] <8048> pgid:INIphp
+DEBUG	[2015-08-08 23:08:05:788] <8048> subpgip:203.238.3.10
+DEBUG	[2015-08-08 23:08:05:788] <8048> admin:1111
+DEBUG	[2015-08-08 23:08:05:788] <8048> uid:
+DEBUG	[2015-08-08 23:08:05:788] <8048> goodname:¥ı∫Ì¿Ø∑¶ ª˝∏Ì≈©∏≤<br>: ¿⁄ø¨ ∞Ì∫∏Ω¿ ºˆ∫–≈©∏≤
+DEBUG	[2015-08-08 23:08:05:788] <8048> currency:WON
+DEBUG	[2015-08-08 23:08:05:788] <8048> mid:nsalecokr0
+DEBUG	[2015-08-08 23:08:05:788] <8048> rn:MjAxNTA4MDgyMzA4MDU2MDY3MDU3MQ==
+
+DEBUG	[2015-08-08 23:08:05:788] <8048> price:32300
+DEBUG	[2015-08-08 23:08:05:788] <8048> enctype:
+DEBUG	[2015-08-08 23:08:05:788] <8048> buyername:º’ºº∏Ì
+DEBUG	[2015-08-08 23:08:05:788] <8048> buyertel:01087442558
+DEBUG	[2015-08-08 23:08:05:788] <8048> buyeremail:seaud@naver.com
+DEBUG	[2015-08-08 23:08:05:788] <8048> paymethod:
+DEBUG	[2015-08-08 23:08:05:788] <8048> encrypted:
+DEBUG	[2015-08-08 23:08:05:788] <8048> sessionkey:
+DEBUG	[2015-08-08 23:08:05:788] <8048> url:http://54.64.7.8
+DEBUG	[2015-08-08 23:08:05:788] <8048> cardcode:
+DEBUG	[2015-08-08 23:08:05:788] <8048> parentemail:
+DEBUG	[2015-08-08 23:08:05:788] <8048> recvname:º’ºº∏Ì
+DEBUG	[2015-08-08 23:08:05:788] <8048> recvtel:01087442558
+DEBUG	[2015-08-08 23:08:05:788] <8048> recvaddr:º≠øÔ ∞¸æ«±∏ √ª∏≤3∏∂±Ê 28-8 1232131231
+DEBUG	[2015-08-08 23:08:05:788] <8048> recvpostnum:08732
+DEBUG	[2015-08-08 23:08:05:788] <8048> recvmsg:
+DEBUG	[2015-08-08 23:08:05:788] <8048> joincard:
+DEBUG	[2015-08-08 23:08:05:788] <8048> joinexpire:
+DEBUG	[2015-08-08 23:08:05:788] <8048> id_customer:
+ERROR	[2015-08-08 23:08:05:826] <8048> « ºˆ«◊∏Ò(paymethod)¿Ã ¥©∂Ùµ«æ˙Ω¿¥œ¥Ÿ.
+INFO	[2015-08-08 23:08:05:826] <8048> END securepay [TX9225|« ºˆ«◊∏Ò(paymethod)¿Ã ¥©∂Ùµ«æ˙Ω¿¥œ¥Ÿ.] Laptime:[0.038sec]
+INFO	[2015-08-08 23:08:05:826] <8048> ===============================================================
+INFO	[2015-08-08 23:10:32:423] <7929> START INIPHP chkfake (V5036-141209)(OS:Linux3.14.44-32.39.amzn1.x86_64,PHP:5.3.29)
+DEBUG	[2015-08-08 23:10:32:423] <7929> inipayhome:/var/www/html/nsale/shop/inicis
+DEBUG	[2015-08-08 23:10:32:423] <7929> debug:false
+DEBUG	[2015-08-08 23:10:32:423] <7929> type:chkfake
+DEBUG	[2015-08-08 23:10:32:423] <7929> enctype:asym
+DEBUG	[2015-08-08 23:10:32:423] <7929> admin:1111
+DEBUG	[2015-08-08 23:10:32:423] <7929> checkopt:false
+DEBUG	[2015-08-08 23:10:32:423] <7929> mid:nsalecokr0
+DEBUG	[2015-08-08 23:10:32:423] <7929> price:32300
+DEBUG	[2015-08-08 23:10:32:423] <7929> nointerest:no
+DEBUG	[2015-08-08 23:10:32:423] <7929> quotabase:ÏÑ†ÌÉù:ÏùºÏãúÎ∂à:2Í∞úÏõî:3Í∞úÏõî:4Í∞úÏõî:5Í∞úÏõî:6Í∞úÏõî:7Í∞úÏõî:8Í∞úÏõî:9Í∞úÏõî:10Í∞úÏõî:11Í∞úÏõî:12Í∞úÏõî
+INFO	[2015-08-08 23:10:32:423] <7929> Check Field OK
+INFO	[2015-08-08 23:10:32:423] <7929> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-08-08 23:10:32:423] <7929> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-08-08 23:10:32:424] <7929> CHKFAKE KEY MAKE OK:MjAxNTA4MDgyMzEwMzI0MjM0OTA0Mw==
+
+INFO	[2015-08-08 23:10:32:424] <7929> END chkfake  Laptime:[0.001sec]
+INFO	[2015-08-08 23:10:32:424] <7929> ===============================================================
+INFO	[2015-08-08 23:10:32:594] <7949> START INIPHP securepay (V5036-141209)(OS:Linux3.14.44-32.39.amzn1.x86_64,PHP:5.3.29)
+DEBUG	[2015-08-08 23:10:32:594] <7949> inipayhome:/var/www/html/nsale/shop/inicis
+DEBUG	[2015-08-08 23:10:32:594] <7949> debug:false
+DEBUG	[2015-08-08 23:10:32:594] <7949> type:securepay
+DEBUG	[2015-08-08 23:10:32:594] <7949> pgid:INIphp
+DEBUG	[2015-08-08 23:10:32:594] <7949> subpgip:203.238.3.10
+DEBUG	[2015-08-08 23:10:32:594] <7949> admin:1111
+DEBUG	[2015-08-08 23:10:32:594] <7949> uid:
+DEBUG	[2015-08-08 23:10:32:594] <7949> goodname:¥ı∫Ì¿Ø∑¶ ª˝∏Ì≈©∏≤<br>: ¿⁄ø¨ ∞Ì∫∏Ω¿ ºˆ∫–≈©∏≤
+DEBUG	[2015-08-08 23:10:32:594] <7949> currency:WON
+DEBUG	[2015-08-08 23:10:32:594] <7949> mid:nsalecokr0
+DEBUG	[2015-08-08 23:10:32:594] <7949> rn:MjAxNTA4MDgyMzEwMzI0MjM0OTA0Mw==
+
+DEBUG	[2015-08-08 23:10:32:594] <7949> price:32300
+DEBUG	[2015-08-08 23:10:32:594] <7949> enctype:
+DEBUG	[2015-08-08 23:10:32:594] <7949> buyername:º’ºº∏Ì
+DEBUG	[2015-08-08 23:10:32:594] <7949> buyertel:01087442558
+DEBUG	[2015-08-08 23:10:32:594] <7949> buyeremail:seaud@naver.com
+DEBUG	[2015-08-08 23:10:32:594] <7949> paymethod:
+DEBUG	[2015-08-08 23:10:32:594] <7949> encrypted:
+DEBUG	[2015-08-08 23:10:32:594] <7949> sessionkey:
+DEBUG	[2015-08-08 23:10:32:594] <7949> url:http://54.64.7.8
+DEBUG	[2015-08-08 23:10:32:594] <7949> cardcode:
+DEBUG	[2015-08-08 23:10:32:594] <7949> parentemail:
+DEBUG	[2015-08-08 23:10:32:594] <7949> recvname:º’ºº∏Ì
+DEBUG	[2015-08-08 23:10:32:594] <7949> recvtel:01087442558
+DEBUG	[2015-08-08 23:10:32:594] <7949> recvaddr:º≠øÔ ∞¸æ«±∏ √ª∏≤3∏∂±Ê 28-8 1232131231
+DEBUG	[2015-08-08 23:10:32:594] <7949> recvpostnum:08732
+DEBUG	[2015-08-08 23:10:32:594] <7949> recvmsg:
+DEBUG	[2015-08-08 23:10:32:594] <7949> joincard:
+DEBUG	[2015-08-08 23:10:32:594] <7949> joinexpire:
+DEBUG	[2015-08-08 23:10:32:594] <7949> id_customer:
+ERROR	[2015-08-08 23:10:32:632] <7949> « ºˆ«◊∏Ò(paymethod)¿Ã ¥©∂Ùµ«æ˙Ω¿¥œ¥Ÿ.
+INFO	[2015-08-08 23:10:32:632] <7949> END securepay [TX9225|« ºˆ«◊∏Ò(paymethod)¿Ã ¥©∂Ùµ«æ˙Ω¿¥œ¥Ÿ.] Laptime:[0.038sec]
+INFO	[2015-08-08 23:10:32:632] <7949> ===============================================================
+INFO	[2015-08-08 23:11:51:689] <7955> START INIPHP chkfake (V5036-141209)(OS:Linux3.14.44-32.39.amzn1.x86_64,PHP:5.3.29)
+DEBUG	[2015-08-08 23:11:51:689] <7955> inipayhome:/var/www/html/nsale/shop/inicis
+DEBUG	[2015-08-08 23:11:51:689] <7955> debug:false
+DEBUG	[2015-08-08 23:11:51:689] <7955> type:chkfake
+DEBUG	[2015-08-08 23:11:51:689] <7955> enctype:asym
+DEBUG	[2015-08-08 23:11:51:689] <7955> admin:1111
+DEBUG	[2015-08-08 23:11:51:689] <7955> checkopt:false
+DEBUG	[2015-08-08 23:11:51:689] <7955> mid:nsalecokr0
+DEBUG	[2015-08-08 23:11:51:689] <7955> price:18300
+DEBUG	[2015-08-08 23:11:51:689] <7955> nointerest:no
+DEBUG	[2015-08-08 23:11:51:689] <7955> quotabase:ÏÑ†ÌÉù:ÏùºÏãúÎ∂à:2Í∞úÏõî:3Í∞úÏõî:4Í∞úÏõî:5Í∞úÏõî:6Í∞úÏõî:7Í∞úÏõî:8Í∞úÏõî:9Í∞úÏõî:10Í∞úÏõî:11Í∞úÏõî:12Í∞úÏõî
+INFO	[2015-08-08 23:11:51:689] <7955> Check Field OK
+INFO	[2015-08-08 23:11:51:689] <7955> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-08-08 23:11:51:689] <7955> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-08-08 23:11:51:690] <7955> CHKFAKE KEY MAKE OK:MjAxNTA4MDgyMzExNTE2ODkyMzY2NQ==
+
+INFO	[2015-08-08 23:11:51:690] <7955> END chkfake  Laptime:[0.001sec]
+INFO	[2015-08-08 23:11:51:690] <7955> ===============================================================
+INFO	[2015-08-08 23:11:52:491] <7953> START INIPHP securepay (V5036-141209)(OS:Linux3.14.44-32.39.amzn1.x86_64,PHP:5.3.29)
+DEBUG	[2015-08-08 23:11:52:491] <7953> inipayhome:/var/www/html/nsale/shop/inicis
+DEBUG	[2015-08-08 23:11:52:491] <7953> debug:false
+DEBUG	[2015-08-08 23:11:52:491] <7953> type:securepay
+DEBUG	[2015-08-08 23:11:52:491] <7953> pgid:INIphp
+DEBUG	[2015-08-08 23:11:52:491] <7953> subpgip:203.238.3.10
+DEBUG	[2015-08-08 23:11:52:491] <7953> admin:1111
+DEBUG	[2015-08-08 23:11:52:491] <7953> uid:
+DEBUG	[2015-08-08 23:11:52:491] <7953> goodname:¥ı∫Ì¿Ø∑¶ ≤…π∞ºº∑≥<br>: »≠¿Ã∆Æ¥◊/∞·¡°ƒ…æÓ/¿‚∆ºøœ»≠
+DEBUG	[2015-08-08 23:11:52:491] <7953> currency:WON
+DEBUG	[2015-08-08 23:11:52:491] <7953> mid:nsalecokr0
+DEBUG	[2015-08-08 23:11:52:491] <7953> rn:MjAxNTA4MDgyMzExNTE2ODkyMzY2NQ==
+
+DEBUG	[2015-08-08 23:11:52:491] <7953> price:18300
+DEBUG	[2015-08-08 23:11:52:491] <7953> enctype:
+DEBUG	[2015-08-08 23:11:52:491] <7953> buyername:º’ºº∏Ì
+DEBUG	[2015-08-08 23:11:52:491] <7953> buyertel:01087442558
+DEBUG	[2015-08-08 23:11:52:491] <7953> buyeremail:seaud@naver.com
+DEBUG	[2015-08-08 23:11:52:491] <7953> paymethod:
+DEBUG	[2015-08-08 23:11:52:491] <7953> encrypted:
+DEBUG	[2015-08-08 23:11:52:491] <7953> sessionkey:
+DEBUG	[2015-08-08 23:11:52:491] <7953> url:http://54.64.7.8
+DEBUG	[2015-08-08 23:11:52:491] <7953> cardcode:
+DEBUG	[2015-08-08 23:11:52:491] <7953> parentemail:
+DEBUG	[2015-08-08 23:11:52:491] <7953> recvname:º’ºº∏Ì
+DEBUG	[2015-08-08 23:11:52:491] <7953> recvtel:01087442558
+DEBUG	[2015-08-08 23:11:52:491] <7953> recvaddr:º≠øÔ ∞¸æ«±∏ √ª∏≤3∏∂±Ê 28-8 1231321
+DEBUG	[2015-08-08 23:11:52:491] <7953> recvpostnum:08732
+DEBUG	[2015-08-08 23:11:52:491] <7953> recvmsg:
+DEBUG	[2015-08-08 23:11:52:491] <7953> joincard:
+DEBUG	[2015-08-08 23:11:52:491] <7953> joinexpire:
+DEBUG	[2015-08-08 23:11:52:491] <7953> id_customer:
+ERROR	[2015-08-08 23:11:52:532] <7953> « ºˆ«◊∏Ò(paymethod)¿Ã ¥©∂Ùµ«æ˙Ω¿¥œ¥Ÿ.
+INFO	[2015-08-08 23:11:52:532] <7953> END securepay [TX9225|« ºˆ«◊∏Ò(paymethod)¿Ã ¥©∂Ùµ«æ˙Ω¿¥œ¥Ÿ.] Laptime:[0.041sec]
+INFO	[2015-08-08 23:11:52:532] <7953> ===============================================================
+INFO	[2015-08-08 23:15:26:168] <8032> START INIPHP chkfake (V5036-141209)(OS:Linux3.14.44-32.39.amzn1.x86_64,PHP:5.3.29)
+DEBUG	[2015-08-08 23:15:26:168] <8032> inipayhome:/var/www/html/nsale/shop/inicis
+DEBUG	[2015-08-08 23:15:26:168] <8032> debug:false
+DEBUG	[2015-08-08 23:15:26:168] <8032> type:chkfake
+DEBUG	[2015-08-08 23:15:26:168] <8032> enctype:asym
+DEBUG	[2015-08-08 23:15:26:168] <8032> admin:1111
+DEBUG	[2015-08-08 23:15:26:168] <8032> checkopt:false
+DEBUG	[2015-08-08 23:15:26:168] <8032> mid:nsalecokr0
+DEBUG	[2015-08-08 23:15:26:168] <8032> price:60000
+DEBUG	[2015-08-08 23:15:26:168] <8032> nointerest:no
+DEBUG	[2015-08-08 23:15:26:168] <8032> quotabase:ÏÑ†ÌÉù:ÏùºÏãúÎ∂à:2Í∞úÏõî:3Í∞úÏõî:4Í∞úÏõî:5Í∞úÏõî:6Í∞úÏõî:7Í∞úÏõî:8Í∞úÏõî:9Í∞úÏõî:10Í∞úÏõî:11Í∞úÏõî:12Í∞úÏõî
+INFO	[2015-08-08 23:15:26:168] <8032> Check Field OK
+INFO	[2015-08-08 23:15:26:168] <8032> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-08-08 23:15:26:168] <8032> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-08-08 23:15:26:169] <8032> CHKFAKE KEY MAKE OK:MjAxNTA4MDgyMzE1MjYxNjg5MDUxMw==
+
+INFO	[2015-08-08 23:15:26:169] <8032> END chkfake  Laptime:[0.001sec]
+INFO	[2015-08-08 23:15:26:169] <8032> ===============================================================
+INFO	[2015-08-08 23:15:27:458] <8037> START INIPHP securepay (V5036-141209)(OS:Linux3.14.44-32.39.amzn1.x86_64,PHP:5.3.29)
+DEBUG	[2015-08-08 23:15:27:458] <8037> inipayhome:/var/www/html/nsale/shop/inicis
+DEBUG	[2015-08-08 23:15:27:458] <8037> debug:false
+DEBUG	[2015-08-08 23:15:27:458] <8037> type:securepay
+DEBUG	[2015-08-08 23:15:27:458] <8037> pgid:INIphp
+DEBUG	[2015-08-08 23:15:27:458] <8037> subpgip:203.238.3.10
+DEBUG	[2015-08-08 23:15:27:458] <8037> admin:1111
+DEBUG	[2015-08-08 23:15:27:458] <8037> uid:
+DEBUG	[2015-08-08 23:15:27:458] <8037> goodname:¥ı∫Ì¿Ø∑¶ BEST 5¡æºº∆Æ<br>(20% ¿¸√º«“¿Œ)
+DEBUG	[2015-08-08 23:15:27:458] <8037> currency:WON
+DEBUG	[2015-08-08 23:15:27:458] <8037> mid:nsalecokr0
+DEBUG	[2015-08-08 23:15:27:458] <8037> rn:MjAxNTA4MDgyMzE1MjYxNjg5MDUxMw==
+
+DEBUG	[2015-08-08 23:15:27:458] <8037> price:60000
+DEBUG	[2015-08-08 23:15:27:458] <8037> enctype:
+DEBUG	[2015-08-08 23:15:27:458] <8037> buyername:º’ºº∏Ì
+DEBUG	[2015-08-08 23:15:27:458] <8037> buyertel:01087442558
+DEBUG	[2015-08-08 23:15:27:458] <8037> buyeremail:seaud@naver.com
+DEBUG	[2015-08-08 23:15:27:458] <8037> paymethod:
+DEBUG	[2015-08-08 23:15:27:458] <8037> encrypted:
+DEBUG	[2015-08-08 23:15:27:458] <8037> sessionkey:
+DEBUG	[2015-08-08 23:15:27:458] <8037> url:http://54.64.7.8
+DEBUG	[2015-08-08 23:15:27:458] <8037> cardcode:
+DEBUG	[2015-08-08 23:15:27:458] <8037> parentemail:
+DEBUG	[2015-08-08 23:15:27:458] <8037> recvname:º’ºº∏Ì
+DEBUG	[2015-08-08 23:15:27:458] <8037> recvtel:01087442558
+DEBUG	[2015-08-08 23:15:27:458] <8037> recvaddr:º≠øÔ ∞¸æ«±∏ √ª∏≤3∏∂±Ê 28-8 §∑§∑§∑§∑§∑
+DEBUG	[2015-08-08 23:15:27:458] <8037> recvpostnum:08732
+DEBUG	[2015-08-08 23:15:27:458] <8037> recvmsg:
+DEBUG	[2015-08-08 23:15:27:458] <8037> joincard:
+DEBUG	[2015-08-08 23:15:27:458] <8037> joinexpire:
+DEBUG	[2015-08-08 23:15:27:458] <8037> id_customer:
+ERROR	[2015-08-08 23:15:27:497] <8037> « ºˆ«◊∏Ò(paymethod)¿Ã ¥©∂Ùµ«æ˙Ω¿¥œ¥Ÿ.
+INFO	[2015-08-08 23:15:27:497] <8037> END securepay [TX9225|« ºˆ«◊∏Ò(paymethod)¿Ã ¥©∂Ùµ«æ˙Ω¿¥œ¥Ÿ.] Laptime:[0.039sec]
+INFO	[2015-08-08 23:15:27:497] <8037> ===============================================================
+INFO	[2015-08-08 23:17:07:789] <8057> START INIPHP chkfake (V5036-141209)(OS:Linux3.14.44-32.39.amzn1.x86_64,PHP:5.3.29)
+DEBUG	[2015-08-08 23:17:07:789] <8057> inipayhome:/var/www/html/nsale/shop/inicis
+DEBUG	[2015-08-08 23:17:07:789] <8057> debug:false
+DEBUG	[2015-08-08 23:17:07:789] <8057> type:chkfake
+DEBUG	[2015-08-08 23:17:07:789] <8057> enctype:asym
+DEBUG	[2015-08-08 23:17:07:789] <8057> admin:1111
+DEBUG	[2015-08-08 23:17:07:789] <8057> checkopt:false
+DEBUG	[2015-08-08 23:17:07:789] <8057> mid:nsalecokr0
+DEBUG	[2015-08-08 23:17:07:789] <8057> price:32300
+DEBUG	[2015-08-08 23:17:07:789] <8057> nointerest:no
+DEBUG	[2015-08-08 23:17:07:789] <8057> quotabase:ÏÑ†ÌÉù:ÏùºÏãúÎ∂à:2Í∞úÏõî:3Í∞úÏõî:4Í∞úÏõî:5Í∞úÏõî:6Í∞úÏõî:7Í∞úÏõî:8Í∞úÏõî:9Í∞úÏõî:10Í∞úÏõî:11Í∞úÏõî:12Í∞úÏõî
+INFO	[2015-08-08 23:17:07:789] <8057> Check Field OK
+INFO	[2015-08-08 23:17:07:789] <8057> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-08-08 23:17:07:790] <8057> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-08-08 23:17:07:790] <8057> CHKFAKE KEY MAKE OK:MjAxNTA4MDgyMzE3MDc3OTAxMjE4Nw==
+
+INFO	[2015-08-08 23:17:07:790] <8057> END chkfake  Laptime:[0.001sec]
+INFO	[2015-08-08 23:17:07:790] <8057> ===============================================================
+INFO	[2015-08-08 23:17:07:971] <8073> START INIPHP securepay (V5036-141209)(OS:Linux3.14.44-32.39.amzn1.x86_64,PHP:5.3.29)
+DEBUG	[2015-08-08 23:17:07:971] <8073> inipayhome:/var/www/html/nsale/shop/inicis
+DEBUG	[2015-08-08 23:17:07:971] <8073> debug:false
+DEBUG	[2015-08-08 23:17:07:971] <8073> type:securepay
+DEBUG	[2015-08-08 23:17:07:971] <8073> pgid:INIphp
+DEBUG	[2015-08-08 23:17:07:971] <8073> subpgip:203.238.3.10
+DEBUG	[2015-08-08 23:17:07:971] <8073> admin:1111
+DEBUG	[2015-08-08 23:17:07:971] <8073> uid:
+DEBUG	[2015-08-08 23:17:07:971] <8073> goodname:¥ı∫Ì¿Ø∑¶ ª˝∏Ì≈©∏≤<br>: ¿⁄ø¨ ∞Ì∫∏Ω¿ ºˆ∫–≈©∏≤
+DEBUG	[2015-08-08 23:17:07:971] <8073> currency:WON
+DEBUG	[2015-08-08 23:17:07:971] <8073> mid:nsalecokr0
+DEBUG	[2015-08-08 23:17:07:971] <8073> rn:MjAxNTA4MDgyMzE3MDc3OTAxMjE4Nw==
+
+DEBUG	[2015-08-08 23:17:07:971] <8073> price:32300
+DEBUG	[2015-08-08 23:17:07:971] <8073> enctype:
+DEBUG	[2015-08-08 23:17:07:971] <8073> buyername:º’ºº∏Ì
+DEBUG	[2015-08-08 23:17:07:971] <8073> buyertel:01087442558
+DEBUG	[2015-08-08 23:17:07:971] <8073> buyeremail:seaud@naver.com
+DEBUG	[2015-08-08 23:17:07:971] <8073> paymethod:
+DEBUG	[2015-08-08 23:17:07:971] <8073> encrypted:
+DEBUG	[2015-08-08 23:17:07:971] <8073> sessionkey:
+DEBUG	[2015-08-08 23:17:07:971] <8073> url:http://54.64.7.8
+DEBUG	[2015-08-08 23:17:07:971] <8073> cardcode:
+DEBUG	[2015-08-08 23:17:07:971] <8073> parentemail:
+DEBUG	[2015-08-08 23:17:07:971] <8073> recvname:º’ºº∏Ì
+DEBUG	[2015-08-08 23:17:07:971] <8073> recvtel:01087442558
+DEBUG	[2015-08-08 23:17:07:971] <8073> recvaddr:º≠øÔ ∞¸æ«±∏ √ª∏≤3∏∂±Ê 28-8 111111
+DEBUG	[2015-08-08 23:17:07:971] <8073> recvpostnum:08732
+DEBUG	[2015-08-08 23:17:07:971] <8073> recvmsg:
+DEBUG	[2015-08-08 23:17:07:971] <8073> joincard:
+DEBUG	[2015-08-08 23:17:07:971] <8073> joinexpire:
+DEBUG	[2015-08-08 23:17:07:971] <8073> id_customer:
+ERROR	[2015-08-08 23:17:08:8] <8073> « ºˆ«◊∏Ò(paymethod)¿Ã ¥©∂Ùµ«æ˙Ω¿¥œ¥Ÿ.
+INFO	[2015-08-08 23:17:08:9] <8073> END securepay [TX9225|« ºˆ«◊∏Ò(paymethod)¿Ã ¥©∂Ùµ«æ˙Ω¿¥œ¥Ÿ.] Laptime:[0.037sec]
+INFO	[2015-08-08 23:17:08:9] <8073> ===============================================================
+INFO	[2015-08-08 23:17:56:773] <8072> START INIPHP chkfake (V5036-141209)(OS:Linux3.14.44-32.39.amzn1.x86_64,PHP:5.3.29)
+DEBUG	[2015-08-08 23:17:56:774] <8072> inipayhome:/var/www/html/nsale/shop/inicis
+DEBUG	[2015-08-08 23:17:56:774] <8072> debug:false
+DEBUG	[2015-08-08 23:17:56:774] <8072> type:chkfake
+DEBUG	[2015-08-08 23:17:56:774] <8072> enctype:asym
+DEBUG	[2015-08-08 23:17:56:774] <8072> admin:1111
+DEBUG	[2015-08-08 23:17:56:774] <8072> checkopt:false
+DEBUG	[2015-08-08 23:17:56:774] <8072> mid:nsalecokr0
+DEBUG	[2015-08-08 23:17:56:774] <8072> price:32300
+DEBUG	[2015-08-08 23:17:56:774] <8072> nointerest:no
+DEBUG	[2015-08-08 23:17:56:774] <8072> quotabase:ÏÑ†ÌÉù:ÏùºÏãúÎ∂à:2Í∞úÏõî:3Í∞úÏõî:4Í∞úÏõî:5Í∞úÏõî:6Í∞úÏõî:7Í∞úÏõî:8Í∞úÏõî:9Í∞úÏõî:10Í∞úÏõî:11Í∞úÏõî:12Í∞úÏõî
+INFO	[2015-08-08 23:17:56:774] <8072> Check Field OK
+INFO	[2015-08-08 23:17:56:774] <8072> MERCHANT PRIV KEY LOAD OK
+INFO	[2015-08-08 23:17:56:774] <8072> MERCHANT PUB KEY LOAD OK []
+INFO	[2015-08-08 23:17:56:775] <8072> CHKFAKE KEY MAKE OK:MjAxNTA4MDgyMzE3NTY3NzQ0NjcwOA==
+
+INFO	[2015-08-08 23:17:56:775] <8072> END chkfake  Laptime:[0.001sec]
+INFO	[2015-08-08 23:17:56:775] <8072> ===============================================================
+INFO	[2015-08-08 23:17:56:989] <8061> START INIPHP securepay (V5036-141209)(OS:Linux3.14.44-32.39.amzn1.x86_64,PHP:5.3.29)
+DEBUG	[2015-08-08 23:17:56:989] <8061> inipayhome:/var/www/html/nsale/shop/inicis
+DEBUG	[2015-08-08 23:17:56:989] <8061> debug:false
+DEBUG	[2015-08-08 23:17:56:989] <8061> type:securepay
+DEBUG	[2015-08-08 23:17:56:989] <8061> pgid:INIphp
+DEBUG	[2015-08-08 23:17:56:989] <8061> subpgip:203.238.3.10
+DEBUG	[2015-08-08 23:17:56:989] <8061> admin:1111
+DEBUG	[2015-08-08 23:17:56:989] <8061> uid:
+DEBUG	[2015-08-08 23:17:56:989] <8061> goodname:¥ı∫Ì¿Ø∑¶ ª˝∏Ì≈©∏≤<br>: ¿⁄ø¨ ∞Ì∫∏Ω¿ ºˆ∫–≈©∏≤
+DEBUG	[2015-08-08 23:17:56:989] <8061> currency:WON
+DEBUG	[2015-08-08 23:17:56:989] <8061> mid:nsalecokr0
+DEBUG	[2015-08-08 23:17:56:989] <8061> rn:MjAxNTA4MDgyMzE3NTY3NzQ0NjcwOA==
+
+DEBUG	[2015-08-08 23:17:56:989] <8061> price:32300
+DEBUG	[2015-08-08 23:17:56:989] <8061> enctype:
+DEBUG	[2015-08-08 23:17:56:989] <8061> buyername:º’ºº∏Ì
+DEBUG	[2015-08-08 23:17:56:989] <8061> buyertel:0108744255
+DEBUG	[2015-08-08 23:17:56:989] <8061> buyeremail:seses@„Ñ¥.2
+DEBUG	[2015-08-08 23:17:56:989] <8061> paymethod:
+DEBUG	[2015-08-08 23:17:56:989] <8061> encrypted:
+DEBUG	[2015-08-08 23:17:56:989] <8061> sessionkey:
+DEBUG	[2015-08-08 23:17:56:989] <8061> url:http://54.64.7.8
+DEBUG	[2015-08-08 23:17:56:989] <8061> cardcode:
+DEBUG	[2015-08-08 23:17:56:989] <8061> parentemail:
+DEBUG	[2015-08-08 23:17:56:989] <8061> recvname:º’ºº∏Ì
+DEBUG	[2015-08-08 23:17:56:989] <8061> recvtel:0108744255
+DEBUG	[2015-08-08 23:17:56:989] <8061> recvaddr:º≠øÔ ∞¸æ«±∏ √ª∏≤3∏∂±Ê 28-8 1231312
+DEBUG	[2015-08-08 23:17:56:989] <8061> recvpostnum:08732
+DEBUG	[2015-08-08 23:17:56:989] <8061> recvmsg:
+DEBUG	[2015-08-08 23:17:56:989] <8061> joincard:
+DEBUG	[2015-08-08 23:17:56:989] <8061> joinexpire:
+DEBUG	[2015-08-08 23:17:56:989] <8061> id_customer:
+ERROR	[2015-08-08 23:17:57:28] <8061> « ºˆ«◊∏Ò(paymethod)¿Ã ¥©∂Ùµ«æ˙Ω¿¥œ¥Ÿ.
+INFO	[2015-08-08 23:17:57:29] <8061> END securepay [TX9225|« ºˆ«◊∏Ò(paymethod)¿Ã ¥©∂Ùµ«æ˙Ω¿¥œ¥Ÿ.] Laptime:[0.04sec]
+INFO	[2015-08-08 23:17:57:29] <8061> ===============================================================
